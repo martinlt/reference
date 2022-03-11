@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T17:05:43.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="X4-t2zGPOrKeX4UmjC9o" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-11T17:07:02.559Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="zrFLEUuh76DEGYzET2cA" version="16.6.4" type="github" pages="3">
   <diagram id="YRAR-I3iW_ACvrK7R6hZ" name="Context Diagram">
     <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -193,6 +193,15 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UTyRkKOIp3BVwUVsx2RV-0" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#d5e8d4;align=left;spacingLeft=10;strokeColor=#82b366;rounded=1;arcSize=11;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;opacity=20;" vertex="1" parent="wFlY0LyXYNupdCXruJlq-1">
+          <mxGeometry x="890" y="650" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UTyRkKOIp3BVwUVsx2RV-1" value="In-scope" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d5e8d4;top=1;left=1;bottom=1;right=1;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;strokeColor=#82b366;rounded=0;sketch=1;strokeWidth=1;" vertex="1" parent="UTyRkKOIp3BVwUVsx2RV-0">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UTyRkKOIp3BVwUVsx2RV-3" value="Out of scope" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=1;left=1;bottom=1;right=1;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;rounded=0;sketch=1;strokeColor=#b85450;" vertex="1" parent="UTyRkKOIp3BVwUVsx2RV-0">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
