@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T12:51:31.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9A0PQAKKqgAPnD1CrmYx" version="17.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-14T13:28:53.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="JrJXUQ9DbjjnQ0wdIT7M" version="17.1.2" type="github" pages="3">
   <diagram id="YRAR-I3iW_ACvrK7R6hZ" name="Context Diagram">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -207,7 +207,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GNbTltN_QR_Pi61CCpcw" name="Conceptual Data Model">
-    <mxGraphModel dx="1422" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="tjthlRiT6SvBU4lU26qR-0" />
         <mxCell id="tjthlRiT6SvBU4lU26qR-1" parent="tjthlRiT6SvBU4lU26qR-0" />
@@ -392,16 +392,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AG6-5pD6ZTik0UvCejX-0" value="Risk Database" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="tjthlRiT6SvBU4lU26qR-1">
+        <mxCell id="6AG6-5pD6ZTik0UvCejX-0" value="Risk Database" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;sketch=1;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" parent="tjthlRiT6SvBU4lU26qR-1" vertex="1">
           <mxGeometry x="670" y="80" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6AG6-5pD6ZTik0UvCejX-1" value="records risks using" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;sketch=1;strokeColor=#FF6392;fontColor=#5AA9E6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="tjthlRiT6SvBU4lU26qR-1" source="NWsNslIrE-gvmoEUSblr-0" target="6AG6-5pD6ZTik0UvCejX-0">
+        <mxCell id="6AG6-5pD6ZTik0UvCejX-1" value="records risks using" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;sketch=1;strokeColor=#FF6392;fontColor=#5AA9E6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="tjthlRiT6SvBU4lU26qR-1" source="NWsNslIrE-gvmoEUSblr-0" target="6AG6-5pD6ZTik0UvCejX-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="275" as="sourcePoint" />
             <mxPoint x="820" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6AG6-5pD6ZTik0UvCejX-3" value="transferred to" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;sketch=1;strokeColor=#FF6392;fontColor=#5AA9E6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="tjthlRiT6SvBU4lU26qR-1" target="NWsNslIrE-gvmoEUSblr-0">
+        <mxCell id="6AG6-5pD6ZTik0UvCejX-3" value="transferred to" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=1;curved=0;sketch=1;strokeColor=#FF6392;fontColor=#5AA9E6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="tjthlRiT6SvBU4lU26qR-1" target="NWsNslIrE-gvmoEUSblr-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="740" y="410" as="sourcePoint" />
             <mxPoint x="820" y="415" as="targetPoint" />
@@ -411,12 +411,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LcxkQeNiOd2DVYdwk_hV" name="High Level Design">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="NEUEdsQqPpQnwkxKzsq--0" />
         <mxCell id="NEUEdsQqPpQnwkxKzsq--1" parent="NEUEdsQqPpQnwkxKzsq--0" />
         <mxCell id="vpXtoAXPdcBHzKHd8pFw-8" value="HS2 Azure Tenancy" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;dashed=1;" parent="NEUEdsQqPpQnwkxKzsq--1" vertex="1">
           <mxGeometry x="360" y="110" width="470" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="N5D7ZndyVnpmIzskEiBW-0" value="&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;Defender for SQL" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=8;verticalAlign=bottom;dashed=1;" vertex="1" parent="NEUEdsQqPpQnwkxKzsq--1">
+          <mxGeometry x="406" y="340" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yYjnLmo1uwe7r5eVD2xl-0" value="Contractor Safetibase&lt;br&gt;Site(s)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="NEUEdsQqPpQnwkxKzsq--1" vertex="1">
           <mxGeometry x="220" y="310" width="80" height="80" as="geometry" />
@@ -426,7 +429,7 @@
             <mxPoint x="300" y="500" as="sourcePoint" />
             <mxPoint x="444" y="480" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="430" />
+              <mxPoint x="390" y="420" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -476,9 +479,9 @@
         <mxCell id="vpXtoAXPdcBHzKHd8pFw-1" value="Azure&lt;br&gt;SQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="NEUEdsQqPpQnwkxKzsq--1" vertex="1">
           <mxGeometry x="430" y="350" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vpXtoAXPdcBHzKHd8pFw-2" value="Residual&lt;br style=&quot;font-size: 8px;&quot;&gt;Risks" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;fontSize=8;entryX=0.299;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;" parent="NEUEdsQqPpQnwkxKzsq--1" source="yYjnLmo1uwe7r5eVD2xl-7" target="vpXtoAXPdcBHzKHd8pFw-1" edge="1">
+        <mxCell id="vpXtoAXPdcBHzKHd8pFw-2" value="Residual&lt;br style=&quot;font-size: 8px;&quot;&gt;Risks" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;fontSize=8;strokeColor=#788AA3;fontColor=#46495D;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="NEUEdsQqPpQnwkxKzsq--1" source="0kHErsMnZP6MtcsPANFo-19" target="0kHErsMnZP6MtcsPANFo-16" edge="1">
           <mxGeometry x="-0.0086" y="-4" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="330" as="sourcePoint" />
+            <mxPoint x="230" y="620" as="sourcePoint" />
             <mxPoint x="530" y="260" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
