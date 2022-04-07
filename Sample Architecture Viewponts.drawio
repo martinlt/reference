@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T11:27:54.549Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ZjHyHw6lye3nnB9GNR8w" version="17.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T11:31:08.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="vltZD8o7LI4wcanNq99N" version="17.2.3" type="github">
   <diagram id="XJIKVr2EPAVL5tjpcIaG" name="Context Diagram">
     <mxGraphModel dx="1248" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
             <mxPoint x="25" y="22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-34" value="Business&lt;br&gt;Rules&lt;br&gt;Engine" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontSize=9;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-34" value="Business&lt;br&gt;Rules&lt;br&gt;Engine" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontSize=9;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="360" y="930" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-35" value="Product&lt;br&gt;Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
@@ -208,8 +208,20 @@
         <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-50" value="&lt;ul style=&quot;outline: none ; margin: 0px 0px 18px 18px ; padding: 0px ; border: 0px ; font-stretch: inherit ; font-size: 10px ; line-height: inherit ; font-family: &amp;#34;open sans&amp;#34; , sans-serif ; vertical-align: baseline ; list-style: outside square ; color: rgb(51 , 51 , 51) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;li style=&quot;outline: none ; margin: 0px ; padding: 0px ; border: 0px ; font-variant: inherit ; font-weight: inherit ; font-stretch: inherit ; font-size: 10px ; line-height: inherit ; font-family: inherit ; vertical-align: baseline&quot;&gt;&lt;span style=&quot;outline: none ; margin: 0px ; padding: 0px ; border: 0px ; font-variant: inherit ; font-weight: inherit ; font-stretch: inherit ; font-size: 10px ; line-height: inherit ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;Clearly show the scope and boundaries of a system at a glance&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none ; margin: 0px ; padding: 0px ; border: 0px ; font-variant: inherit ; font-weight: inherit ; font-stretch: inherit ; font-size: 10px ; line-height: inherit ; font-family: inherit ; vertical-align: baseline&quot;&gt;&lt;span style=&quot;outline: none ; margin: 0px ; padding: 0px ; border: 0px ; font-variant: inherit ; font-weight: inherit ; font-stretch: inherit ; font-size: 10px ; line-height: inherit ; font-family: &amp;#34;arial&amp;#34; ; vertical-align: baseline&quot;&gt;No technical knowledge should be assumed or required to understand the diagram&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;outline: none ; margin: 0px ; padding: 0px ; border: 0px ; font-variant: inherit ; font-weight: inherit ; font-stretch: inherit ; font-size: 10px ; line-height: inherit ; font-family: inherit ; vertical-align: baseline&quot;&gt;&lt;span style=&quot;font-family: inherit ; font-size: 10px ; font-weight: inherit&quot;&gt;Useful to a wide audience including stakeholders, business analysts, security, service, etc.&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontStyle=2;sketch=1;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="10" y="170" width="450" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-51" value="EXAMPLE:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#46495D;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-51" value="EXAMPLE:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#46495D;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="15" y="260" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-52" value="Legend" style="align=left;fontSize=11;fontStyle=1;strokeColor=none;fillColor=none;fontColor=#4D4D4D;spacingTop=-8;resizable=0;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="260" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-53" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=none;align=left;spacingLeft=10;strokeColor=none;rounded=1;arcSize=11;fontColor=#FFFFFF;resizable=0;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-54" value="In scope" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d5e8d4;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;strokeColor=#82b366;rounded=0;sketch=1;" vertex="1" parent="Ufb8Q-PfnBUjeyDLYeq_-53">
+          <mxGeometry width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-55" value="Out of scope" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;rounded=0;sketch=1;strokeColor=#b85450;strokeWidth=1;perimeterSpacing=0;" vertex="1" parent="Ufb8Q-PfnBUjeyDLYeq_-53">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
