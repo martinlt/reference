@@ -1,32 +1,208 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T10:35:09.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="nbdXMc-aJodVb2ysp1au" version="17.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T11:22:39.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="-6xuiDzUD1AgS5-nwYPp" version="17.2.3" type="github">
   <diagram id="XJIKVr2EPAVL5tjpcIaG" name="Context Diagram">
     <mxGraphModel dx="1248" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-3" value="System" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-3" value="System" style="whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-4" value="Datastore" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-4" value="Datastore" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="20" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-5" value="Process" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-5" value="Process" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-6" value="&lt;h1 style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; ; font-weight: normal&quot;&gt;A Context Diagram provides no information about the timing or sequencing of processes It should not be confused with a flowchart or process flow which can show these things. Use a sketch style to indicate draft status. Use a key to show what is in/out of scope.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; ; font-size: 9px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;Start by showing the system under consideration as a single high-level process. Then add the relationship that the system has with other external entities (systems, organisations, external data stores, etc.)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#46495D;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="560" y="20" width="246" height="110" as="geometry" />
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-6" value="&lt;h1 style=&quot;font-size: 9px&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; ; font-weight: normal&quot;&gt;A Context Diagram provides no information about the timing or sequencing of processes It should not be confused with a flowchart or process flow which can show these things. Use a sketch style to indicate draft status. Use a key to show what is in/out of scope.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; ; font-size: 9px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;Start by showing the system under consideration as a single high-level process. Then add the relationship that the system has with other external entities (systems, organisations, external data stores, etc.)&lt;br&gt;&lt;br&gt;Actors can be external companies, internal departments or business roles adopted by internal users.&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#46495D;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="20" width="330" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-9" value="Information&lt;br&gt;Flow" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-9" value="Information&lt;br&gt;Flow" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" edge="1" parent="1">
           <mxGeometry x="0.2208" y="-17" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="60" as="sourcePoint" />
-            <mxPoint x="500" y="90" as="targetPoint" />
+            <mxPoint x="370" y="60" as="sourcePoint" />
+            <mxPoint x="470" y="85" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="20" />
+              <mxPoint x="430" y="30" />
             </Array>
             <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;strokeWidth=3;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1" y="160" as="sourcePoint" />
+            <mxPoint x="820" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-11" value="New Business Application" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="320" y="575" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-12" value="Print Supplier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-14" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-15" value="Content&lt;br&gt;Store" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-16" value="Customer&lt;br&gt;Intelligence&lt;br&gt;System" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="650" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontSize=9;direction=north;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="106" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-23" value="External Entities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="120" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-24" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="570" as="sourcePoint" />
+            <mxPoint x="200" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-25" value="Daily&lt;br&gt;Print&lt;br&gt;File" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-24">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-26" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="440" as="sourcePoint" />
+            <mxPoint x="110" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-27" value="Offer Letter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-26">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-28" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;entryX=-0.014;entryY=0.621;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ufb8Q-PfnBUjeyDLYeq_-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="610" as="sourcePoint" />
+            <mxPoint x="210" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-29" value="Application&lt;br&gt;for&lt;br&gt;Something" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-28">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint x="-31" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-30" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;entryX=0.642;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ufb8Q-PfnBUjeyDLYeq_-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="450" as="sourcePoint" />
+            <mxPoint x="328.03999999999996" y="671.94" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-31" value="Product&lt;br&gt;Images" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-30">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint x="11" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-32" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;exitX=-0.093;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.057;entryY=0.497;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ufb8Q-PfnBUjeyDLYeq_-16" target="Ufb8Q-PfnBUjeyDLYeq_-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="640" as="sourcePoint" />
+            <mxPoint x="490" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-33" value="Contact&lt;br&gt;Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-32">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint x="25" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-34" value="Business&lt;br&gt;Rules&lt;br&gt;Engine" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="360" y="930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-35" value="Product&lt;br&gt;Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="830" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-36" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;entryX=0.618;entryY=-0.078;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.655;exitY=1.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ufb8Q-PfnBUjeyDLYeq_-11" target="Ufb8Q-PfnBUjeyDLYeq_-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="650" as="sourcePoint" />
+            <mxPoint x="650" y="670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-37" value="Application&lt;br&gt;Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-36">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint x="-8" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-38" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="910" as="sourcePoint" />
+            <mxPoint x="370" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-39" value="Decision" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-38">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint x="24" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-40" value="Blacklist" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="620" y="880" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-41" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ufb8Q-PfnBUjeyDLYeq_-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="910" as="sourcePoint" />
+            <mxPoint x="360" y="870" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-42" value="Business&lt;br&gt;Rules" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-41">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint x="-29" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-43" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ufb8Q-PfnBUjeyDLYeq_-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="820" as="sourcePoint" />
+            <mxPoint x="370" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-44" value="Product&lt;br&gt;Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-43">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint x="-12" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-47" value="" style="endArrow=classic;html=1;fontSize=9;strokeWidth=1;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ufb8Q-PfnBUjeyDLYeq_-40" target="Ufb8Q-PfnBUjeyDLYeq_-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="830" as="sourcePoint" />
+            <mxPoint x="380" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ufb8Q-PfnBUjeyDLYeq_-48" value="Subjects&lt;br&gt;To Avoid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=9;" vertex="1" connectable="0" parent="Ufb8Q-PfnBUjeyDLYeq_-47">
+          <mxGeometry x="0.2671" y="9" relative="1" as="geometry">
+            <mxPoint x="11" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
