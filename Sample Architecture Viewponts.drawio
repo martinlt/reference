@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T14:47:24.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="RY71lyXq66hTBmUZNdwR" version="17.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-08T09:20:46.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="cnRSd-YgkoTwpaNeN9zn" version="17.2.3" type="github" pages="2">
   <diagram id="XJIKVr2EPAVL5tjpcIaG" name="Context Diagram">
     <mxGraphModel dx="1248" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -262,6 +262,54 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mHuGXJLUEZLkEdG1UiV2-1" value="&lt;h1 style=&quot;font-size: 9px;&quot;&gt;&lt;/h1&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 9px; background-color: rgb(255, 255, 255);&quot;&gt;A Conceptual Data Model is a diagram identifying the business concepts (entities) and the relationships between these concepts in order to gain, reflect, and document understanding of the organisation’s business, from a data perspective.&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 9px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;/span&gt;&lt;p class=&quot;&quot; style=&quot;margin: 1rem 0px; overflow-wrap: break-word; color: rgb(0, 0, 0); font-size: 9px; background-color: rgb(255, 255, 255);&quot;&gt;The Conceptual Data Model typically does not contain attributes, or if it does only significant attributes.&lt;/p&gt;&lt;p class=&quot;&quot; style=&quot;margin: 1rem 0px; overflow-wrap: break-word; color: rgb(0, 0, 0); font-size: 9px; background-color: rgb(255, 255, 255);&quot;&gt;The Conceptual Data Model is technology and application independent.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#46495D;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mHuGXJLUEZLkEdG1UiV2-2" value="Classname" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;labelBorderColor=none;fontFamily=Helvetica;fontSize=9;strokeColor=default;strokeWidth=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="25" y="210" width="140" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="mHuGXJLUEZLkEdG1UiV2-3" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;labelBorderColor=none;fontFamily=Helvetica;fontSize=9;movable=0;resizable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="mHuGXJLUEZLkEdG1UiV2-2">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mHuGXJLUEZLkEdG1UiV2-4" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;labelBorderColor=none;fontFamily=Helvetica;fontSize=9;movable=0;resizable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="mHuGXJLUEZLkEdG1UiV2-2">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mHuGXJLUEZLkEdG1UiV2-5" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;labelBorderColor=none;fontFamily=Helvetica;fontSize=9;movable=0;resizable=0;deletable=0;editable=0;connectable=0;" vertex="1" parent="mHuGXJLUEZLkEdG1UiV2-2">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mHuGXJLUEZLkEdG1UiV2-6" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="40" y="440" as="sourcePoint" />
+            <mxPoint x="140" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iItWJ1u7WJkONAleYyP1-2" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="40" y="500" as="sourcePoint" />
+            <mxPoint x="140" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iItWJ1u7WJkONAleYyP1-3" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;fontFamily=Helvetica;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="380" as="sourcePoint" />
+            <mxPoint x="140" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iItWJ1u7WJkONAleYyP1-4" value="parent" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;rounded=0;labelBorderColor=none;fontFamily=Helvetica;fontSize=9;strokeColor=default;strokeWidth=1;movable=0;rotatable=0;deletable=0;editable=0;connectable=0;" connectable="0" vertex="1" parent="iItWJ1u7WJkONAleYyP1-3">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iItWJ1u7WJkONAleYyP1-5" value="child" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;rounded=0;labelBorderColor=none;fontFamily=Helvetica;fontSize=9;strokeColor=default;strokeWidth=1;movable=0;rotatable=0;deletable=0;editable=0;connectable=0;" connectable="0" vertex="1" parent="iItWJ1u7WJkONAleYyP1-3">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iItWJ1u7WJkONAleYyP1-6" value="&lt;h1 style=&quot;font-size: 9px&quot;&gt;&lt;/h1&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Label all relationships, add a direction indicator if required,&amp;nbsp;&lt;/span&gt;&lt;/font&gt;Define multiplicity if known.&lt;br&gt;&lt;br&gt;Add a key to the diagram to clearly indicate which entities are in-scope. Use sketch style to indicate if a diagram is draft." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#46495D;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="10" y="550" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gnPWmLlWBHvYUIiypMHn-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=9;strokeWidth=3;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;connectable=0;sketch=1;strokeColor=#788AA3;fontColor=#46495D;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="10" as="sourcePoint" />
+            <mxPoint x="200" y="812.1391027113971" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
