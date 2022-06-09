@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T10:01:39.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="NVhRdpZ45M-X9IYxfiQv" version="18.2.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-06-09T10:04:03.640Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="wFV7fccMc4mtbm7DtdoU" version="18.2.0" type="github" pages="5">
   <diagram id="YRAR-I3iW_ACvrK7R6hZ" name="Context Diagram">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -840,26 +840,8 @@
         <mxCell id="iHs7LD-IqGQmI_rmky4u-27" value="Contractor&lt;br&gt;SharePoint&lt;br&gt;1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;sketch=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-1">
           <mxGeometry x="1080" y="229" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iHs7LD-IqGQmI_rmky4u-31" value="HS2 Test Tenant&#xa;(hs2test.org.uk)" style="swimlane;startSize=0;rounded=0;sketch=1;verticalAlign=bottom;dashed=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=11;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-1">
+        <mxCell id="iHs7LD-IqGQmI_rmky4u-31" value="HS2 Test Tenant&#xa;(hs2test.org.uk)" style="swimlane;startSize=0;rounded=0;sketch=1;verticalAlign=bottom;dashed=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=11;container=0;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-1">
           <mxGeometry x="530" y="179" width="280" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="iHs7LD-IqGQmI_rmky4u-36" value="Power BI" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;fontSize=11;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-31">
-          <mxGeometry x="30" y="50" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iHs7LD-IqGQmI_rmky4u-37" value="PowerApp" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;fontSize=11;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-31">
-          <mxGeometry x="30" y="390" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iHs7LD-IqGQmI_rmky4u-38" value="Dataverse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;sketch=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=11;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-31">
-          <mxGeometry x="40" y="163" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iHs7LD-IqGQmI_rmky4u-39" value="Power Automate" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;fontSize=11;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-31">
-          <mxGeometry x="30" y="280" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="FNWk3Mcq8dCl3-6HoDGA-0" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;sketch=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=11;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-31">
-          <mxGeometry x="180" y="163" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="FNWk3Mcq8dCl3-6HoDGA-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;fontSize=11;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-31">
-          <mxGeometry x="170" y="50" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iHs7LD-IqGQmI_rmky4u-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0.525;entryY=1.088;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;labelBackgroundColor=#F1FAEE;" edge="1" parent="iHs7LD-IqGQmI_rmky4u-1" target="iHs7LD-IqGQmI_rmky4u-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -929,6 +911,24 @@
             <mxPoint x="270" y="70" as="sourcePoint" />
             <mxPoint x="380" y="68.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iHs7LD-IqGQmI_rmky4u-36" value="Power BI" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;fontSize=11;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-1">
+          <mxGeometry x="560" y="229" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iHs7LD-IqGQmI_rmky4u-37" value="PowerApp" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;fontSize=11;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-1">
+          <mxGeometry x="560" y="569" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iHs7LD-IqGQmI_rmky4u-38" value="Dataverse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;sketch=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=11;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-1">
+          <mxGeometry x="570" y="342" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iHs7LD-IqGQmI_rmky4u-39" value="Power Automate" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;fontSize=11;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-1">
+          <mxGeometry x="560" y="459" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FNWk3Mcq8dCl3-6HoDGA-0" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=0;sketch=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=11;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-1">
+          <mxGeometry x="710" y="342" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FNWk3Mcq8dCl3-6HoDGA-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;fontSize=11;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="iHs7LD-IqGQmI_rmky4u-1">
+          <mxGeometry x="700" y="229" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
