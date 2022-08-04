@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T15:12:40.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iWtPsBQJeiUl71FAtPyQ" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T12:29:58.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RJDwIfgWUX5N8yoXpGCL" version="20.2.3" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="1367" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uVRVBFN1obLMrMs4CRgb-1" value="Phase 1 Green Assets Handover" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=outcome;archiType=oct;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="oz_mVlj8kxJvtAulYIj0-1" value="Rail Systems Contract Onboarding" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=outcome;archiType=oct;" vertex="1" parent="1">
+        <mxCell id="oz_mVlj8kxJvtAulYIj0-1" value="Rail Systems Contract Onboarding" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=outcome;archiType=oct;" parent="1" vertex="1">
           <mxGeometry x="410" y="80" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5Y3KY6NCU6nYwtHtjhXm-4" value="EA4 : Cloud First" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=principle;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5Y3KY6NCU6nYwtHtjhXm-5" value="Requirements Management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="5Y3KY6NCU6nYwtHtjhXm-6" value="Secure Contract Evaluation" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="150" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
