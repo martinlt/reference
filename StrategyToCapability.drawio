@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T14:01:46.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DQXw-SllkJf1aKJJ0Ro9" version="20.2.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-11T14:47:15.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bR3E0tcGMGmD0dRpk-H1" version="20.2.3" type="github" pages="3">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1109" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pJzPFC23frJAsvggXHcX" name="P655">
-    <mxGraphModel dx="1109" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1859" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -211,6 +211,23 @@
               <mxPoint x="490" y="750" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QZAAWCf4WMwt3gXYTRuv" name="Page-3">
+    <mxGraphModel dx="1487" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RFxQlYmZiEiGcLrOzHPL-1" value="Level 0 Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#E0FFE0;shape=mxgraph.archimate3.tech;techType=plateau;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="RFxQlYmZiEiGcLrOzHPL-2" value="Target Architecture" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#E0FFE0;shape=mxgraph.archimate3.tech;techType=plateau;" vertex="1" parent="1">
+          <mxGeometry x="740" y="310" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="RFxQlYmZiEiGcLrOzHPL-3" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="310" y="257.5" width="400" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
