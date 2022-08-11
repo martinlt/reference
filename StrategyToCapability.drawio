@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T08:34:40.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gMtu3lcj4crSitdZUfix" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-11T13:22:11.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="08NRSKsq4-E3UszQ42yK" version="20.2.3" type="github" pages="2">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
-    <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1109" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,6 +62,53 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="370" as="sourcePoint" />
             <mxPoint x="500" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pJzPFC23frJAsvggXHcX" name="Page-2">
+    <mxGraphModel dx="869" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-1" value="Legal" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-2" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.application;appType=outcome;archiType=oct;" vertex="1" parent="1">
+          <mxGeometry x="420" y="10" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-3" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFE0E0;shape=mxgraph.archimate3.application;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-4" value="Claims &amp;amp; Dispute Resolution" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="585" y="230" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-5" value="Case Management &amp;amp; Workflow" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="585" y="650" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-6" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mMA8N2Z2dGrkxGjAMUbA-5" target="mMA8N2Z2dGrkxGjAMUbA-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="470" y="610" as="sourcePoint" />
+            <mxPoint x="630" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-7" value="Legal Case Handling" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="585" y="360" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-8" value="Legal Case Management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="585" y="510" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-9" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mMA8N2Z2dGrkxGjAMUbA-8" target="mMA8N2Z2dGrkxGjAMUbA-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="470" as="sourcePoint" />
+            <mxPoint x="580" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mMA8N2Z2dGrkxGjAMUbA-10" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;elbow=vertical;endFill=0;dashed=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mMA8N2Z2dGrkxGjAMUbA-7" target="mMA8N2Z2dGrkxGjAMUbA-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="470" as="sourcePoint" />
+            <mxPoint x="580" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
