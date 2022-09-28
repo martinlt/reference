@@ -1,56 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T13:22:24.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="C1KyCUX_6hX9H8HeP-2i" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-28T13:48:11.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="qadW7EkH0UkhlfqeJa5i" version="20.3.6" type="github" pages="2">
   <diagram id="cXLCR2YAizclSgLuJtya" name="Page-1">
     <mxGraphModel dx="1247" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-1" value="Supply Chain" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="65" y="240" width="30" height="60" as="geometry" />
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-1" value="HS2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="230" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xMyo2FrH1NyN0CoWHX3c-4" value="SharePoint" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="585" y="150" width="80" height="80" as="geometry" />
+          <mxGeometry x="670" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-5" value="eB" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="585" y="480" width="80" height="80" as="geometry" />
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-5" value="eB" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="810" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xMyo2FrH1NyN0CoWHX3c-7" value="G-Drive" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="740" y="360" width="80" height="80" as="geometry" />
+          <mxGeometry x="670" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-8" value="Teams" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-8" value="Teams" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-12" value="Email" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="370" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-13" value="&lt;i&gt;Designs&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="220" y="70" width="80" height="80" as="geometry" />
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-13" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;Engineering Design Documents&lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xMyo2FrH1NyN0CoWHX3c-15" value="&lt;i&gt;GIS Maps&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="220" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="470" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-16" value="Jaggaer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="60" width="80" height="80" as="geometry" />
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-16" value="Jaggaer" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="110" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-17" value="&lt;i&gt;Contracts&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="250" width="80" height="80" as="geometry" />
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-17" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;i style=&quot;font-size: 10px;&quot;&gt;Contract Management Documentation&lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-18" value="&lt;i&gt;Schedule Extracts &lt;br&gt;(P6-&amp;gt;Excel)&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="340" width="80" height="80" as="geometry" />
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-18" value="&lt;i&gt;Schedules&lt;br&gt;(P6-&amp;gt;Excel)&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xMyo2FrH1NyN0CoWHX3c-19" value="&lt;i&gt;Specifications&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="430" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-20" value="P6" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="740" y="230" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-21" value="SharePoint" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="160" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xMyo2FrH1NyN0CoWHX3c-22" value="eB Portal" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="80" height="80" as="geometry" />
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-20" value="P6" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="810" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xMyo2FrH1NyN0CoWHX3c-23" value="Jaggaer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="585" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="810" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-24" value="Supply Chain" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="135" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-25" value="DAG" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xMyo2FrH1NyN0CoWHX3c-26" value="OneDrive" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-1" value="Systems of Record" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="810" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-2" value="Data Stores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="665" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-3" value="Information Exchange Channels" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-4" value="eB Portal" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="470" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-6" value="eB Portal" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="540" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-7" value="Email" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-8" value="External&lt;br&gt;SharePoint&lt;br&gt;Sites" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="180" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-10" value="Information&lt;br&gt;Types" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-11" value="Actors" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="enoCb0zM3ZLAIlY1W8qx" name="Page-2">
+    <mxGraphModel dx="1247" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OXiR42jTVIXpHcLzfrry-1" value="SharePoint" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OXiR42jTVIXpHcLzfrry-2" value="Jaggaer" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iT9ulwVLfV9q0tadjXZ_-1" value="HS2" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="130" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
