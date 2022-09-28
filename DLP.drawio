@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T14:48:20.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5mPpWoVW2hoajd-dSWQh" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-28T14:54:38.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="r5_4T40rNBm8uKCsCpwr" version="20.3.6" type="github" pages="2">
   <diagram id="cXLCR2YAizclSgLuJtya" name="Page-1">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="6zMGDVPGb2TY7qlekUjw-7" value="Email" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="470" y="250" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6zMGDVPGb2TY7qlekUjw-8" value="External&lt;br&gt;SharePoint&lt;br&gt;Sites" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-8" value="External&lt;br style=&quot;font-size: 10px;&quot;&gt;SharePoint&lt;br style=&quot;font-size: 10px;&quot;&gt;Sites" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6zMGDVPGb2TY7qlekUjw-10" value="Information&lt;br&gt;Types" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontStyle=1" vertex="1" parent="1">
@@ -131,6 +131,12 @@
         </mxCell>
         <mxCell id="6zMGDVPGb2TY7qlekUjw-29" value="Power Platform" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="540" y="320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-31" value="" style="shadow=0;dashed=0;html=1;strokeColor=#b85450;fillColor=#FF0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.alert;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="516" y="173" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-32" value="" style="shadow=0;dashed=0;html=1;strokeColor=#b85450;fillColor=#FF0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.alert;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="736" y="283" width="25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
