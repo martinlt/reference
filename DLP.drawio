@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T14:20:49.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1ZnzttIg95ODpYcxBJf_" version="20.3.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-28T14:23:35.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Wf6rWRjtlWVNSpTQYuzS" version="20.3.6" type="github" pages="2">
   <diagram id="cXLCR2YAizclSgLuJtya" name="Page-1">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -116,6 +116,12 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-24" value="" style="shadow=0;dashed=0;html=1;strokeColor=#b85450;fillColor=#FF0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.alert;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="173" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6zMGDVPGb2TY7qlekUjw-25" value="" style="shadow=0;dashed=0;html=1;strokeColor=#b85450;fillColor=#FF0000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.alert;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="736" y="101" width="25" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
