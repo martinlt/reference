@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T11:36:56.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BixXD5kDcBAKGDcE8YUH" version="20.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-11-24T11:39:05.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="bJ0FRVsanvlg5GojJH5H" version="20.5.3" type="github" pages="10">
   <diagram id="YRAR-I3iW_ACvrK7R6hZ" name="Context Diagram">
     <mxGraphModel dx="1247" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1027,16 +1027,16 @@
         <mxCell id="Olunqj7X22BwgfAUU8Ch-15" value="Deployed on Contractors IT Estate" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=solid;fontSize=11;dashed=1;verticalAlign=bottom;align=left;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="480" width="440" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Olunqj7X22BwgfAUU8Ch-6" value="Safetibase SharePoint &#xa;Application&#xa;[ Modified ]" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="Olunqj7X22BwgfAUU8Ch-6" value="Safetibase SharePoint &#xa;Application&#xa;[ Modified ]" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillStyle=solid;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="510" y="40" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Olunqj7X22BwgfAUU8Ch-7" value="Integration&#xa;flows&#xa;[ New ]" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="Olunqj7X22BwgfAUU8Ch-7" value="Integration&#xa;flows&#xa;[ New ]" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillStyle=solid;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="720" y="240" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Olunqj7X22BwgfAUU8Ch-8" value="Risk Review &#xa;Application&#xa;[ New ]" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="Olunqj7X22BwgfAUU8Ch-8" value="Risk Review &#xa;Application&#xa;[ New ]" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillStyle=solid;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="510" y="440" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Olunqj7X22BwgfAUU8Ch-9" value="Reporting dashboard&#xa;[ New ]" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="Olunqj7X22BwgfAUU8Ch-9" value="Reporting dashboard&#xa;[ New ]" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fillStyle=solid;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="640" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Olunqj7X22BwgfAUU8Ch-10" value="&lt;span style=&quot;color: rgb(70, 73, 93);&quot;&gt;Main Works and&lt;/span&gt;&lt;br style=&quot;color: rgb(70, 73, 93);&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93);&quot;&gt;Station&lt;/span&gt;&lt;br style=&quot;color: rgb(70, 73, 93);&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93);&quot;&gt;Contractor(s)&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillStyle=solid;" vertex="1" parent="1">
@@ -1045,13 +1045,13 @@
         <mxCell id="Olunqj7X22BwgfAUU8Ch-11" value="HS2 Risk Reviewers" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="170" y="450" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Olunqj7X22BwgfAUU8Ch-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="Olunqj7X22BwgfAUU8Ch-12" value="HS2 Dashboard Users" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="170" y="650" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Olunqj7X22BwgfAUU8Ch-17" value="Residual Risks" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillStyle=solid;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="Olunqj7X22BwgfAUU8Ch-17" value="Residual Risks" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillStyle=solid;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="775" y="440" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Olunqj7X22BwgfAUU8Ch-18" value="CDM Risks" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillStyle=solid;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="Olunqj7X22BwgfAUU8Ch-18" value="CDM Risks" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillStyle=solid;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="775" y="40" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NXU30ANFqnkAV7539wz6-4" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=1;fontSize=11;targetPerimeterSpacing=10;sketch=0;" edge="1" parent="1">
