@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T14:16:16.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pTZtHNjWoKrlYqDMCsqk" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-23T14:58:11.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_NDTNWgAoCnfPA1-aBMd" version="20.7.4" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -295,7 +295,7 @@
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-11" value="Risk Managers&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="620" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5AEGeh9E4lXkHmSnKk7K-12" value="Operational&lt;br&gt;Business&lt;br&gt;Processes" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="5AEGeh9E4lXkHmSnKk7K-12" value="Business&lt;br&gt;Processes" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
           <mxGeometry x="-0.3" y="-35" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="380" as="sourcePoint" />
             <mxPoint x="770" y="420" as="targetPoint" />
@@ -393,6 +393,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="qk3rGnHoOybyoq6jBVtu-4" target="qk3rGnHoOybyoq6jBVtu-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="290" as="sourcePoint" />
+            <mxPoint x="105" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qk3rGnHoOybyoq6jBVtu-9" value="Task" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="374" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qk3rGnHoOybyoq6jBVtu-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qk3rGnHoOybyoq6jBVtu-9" target="qk3rGnHoOybyoq6jBVtu-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="105" y="290" as="sourcePoint" />
             <mxPoint x="105" y="250" as="targetPoint" />
