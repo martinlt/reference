@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T13:41:21.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="r2CPKSZe5d_S6wxIXycu" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-23T13:41:43.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kfFROs7yy4vAPommTIwE" version="20.7.4" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -308,7 +308,10 @@
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-13" value="Guest Access" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
           <mxGeometry x="-0.0154" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="390" as="sourcePoint" />
-            <mxPoint x="490" y="420" as="targetPoint" />
+            <mxPoint x="490" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="400" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
