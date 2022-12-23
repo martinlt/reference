@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T15:23:41.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fM2inQwgSQqB-I2RpgVb" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T16:45:07.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iKZ61pdPiLWfSOVLVOye" version="20.7.4" type="github">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="qk3rGnHoOybyoq6jBVtu-4" value="Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="30" y="166" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5AEGeh9E4lXkHmSnKk7K-1" value="Target Operating Model &lt;br&gt;Management System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="5AEGeh9E4lXkHmSnKk7K-1" value="Target Operating Model &lt;br&gt;Management System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="649" y="230" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-2" value="Enterprise Bridge" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
