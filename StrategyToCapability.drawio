@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T15:01:18.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="DCvjydCmcHbzRvElI4fE" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-23T15:02:30.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ux_bs36oj_A65YWIwG6c" version="20.7.4" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qk3rGnHoOybyoq6jBVtu-4" value="Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="10" y="130" width="110" height="50" as="geometry" />
+          <mxGeometry x="30" y="166" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-1" value="Target Operating Model &lt;br&gt;Management System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="649" y="230" width="220" height="220" as="geometry" />
@@ -381,42 +381,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-3" value="Capability Group" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="10" y="40" width="110" height="50" as="geometry" />
+          <mxGeometry x="30" y="76" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-5" value="Process" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="10" y="220" width="110" height="50" as="geometry" />
+          <mxGeometry x="30" y="256" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="qk3rGnHoOybyoq6jBVtu-5" target="qk3rGnHoOybyoq6jBVtu-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="130" y="240" as="sourcePoint" />
-            <mxPoint x="180" y="190" as="targetPoint" />
+            <mxPoint x="150" y="276" as="sourcePoint" />
+            <mxPoint x="200" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="qk3rGnHoOybyoq6jBVtu-4" target="qk3rGnHoOybyoq6jBVtu-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="75" y="230" as="sourcePoint" />
-            <mxPoint x="75" y="190" as="targetPoint" />
+            <mxPoint x="95" y="266" as="sourcePoint" />
+            <mxPoint x="95" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-9" value="Task" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="10" y="314" width="110" height="50" as="geometry" />
+          <mxGeometry x="30" y="350" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qk3rGnHoOybyoq6jBVtu-9" target="qk3rGnHoOybyoq6jBVtu-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="75" y="230" as="sourcePoint" />
-            <mxPoint x="75" y="190" as="targetPoint" />
+            <mxPoint x="95" y="266" as="sourcePoint" />
+            <mxPoint x="95" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-11" value="Organisation State" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="110" height="50" as="geometry" />
+          <mxGeometry x="180" y="76" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-12" value="Milestone" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="160" y="130" width="110" height="50" as="geometry" />
+          <mxGeometry x="180" y="166" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="qk3rGnHoOybyoq6jBVtu-12" target="qk3rGnHoOybyoq6jBVtu-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="75" y="140" as="sourcePoint" />
-            <mxPoint x="75" y="100" as="targetPoint" />
+            <mxPoint x="95" y="176" as="sourcePoint" />
+            <mxPoint x="95" y="136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
