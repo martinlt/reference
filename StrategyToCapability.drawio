@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T13:40:02.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="E_Vyoc8gdEgqDi7_x9Pw" version="20.7.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-12-23T13:41:21.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="r2CPKSZe5d_S6wxIXycu" version="20.7.4" type="github" pages="4">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -249,8 +249,8 @@
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-4" value="Xactium Risk Management" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="795" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5AEGeh9E4lXkHmSnKk7K-5" value="Schedule Data" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.847;entryY=0.9;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=1;entryPerimeter=0;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1" target="5AEGeh9E4lXkHmSnKk7K-1">
-          <mxGeometry x="-0.0809" y="-10" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="5AEGeh9E4lXkHmSnKk7K-5" value="Schedule&lt;br&gt;Data" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.847;entryY=0.9;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=1;entryPerimeter=0;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1" target="5AEGeh9E4lXkHmSnKk7K-1">
+          <mxGeometry x="-0.1555" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="550" as="sourcePoint" />
             <mxPoint x="724.94" y="400.02" as="targetPoint" />
             <Array as="points">
@@ -306,36 +306,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-13" value="Guest Access" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.0154" y="15" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="390" as="sourcePoint" />
             <mxPoint x="490" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-16" value="Infrastructure&lt;br&gt;Management" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="640" y="660" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5AEGeh9E4lXkHmSnKk7K-17" value="Approve / Reject&lt;br&gt;TOM Changes" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1" target="5AEGeh9E4lXkHmSnKk7K-1">
-          <mxGeometry x="-0.093" y="28" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="5AEGeh9E4lXkHmSnKk7K-17" value="Approve / Reject&lt;br&gt;TOM Changes" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+          <mxGeometry x="-0.0652" y="22" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="570" as="sourcePoint" />
-            <mxPoint x="540" y="500" as="targetPoint" />
+            <mxPoint x="510" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="540" />
+              <mxPoint x="420" y="490" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-18" value="Notification of &lt;br&gt;TOM Changes" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;exitX=0.323;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5AEGeh9E4lXkHmSnKk7K-1">
-          <mxGeometry x="0.1036" y="-19" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.1513" y="-41" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="580" as="sourcePoint" />
             <mxPoint x="380" y="610" as="targetPoint" />
             <Array as="points">
               <mxPoint x="540" y="580" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-19" value="Notification of&lt;br&gt;Impact to Risk" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;exitX=0.417;exitY=-0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5AEGeh9E4lXkHmSnKk7K-1">
-          <mxGeometry x="0.2479" y="40" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.0918" y="34" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="580" as="sourcePoint" />
             <mxPoint x="580" y="170" as="targetPoint" />
             <Array as="points">
