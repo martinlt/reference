@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T15:20:10.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yu9N0JBBaBf4KJd2vY4-" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T15:23:23.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9VeP4exV_jvvzME43-uO" version="20.7.4" type="github">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -194,6 +194,9 @@
         </mxCell>
         <mxCell id="Qeo9wmbYOwmH1zV_UKUF-6" value="Role" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="30" y="440" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qeo9wmbYOwmH1zV_UKUF-7" value="NB. Risk does not appear in Archimate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="195" y="306" width="80" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
