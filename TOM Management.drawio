@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-23T15:16:42.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ODK_NRDN2nnya1ylL3H5" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-23T15:18:41.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bceR6Nh374xOIhziaDV5" version="20.7.4" type="github">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -186,8 +186,14 @@
             <mxPoint x="95" y="136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qeo9wmbYOwmH1zV_UKUF-1" value="Business Objects" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="Qeo9wmbYOwmH1zV_UKUF-1" value="Core TOM Objects" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
           <mxGeometry x="30" y="40" width="260" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Qeo9wmbYOwmH1zV_UKUF-5" value="Risk" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Qeo9wmbYOwmH1zV_UKUF-6" value="Role" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
