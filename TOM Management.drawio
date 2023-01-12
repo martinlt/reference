@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T07:34:10.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="wrdS9tGtpNvCXYeaQFIk" version="20.7.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-12T09:29:48.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qIS3-bSKH6b2gneyKMHv" version="20.8.3" type="github" pages="3">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
-    <mxGraphModel dx="990" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZLQFWOVWHKN_zhoa3P1L" name="IT Orbus Context">
-    <mxGraphModel dx="943" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -251,10 +251,10 @@
         <mxCell id="-hAzDeHEm654IWTeYz6E-8" value="Map to IT Projects&lt;br&gt;Map to Business Service / Product" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="320" y="260" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="93ms2jAiU5BK-KCquyzE-1" value="Primavera P6" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="93ms2jAiU5BK-KCquyzE-1" value="Primavera P6" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="734.66" y="552" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="93ms2jAiU5BK-KCquyzE-2" value="Corporate Milestones" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.847;entryY=0.9;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=1;entryPerimeter=0;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="93ms2jAiU5BK-KCquyzE-2" value="Corporate Milestones" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.847;entryY=0.9;entryDx=0;entryDy=0;startArrow=none;startFill=0;endFill=1;entryPerimeter=0;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="-0.1555" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="724.66" y="562" as="sourcePoint" />
             <mxPoint x="639.9999999999999" y="450" as="targetPoint" />
@@ -264,13 +264,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-1" value="Service Now" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-1" value="Service Now" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="429.99999999999994" y="562" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-2" value="Sparx EA" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-2" value="Sparx EA" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="279.99999999999994" y="410" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-4" value="Application&lt;br&gt;Components" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-4" value="Application&lt;br&gt;Components" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="-0.1555" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="430" as="sourcePoint" />
             <mxPoint x="470" y="550" as="targetPoint" />
@@ -280,7 +280,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-6" value="Plateaus,&lt;br&gt;Work Packages" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-6" value="Plateaus,&lt;br&gt;Work Packages" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="-0.1555" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="570" as="sourcePoint" />
             <mxPoint x="600" y="450" as="targetPoint" />
@@ -290,16 +290,57 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-5" value="Conceptual&lt;br&gt;Data&lt;br&gt;Entities" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="5ZIyuqTt5ImsdFRbtDPz-5" value="Conceptual&lt;br&gt;Data&lt;br&gt;Entities" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="-0.1555" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="400" as="sourcePoint" />
             <mxPoint x="500" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="352" />
+              <mxPoint x="420" y="340" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-1" value="Product Roadmaps" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+          <mxGeometry x="-0.015" y="-13" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="310" as="sourcePoint" />
+            <mxPoint x="740" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="280" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-2" value="Application&lt;br&gt;Interface" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#dae8fc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="425" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-3" value="Application Services, &lt;br&gt;Components &amp;amp; Interfaces" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+          <mxGeometry x="-0.015" y="-13" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="120" as="sourcePoint" />
+            <mxPoint x="580" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="150" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-4" value="Capabilities,&amp;nbsp;&lt;br&gt;Capability Realisation" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+          <mxGeometry x="-0.015" y="-13" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="160" as="sourcePoint" />
+            <mxPoint x="690" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="160" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bZnVjceU8LjFMWuEVN5u" name="EA Scenarios">
+    <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
