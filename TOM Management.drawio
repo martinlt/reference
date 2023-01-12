@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T12:54:32.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="qZK7bV1VhQbwF1UK3_SS" version="20.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-12T12:56:49.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="HpFAJpTjL6zR42JFajEg" version="20.8.3" type="github" pages="3">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZLQFWOVWHKN_zhoa3P1L" name="IT Orbus Context">
-    <mxGraphModel dx="1471" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,8 +221,8 @@
         <mxCell id="C-wUpakT2WixYSqwnOht-4" value="Product&lt;br&gt;Owners" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="1000" y="352" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2n12v_qilhQ9wqg35Ykj-1" value="Core EA Objects (Archimate Metamodel)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
-          <mxGeometry x="10" y="38" width="260" height="24" as="geometry" />
+        <mxCell id="2n12v_qilhQ9wqg35Ykj-1" value="Proposed Orbus EA Objects (Archimate Metamodel)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;align=left;" parent="1" vertex="1">
+          <mxGeometry x="10" width="340" height="24" as="geometry" />
         </mxCell>
         <mxCell id="9MuzAm8sRQxQg9D2PgER-1" value="Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffe6cc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="10" y="64" width="110" height="50" as="geometry" />
@@ -383,6 +383,12 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_EyAizMaRObpGPOroFPk-1" value="Mastered" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="34" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_EyAizMaRObpGPOroFPk-2" value="Referenced" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="34" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
