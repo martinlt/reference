@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T09:36:37.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NvrM3EBsxgrZ-cvW2nWw" version="20.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-12T11:20:00.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1VdhZKgSFexqtTW77BoO" version="20.8.3" type="github" pages="3">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZLQFWOVWHKN_zhoa3P1L" name="IT Orbus Context">
-    <mxGraphModel dx="1481" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,10 +359,25 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bZnVjceU8LjFMWuEVN5u" name="EA Scenarios">
-    <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ok-wnGQT_YGGOHM-Mi9x-1" value="#1 Strategy, Scope, Enterprise Alignment,&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Capability Map, impacted capabilities, what is changing for each, what is the ask from IT&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Technology (Product) Landscape, where does this sit in our technology landscape? Business application / IT technology to realise capability needs&lt;br style=&quot;font-size: 11px;&quot;&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Ok-wnGQT_YGGOHM-Mi9x-2" value="#2 High Level Business Requirements, Solution Context, Contextual Data Model, Possible Options&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- High Level Requirements review against Capabilities&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Solution Context - Actors, Systems, Data Flows&lt;br&gt;&lt;br&gt;- New/Modified Solution Building Blocks" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="290" width="240" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ok-wnGQT_YGGOHM-Mi9x-3" value="#3 Proposed Solution, Requirements, Principles, Risks&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;- Solution Evaluation Results&lt;br&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Proposed High Level Architecture, Application Components, Interfaces, Data Objects&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Requirements, Response, Traceability, Evidence Statements&lt;br&gt;&lt;br&gt;- EA Principle Compliance Statements&lt;br&gt;&lt;br&gt;- Architecture Risks" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="490" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WWHxomRmj6ywLlnHb0II-1" value="Enterprise&lt;br&gt;Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hsh0seIRmsJsakcTuCxq-1" value="Solution&lt;br&gt;Architects" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="430" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
