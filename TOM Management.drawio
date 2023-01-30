@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T16:47:29.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="N1gpnnMMC3WiN2BvOB8z" version="20.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-30T16:21:57.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cEn6byQOsLadE4jrs-DU" version="20.8.13" type="github" pages="3">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
-    <mxGraphModel dx="1471" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-1" value="Target Operating Model &lt;br&gt;Information Management" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="649" y="230" width="220" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="5AEGeh9E4lXkHmSnKk7K-2" value="Enterprise Bridge" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="5AEGeh9E4lXkHmSnKk7K-2" value="Enterprise Bridge" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1000" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5AEGeh9E4lXkHmSnKk7K-3" value="Primavera P6" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -174,10 +174,10 @@
             <mxPoint x="95" y="226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qk3rGnHoOybyoq6jBVtu-11" value="Organisation State" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="qk3rGnHoOybyoq6jBVtu-11" value="Organisation State" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="180" y="76" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qk3rGnHoOybyoq6jBVtu-12" value="Milestone" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="qk3rGnHoOybyoq6jBVtu-12" value="Milestone" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="180" y="166" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qk3rGnHoOybyoq6jBVtu-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="qk3rGnHoOybyoq6jBVtu-12" target="qk3rGnHoOybyoq6jBVtu-11" edge="1">
@@ -192,7 +192,7 @@
         <mxCell id="Qeo9wmbYOwmH1zV_UKUF-5" value="Risk" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="180" y="250" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qeo9wmbYOwmH1zV_UKUF-6" value="Role" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#d5e8d4;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="Qeo9wmbYOwmH1zV_UKUF-6" value="Role" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="30" y="440" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qeo9wmbYOwmH1zV_UKUF-7" value="NB. Risk does not appear in Archimate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="1" vertex="1">
