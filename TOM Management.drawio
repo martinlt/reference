@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T16:21:57.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cEn6byQOsLadE4jrs-DU" version="20.8.13" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-02-03T11:00:39.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LaL_aQewKXvNOvtVJQ7-" version="20.8.15" type="github" pages="4">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZLQFWOVWHKN_zhoa3P1L" name="IT Orbus Context">
-    <mxGraphModel dx="1471" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,7 +297,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SsIzcZFwOaU-s9eXo7TH-1" value="Product Roadmaps" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-1" value="Product Roadmaps" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="-0.015" y="-13" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="970" y="392" as="sourcePoint" />
             <mxPoint x="820" y="392" as="targetPoint" />
@@ -307,10 +307,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SsIzcZFwOaU-s9eXo7TH-2" value="Application&lt;br&gt;Interface" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#dae8fc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-2" value="Application&lt;br&gt;Interface" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#dae8fc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="10" y="180" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SsIzcZFwOaU-s9eXo7TH-3" value="Application&amp;nbsp;Components &amp;amp; Interfaces,&lt;br&gt;Solution Architecture Views" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-3" value="Application&amp;nbsp;Components &amp;amp; Interfaces,&lt;br&gt;Solution Architecture Views" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="-0.1068" y="3" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="190" as="sourcePoint" />
             <mxPoint x="600" y="300" as="targetPoint" />
@@ -320,7 +320,7 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SsIzcZFwOaU-s9eXo7TH-4" value="Capabilities,&amp;nbsp;&lt;br&gt;Capability Realisation" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-4" value="Capabilities,&amp;nbsp;&lt;br&gt;Capability Realisation" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="-0.015" y="-13" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="890" y="242" as="sourcePoint" />
             <mxPoint x="770" y="292" as="targetPoint" />
@@ -330,19 +330,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SsIzcZFwOaU-s9eXo7TH-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="204.5" as="sourcePoint" />
             <mxPoint x="280" y="204.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SsIzcZFwOaU-s9eXo7TH-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="144.82999999999998" as="sourcePoint" />
             <mxPoint x="280" y="144.82999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SsIzcZFwOaU-s9eXo7TH-9" value="Application Landscape,&lt;br&gt;Contextual Data Model,&lt;br&gt;Solution Architecture Views" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="SsIzcZFwOaU-s9eXo7TH-9" value="Application Landscape,&lt;br&gt;Contextual Data Model,&lt;br&gt;Solution Architecture Views" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="0.0909" y="-20" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="280" as="sourcePoint" />
             <mxPoint x="650" y="180" as="targetPoint" />
@@ -352,16 +352,16 @@
             <mxPoint x="4" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0YP3CiPO4NX6gx_1uFeW-1" value="Phase #1&lt;br&gt;Baseline current technology stack and map to capabilities&lt;br&gt;&lt;br&gt;Application inventory&lt;br&gt;Integration catalogue&lt;br&gt;&lt;br&gt;Repository for Design&lt;br&gt;Data cleaning &amp;amp; stewardship&lt;br&gt;Working practices&lt;br&gt;&lt;br&gt;Phase #2&lt;br&gt;Map milestones to IT Projects&lt;br&gt;Application Lifecycle Management&lt;br&gt;&lt;br&gt;Phase #3&lt;br&gt;IT investment planning" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="0YP3CiPO4NX6gx_1uFeW-1" value="Phase #1&lt;br&gt;Baseline current technology stack and map to capabilities&lt;br&gt;&lt;br&gt;Application inventory&lt;br&gt;Integration catalogue&lt;br&gt;&lt;br&gt;Repository for Design&lt;br&gt;Data cleaning &amp;amp; stewardship&lt;br&gt;Working practices&lt;br&gt;&lt;br&gt;Phase #2&lt;br&gt;Map milestones to IT Projects&lt;br&gt;Application Lifecycle Management&lt;br&gt;&lt;br&gt;Phase #3&lt;br&gt;IT investment planning" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="10" y="400" width="300" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="VYjQgrTXKeoIv-gu-x45-1" value="Business&lt;br&gt;Objects" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="VYjQgrTXKeoIv-gu-x45-1" value="Business&lt;br&gt;Objects" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#fff2cc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="130" y="240" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VYjQgrTXKeoIv-gu-x45-3" value="Information&lt;br&gt;Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="VYjQgrTXKeoIv-gu-x45-3" value="Information&lt;br&gt;Architect" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="394" y="270" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VYjQgrTXKeoIv-gu-x45-4" value="Dataset to Application &lt;br&gt;Mapping (Systems&lt;br&gt;of Record)" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="VYjQgrTXKeoIv-gu-x45-4" value="Dataset to Application &lt;br&gt;Mapping (Systems&lt;br&gt;of Record)" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="0.3361" y="33" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="330" as="sourcePoint" />
             <mxPoint x="450" y="310" as="targetPoint" />
@@ -371,7 +371,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYjQgrTXKeoIv-gu-x45-5" value="IT Investment Planning Information" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" edge="1" parent="1">
+        <mxCell id="VYjQgrTXKeoIv-gu-x45-5" value="IT Investment Planning Information" style="curved=1;endArrow=classic;html=1;rounded=0;startArrow=none;startFill=0;endFill=1;sketch=1;strokeColor=#788AA3;fontColor=#46495D;fontSize=8;" parent="1" edge="1">
           <mxGeometry x="-0.1555" y="-30" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="820" y="470" as="sourcePoint" />
             <mxPoint x="960" y="550" as="targetPoint" />
@@ -381,46 +381,66 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_EyAizMaRObpGPOroFPk-1" value="Mastered" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=2;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="_EyAizMaRObpGPOroFPk-1" value="Mastered" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=2;verticalAlign=middle;align=left;" parent="1" vertex="1">
           <mxGeometry x="10" y="34" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_EyAizMaRObpGPOroFPk-2" value="Referenced" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=2;verticalAlign=middle;align=left;" vertex="1" parent="1">
+        <mxCell id="_EyAizMaRObpGPOroFPk-2" value="Referenced" style="text;strokeColor=none;fillColor=none;html=1;fontSize=13;fontStyle=2;verticalAlign=middle;align=left;" parent="1" vertex="1">
           <mxGeometry x="130" y="34" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="bZnVjceU8LjFMWuEVN5u" name="EA Scenarios">
-    <mxGraphModel dx="1471" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="504" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ok-wnGQT_YGGOHM-Mi9x-1" value="#1 Strategy, Scope, Enterprise Alignment,&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Capability Map, determine impacted capabilities, what is changing for each based on the ask from the business&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Technology (Product) Landscape, understand where this would impact our current technology landscape, i.e. affected application services" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="120" width="240" height="150" as="geometry" />
+        <mxCell id="Ok-wnGQT_YGGOHM-Mi9x-1" value="#1 Strategy, Scope, Enterprise Alignment,&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Capability Map, determine impacted capabilities, what is changing for each based on the ask from the business&lt;br&gt;&lt;br&gt;- Which technologies / applications realise capabilities&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Technology (Product) Landscape, understand where this would impact our current technology landscape, i.e. affected application services" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#333333;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="10" y="110" width="240" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Ok-wnGQT_YGGOHM-Mi9x-2" value="#2 High Level Business Requirements, Solution Context, Contextual Data Model&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- High Level Requirements review against Capabilities&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Solution Context - Actors, Systems, Data Flows&lt;br&gt;&lt;br&gt;- New/Modified Solution Building Blocks&lt;br&gt;&lt;br&gt;- Identify Impacted Datasets (Subject Areas)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="290" width="240" height="170" as="geometry" />
+        <mxCell id="Ok-wnGQT_YGGOHM-Mi9x-2" value="#2 High Level Business Requirements, Solution Context, Contextual Data Model&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- High Level Requirements review against Capabilities&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Solution Context - Actors, Systems, Data Flows&lt;br&gt;&lt;br&gt;- New/Modified Solution Building Blocks&lt;br&gt;&lt;br&gt;- Identify Impacted Datasets (Subject Areas)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="10" y="310" width="240" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Ok-wnGQT_YGGOHM-Mi9x-3" value="#3 Proposed Solution, Requirements, Principles, Risks&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;- &lt;strike&gt;Solution Evaluation Results&lt;/strike&gt;&lt;br&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Proposed High Level Architecture, Application Components, Interfaces, Data Objects&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- &lt;strike&gt;Requirements, Responses, Traceability, Evidence Statements&lt;/strike&gt;&lt;br&gt;&lt;br&gt;&lt;strike&gt;- EA Principle Compliance Statements&lt;/strike&gt;&lt;br&gt;&lt;br&gt;&lt;strike&gt;- Architecture Risks&lt;/strike&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="490" width="240" height="220" as="geometry" />
+        <mxCell id="Ok-wnGQT_YGGOHM-Mi9x-3" value="#3 Proposed Solution, Requirements, Principles, Risks&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;- &lt;strike&gt;Solution Evaluation Results&lt;/strike&gt;&lt;br&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Proposed High Level Architecture, Application Components, Interfaces, Data Objects&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- &lt;strike&gt;Requirements, Responses, Traceability, Evidence Statements&lt;/strike&gt;&lt;br&gt;&lt;br&gt;&lt;strike&gt;- EA Principle Compliance Statements&lt;/strike&gt;&lt;br&gt;&lt;br&gt;&lt;strike&gt;- Architecture Risks&lt;/strike&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="10" y="510" width="240" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="WWHxomRmj6ywLlnHb0II-1" value="&amp;nbsp;As an Enterprise&lt;br&gt;Architect I need to..." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="WWHxomRmj6ywLlnHb0II-1" value="&amp;nbsp;As an Enterprise&lt;br&gt;Architect I need to..." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hsh0seIRmsJsakcTuCxq-1" value="As a Solution&lt;br&gt;Architect I need to..." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="Hsh0seIRmsJsakcTuCxq-1" value="As a Solution&lt;br&gt;Architect I need to..." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="430" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Hsh0seIRmsJsakcTuCxq-2" value="#4 Solution Design, Design Risks&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;- Solution Design(s) for Application Components&lt;br&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;strike&gt;- Proposed Product Support Model&lt;/strike&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;strike&gt;- Test Plan&lt;br&gt;&lt;/strike&gt;&lt;br&gt;&lt;strike&gt;-&amp;nbsp;Architecture Risks (Updated)&lt;/strike&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="Hsh0seIRmsJsakcTuCxq-2" value="#4 Solution Design, Design Risks&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;- Solution Design(s) for Application Components&lt;br&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;strike&gt;- Proposed Product Support Model&lt;/strike&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;strike&gt;- Test Plan&lt;br&gt;&lt;/strike&gt;&lt;br&gt;&lt;strike&gt;-&amp;nbsp;Architecture Risks (Updated)&lt;/strike&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="325" y="120" width="240" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="3GitP80U7JRcHwAvdY_H-1" value="#5 Finalised Solution Design, Technical Debt&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;- Approved Solution Design(s) for Application Components&lt;br&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Technical Debt for Application Components" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="3GitP80U7JRcHwAvdY_H-1" value="#5 Finalised Solution Design, Technical Debt&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;- Approved Solution Design(s) for Application Components&lt;br&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;- Technical Debt for Application Components" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="325" y="290" width="240" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="3GitP80U7JRcHwAvdY_H-2" value="As a Product&lt;br&gt;Owner I need to..." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="3GitP80U7JRcHwAvdY_H-2" value="As a Product&lt;br&gt;Owner I need to..." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="760" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3GitP80U7JRcHwAvdY_H-3" value="#6 Manage Product Scope, Define Product Roadmap, Agree Changes to Product&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;- Own Solution Design for Product(s)&lt;br&gt;&lt;br&gt;- Define Roadmap for Product(s)" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="3GitP80U7JRcHwAvdY_H-3" value="#6 Manage Product Scope, Define Product Roadmap, Agree Changes to Product&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;- Own Solution Design for Product(s)&lt;br&gt;&lt;br&gt;- Define Roadmap for Product(s)" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="655" y="120" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_JQRCJewCml3ZiE-2P26-1" value="Viewpoints based on:&lt;br&gt;&lt;br&gt;- Milestones - P6&lt;br&gt;- Capabilities - Emma Stone (Enterprise / End state)&lt;br&gt;- Demand Pipeline - SN (SPM) / PGF&amp;nbsp;&lt;br&gt;- Products to application/service mapping&lt;br&gt;Project / Product release ....&amp;nbsp;&lt;br&gt;Business applications - Orbus&lt;br&gt;Technology services - Orbus&lt;br&gt;Datasets/Objects&lt;br&gt;Integration Catalogue&lt;br&gt;&lt;br&gt;Application rationalisation / consolidation&lt;br&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="620" y="310" width="460" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lKk7wvMSmMXYhEx_vNSr" name="Page-4">
+    <mxGraphModel dx="1259" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RGKPOIhkkt8aQ-s2Piq--1" value="Capability" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffe6cc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RGKPOIhkkt8aQ-s2Piq--2" value="Work Package" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RGKPOIhkkt8aQ-s2Piq--3" value="Outcome" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#e1d5e7;shape=mxgraph.archimate3.businessObject;overflow=fill;sketch=1;curveFitting=1;jiggle=2;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
