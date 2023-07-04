@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T20:29:18.841Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="6UFPkhfAKvc-VIrO-oq4" version="21.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-04T20:31:04.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="XoAoIlty-u3Lk20bcUPj" version="21.5.1" type="github" pages="7">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="990" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2351,18 +2351,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Nuy_NeBmGn1QCVYoSvE" name="Technical Reference Model">
-    <mxGraphModel dx="750" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1667" dy="1389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cD73MiegEA_bm2ynWnKw-4" value="Business Application Layer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="1020" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="cD73MiegEA_bm2ynWnKw-5" value="Delivery Focussed" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="240" width="480" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="cD73MiegEA_bm2ynWnKw-6" value="Business Enabling" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="240" width="500" height="120" as="geometry" />
+        <mxCell id="cD73MiegEA_bm2ynWnKw-5" value="Delivery Focussed" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="100" y="50" width="1180" height="600" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
