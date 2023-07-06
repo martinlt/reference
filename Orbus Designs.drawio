@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T13:12:51.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cvo1UZdXUyDTweExbx6Q" version="21.5.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-06T14:04:23.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NBYzKM78aIg4c4XPDsEb" version="21.5.2" type="github" pages="9">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2351,23 +2351,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Nuy_NeBmGn1QCVYoSvE" name="Technical Reference Model">
-    <mxGraphModel dx="4625" dy="2794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4273" dy="2699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cD73MiegEA_bm2ynWnKw-5" value="Business Layer" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="200" y="15" width="1450" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-7" value="Delivery Applications" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-7" value="&lt;div&gt;Business platforms&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and control&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="65" width="720" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-8" value="Enabling Applications" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-8" value="&lt;div&gt;Enterprise and workforce&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;productivity&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="970" y="65" width="660" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-29" value="Health, Safety and Environment" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="802" y="105" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-31" value="Innovation Management Tools" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-31" value="Innovation Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="802" y="195" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-44" value="Stakeholder Engagement" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -2478,22 +2478,22 @@
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-141" value="Communication and Collaboration Tools" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="990" y="315" width="310" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-142" value="Email and Messaging Platform" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-142" value="Email and Messaging&amp;nbsp; (Split)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1000" y="355" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-143" value="Video Conferencing and Online Meeting Tools" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-143" value="Video Conferencing and Online Meeting" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1100" y="355" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-144" value="Document Collaboration and Sharing Platform" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-144" value="Document Collaboration and Sharing" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1200" y="355" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-145" value="Team Collaboration Tools" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-145" value="Team Collaboration&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1000" y="435" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-146" value="Virtual Whiteboarding and Brainstorming" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1100" y="435" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-147" value="Enterprise Social Networking Platform" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-147" value="Enterprise Social Networking" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1200" y="435" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-149" value="Digital Asset Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -2526,13 +2526,13 @@
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-83" value="Business Process Automation" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="383" y="605" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-84" value="Data Integration Platform" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-84" value="Data Integration" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="545" y="605" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-85" value="Data Mapping and Transformation Tools" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-85" value="Data Mapping and Transformation" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="708" y="605" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-87" value="Event-driven Architecture Platform" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-87" value="Event-driven Architecture&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="870" y="605" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-89" value="File Transfer Integration" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -2646,7 +2646,7 @@
         <mxCell id="nIJITHlEucE7e5r2ikga-2" value="Video Communication" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="nIJITHlEucE7e5r2ikga-7">
           <mxGeometry x="120" y="40" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nIJITHlEucE7e5r2ikga-4" value="&lt;div&gt;Instant Messaging and Presence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="nIJITHlEucE7e5r2ikga-7">
+        <mxCell id="nIJITHlEucE7e5r2ikga-4" value="&lt;div&gt;Instant Messaging and Presence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="nIJITHlEucE7e5r2ikga-7">
           <mxGeometry x="10" y="120" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nIJITHlEucE7e5r2ikga-8" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -2758,7 +2758,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="TRM Layers" id="lUvZa21JLAcBIsngbva2">
-    <mxGraphModel dx="3597" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="3597" dy="1940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="MXQ_puqNEoaoY9niDzI--0" />
         <mxCell id="MXQ_puqNEoaoY9niDzI--1" parent="MXQ_puqNEoaoY9niDzI--0" />
