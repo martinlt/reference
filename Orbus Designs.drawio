@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T13:02:10.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2eBHWn7lzrVH42y_NrAd" version="21.5.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-06T13:05:59.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="laPRFFpBQS4TqIb3zshQ" version="21.5.2" type="github" pages="10">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2351,7 +2351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Nuy_NeBmGn1QCVYoSvE" name="Technical Reference Model">
-    <mxGraphModel dx="2289" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2289" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2735,6 +2735,32 @@
         </mxCell>
         <mxCell id="nIJITHlEucE7e5r2ikga-15" value="Risk Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1520" y="355" width="90" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="TRM Layers" id="lUvZa21JLAcBIsngbva2">
+    <mxGraphModel dx="3597" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="MXQ_puqNEoaoY9niDzI--0" />
+        <mxCell id="MXQ_puqNEoaoY9niDzI--1" parent="MXQ_puqNEoaoY9niDzI--0" />
+        <mxCell id="MXQ_puqNEoaoY9niDzI--2" value="Business Layer" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=middle;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MXQ_puqNEoaoY9niDzI--1">
+          <mxGeometry x="200" y="15" width="1450" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQ_puqNEoaoY9niDzI--56" value="Integration Layer" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=middle;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="MXQ_puqNEoaoY9niDzI--1">
+          <mxGeometry x="200" y="565" width="1450" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQ_puqNEoaoY9niDzI--66" value="Data Management Layer" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=middle;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="MXQ_puqNEoaoY9niDzI--1">
+          <mxGeometry x="200" y="725" width="1450" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQ_puqNEoaoY9niDzI--75" value="Infrastructure Layer" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=middle;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="MXQ_puqNEoaoY9niDzI--1">
+          <mxGeometry x="200" y="885" width="1450" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQ_puqNEoaoY9niDzI--104" value="Service Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=middle;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="MXQ_puqNEoaoY9niDzI--1">
+          <mxGeometry x="1690" y="15" width="150" height="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="MXQ_puqNEoaoY9niDzI--112" value="Security" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=middle;fontSize=20;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MXQ_puqNEoaoY9niDzI--1">
+          <mxGeometry x="40" y="15" width="140" height="1140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
