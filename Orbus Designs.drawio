@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T12:11:02.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="a-rmYQZcdM0m8pJzWrCE" version="21.5.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-06T12:12:13.931Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="L_C1MuXz4p1-InamNKvY" version="21.5.2" type="github" pages="8">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2351,7 +2351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Nuy_NeBmGn1QCVYoSvE" name="Technical Reference Model">
-    <mxGraphModel dx="4625" dy="2889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4625" dy="2794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2736,22 +2736,22 @@
         <mxCell id="nIJITHlEucE7e5r2ikga-15" value="Risk Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1520" y="355" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nIJITHlEucE7e5r2ikga-16" value="This is the overarching category of technology systems encompassing both &quot;Delivery Applications,&quot; which directly contribute to the execution and delivery of HS2&#39;s services, and &quot;Enabling Applications,&quot; that facilitate and support the business&#39;s internal operations, infrastructure, and readiness.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="nIJITHlEucE7e5r2ikga-16" value="This is the overarching category of technology systems encompassing both &quot;Delivery Applications,&quot; which directly contribute to the execution and delivery of HS2&#39;s services, and &quot;Enabling Applications,&quot; that facilitate and support the business&#39;s internal operations, infrastructure, and readiness.&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-155" width="220" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="nIJITHlEucE7e5r2ikga-17" value="Takes care of all security aspects across all layers. This is mapped to the security controls from the CIS framework." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;position2=0.59;direction=north;" vertex="1" parent="1">
+        <mxCell id="nIJITHlEucE7e5r2ikga-17" value="Takes care of all security aspects across all layers. This is mapped to the security controls from the CIS framework." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#f8cecc;strokeColor=#b85450;position2=0.59;direction=north;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-140" y="300" width="170" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="nIJITHlEucE7e5r2ikga-18" value="Responsible for managing the delivery of IT services to the business across all layers." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;base=20;size=40;position=0.18;position2=0.32;direction=south;" vertex="1" parent="1">
+        <mxCell id="nIJITHlEucE7e5r2ikga-18" value="Responsible for managing the delivery of IT services to the business across all layers." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;base=20;size=40;position=0.18;position2=0.32;direction=south;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1840" y="300" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="nIJITHlEucE7e5r2ikga-19" value="Ensures that all the systems and applications can communicate and work together seamlessly. This should include ABBs for each of the HS2 Integration Patterns." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;base=20;size=40;position=0.18;position2=0.09;" vertex="1" parent="1">
+        <mxCell id="nIJITHlEucE7e5r2ikga-19" value="Ensures that all the systems and applications can communicate and work together seamlessly. This should include ABBs for each of the HS2 Integration Patterns." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;base=20;size=40;position=0.18;position2=0.09;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="790" y="410" width="160" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="nIJITHlEucE7e5r2ikga-20" value="Responsible for managing and maintaining HS2&#39;s data." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;base=20;size=40;position=0.18;position2=0.5;direction=south;" vertex="1" parent="1">
+        <mxCell id="nIJITHlEucE7e5r2ikga-20" value="Responsible for managing and maintaining HS2&#39;s data." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;base=20;size=40;position=0.18;position2=0.5;direction=south;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1640" y="782" width="115" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="nIJITHlEucE7e5r2ikga-21" value="Manages the underlying IT infrastructure." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;base=20;size=40;position=0.18;position2=0.1;direction=west;" vertex="1" parent="1">
+        <mxCell id="nIJITHlEucE7e5r2ikga-21" value="Manages the underlying IT infrastructure." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;base=20;size=40;position=0.18;position2=0.1;direction=west;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="591" y="1155" width="110" height="115" as="geometry" />
         </mxCell>
       </root>
