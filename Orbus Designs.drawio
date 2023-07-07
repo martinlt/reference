@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T07:30:05.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KGTseYBi_aauJvwrgc-9" version="21.5.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-07T07:34:09.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_ztZyvKdk4OfUsz9IAKv" version="21.5.2" type="github" pages="9">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2541,7 +2541,7 @@
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-90" value="Message Queuing" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1195" y="605" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-91" value="Service Orchestration" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-91" value="Service Orchestration" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1358" y="605" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-92" value="Workflow Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -2753,6 +2753,18 @@
         </mxCell>
         <mxCell id="oiKyAW3mzaKOryyCk5pk-6" value="Responsible for managing and maintaining HS2&#39;s data." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;base=20;size=40;position=0.18;position2=0.5;direction=south;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1640" y="782" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qRU6mnN6UbW0WsiVWH5t-1" value="Legend" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="20" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qRU6mnN6UbW0WsiVWH5t-2" value="We Have This" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="qRU6mnN6UbW0WsiVWH5t-1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qRU6mnN6UbW0WsiVWH5t-3" value="Needed In Future" style="text;strokeColor=#0e8088;fillColor=#b0e3e6;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="qRU6mnN6UbW0WsiVWH5t-1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qRU6mnN6UbW0WsiVWH5t-4" value="Possibly Remove" style="text;strokeColor=#ae4132;fillColor=#fad9d5;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="qRU6mnN6UbW0WsiVWH5t-1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
