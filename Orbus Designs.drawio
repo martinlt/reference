@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T12:33:55.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iwKZz_gxhPomxPZmrjjX" version="21.5.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-13T12:52:28.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gnO83VsFcA19Kr0j4eBX" version="21.5.2" type="github" pages="11">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2611,22 +2611,22 @@
           <mxGeometry x="1740" y="244" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-66" value="End User Computing" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="250" y="732" width="310" height="210" as="geometry" />
+          <mxGeometry x="250" y="732" width="320" height="210" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-67" value="Compute Devices" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="260" y="772" width="90" height="70" as="geometry" />
+          <mxGeometry x="265.08" y="773.08" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-68" value="Device Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="360" y="772" width="90" height="70" as="geometry" />
+          <mxGeometry x="365.08" y="773.08" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-70" value="Printing &amp;amp; Imagery" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="460" y="772" width="90" height="70" as="geometry" />
+          <mxGeometry x="465.08" y="773.08" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-74" value="BYOD" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="310" y="852" width="90" height="70" as="geometry" />
+          <mxGeometry x="365.08" y="853" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-76" value="Virtual Desktops" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="410" y="852" width="90" height="70" as="geometry" />
+          <mxGeometry x="465.08" y="854.08" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-22" value="Geographical Information Systems" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="470" y="350" width="410" height="200" as="geometry" />
@@ -2668,13 +2668,13 @@
           <mxGeometry x="914.54" y="140" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-62" value="Low-code Development" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1285.08" y="1000.0399999999998" width="109.8423" height="79.9211" as="geometry" />
+          <mxGeometry x="1730.1599999999999" y="773.0799999999998" width="109.8423" height="79.9211" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-64" value="Remote Access" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1538.19" y="775" width="111.81079999999999" height="79.9211" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-63" value="Mobile Device Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="772" width="109.8423" height="79.9211" as="geometry" />
+          <mxGeometry x="264.9200000000001" y="852.04" width="90.15729999999999" height="70.0786" as="geometry" />
         </mxCell>
         <mxCell id="qRU6mnN6UbW0WsiVWH5t-9" value="Artificial Intelligence" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1539.17" y="1000.04" width="109.8423" height="79.9211" as="geometry" />
@@ -2698,7 +2698,7 @@
           <mxGeometry x="230" y="40" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-38" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1230" y="732" width="219.9999999999999" height="205" as="geometry" />
+          <mxGeometry x="1220" y="810" width="219.9999999999999" height="205" as="geometry" />
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-7" value="Integration" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;container=0;" vertex="1" parent="alG-EYD2F3jhu0_rQBaI-38">
           <mxGeometry width="220" height="205" as="geometry" />
