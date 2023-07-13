@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T10:51:20.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E3n4IujRPm76me0zWSIr" version="21.5.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-13T10:59:54.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2ZaNhlmZxZhIwm8w6RSJ" version="21.5.2" type="github" pages="11">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2351,7 +2351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Nuy_NeBmGn1QCVYoSvE" name="Technology Reference Model">
-    <mxGraphModel dx="1937" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2632" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2359,10 +2359,10 @@
           <mxGeometry x="200" y="15" width="1940" height="675" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-7" value="&lt;div&gt;Business Platforms&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and Control&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="220" y="65" width="720" height="470" as="geometry" />
+          <mxGeometry x="220" y="65" width="1100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-8" value="&lt;div&gt;Enterprise and Workforce P&lt;span style=&quot;background-color: initial;&quot;&gt;roductivity&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="970" y="65" width="1150" height="470" as="geometry" />
+          <mxGeometry x="1330" y="65" width="790" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-29" value="Health, Safety and Environment" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="802" y="105" width="110" height="70" as="geometry" />
@@ -2374,7 +2374,7 @@
           <mxGeometry x="802" y="295" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-47" value="Document and Content Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="100" width="410" height="200" as="geometry" />
+          <mxGeometry x="1570" y="100" width="410" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-127" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="240" y="105" width="310" height="200" as="geometry" />
@@ -2430,7 +2430,7 @@
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-34" value="Project Risk Analysis" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="Cn0NQXwWPGQvUQf7yxz4-129">
           <mxGeometry x="110" y="35" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-35" value="Site Access Control" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="Cn0NQXwWPGQvUQf7yxz4-129">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-35" value="Cost Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="Cn0NQXwWPGQvUQf7yxz4-129">
           <mxGeometry x="10" y="120" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-36" value="Requirements Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="Cn0NQXwWPGQvUQf7yxz4-129">
@@ -2461,7 +2461,7 @@
           <mxGeometry x="210" y="120" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-138" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="990" y="100" width="210" height="200" as="geometry" />
+          <mxGeometry x="1350" y="100" width="210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-48" value="Enterprise Resource Planning" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="Cn0NQXwWPGQvUQf7yxz4-138">
           <mxGeometry width="210" height="200" as="geometry" />
@@ -2476,51 +2476,51 @@
           <mxGeometry x="10" y="120" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-141" value="Communication and Collaboration Tools" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="990" y="315" width="310" height="200" as="geometry" />
+          <mxGeometry x="1350" y="315" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-142" value="Email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="355" width="90" height="70" as="geometry" />
+          <mxGeometry x="1360" y="355" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-143" value="Video Conferencing and Online Meeting" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="355" width="90" height="70" as="geometry" />
+          <mxGeometry x="1460" y="355" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-144" value="Document Collaboration and Sharing" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="355" width="90" height="70" as="geometry" />
+          <mxGeometry x="1560" y="350" width="90" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-145" value="Team Collaboration&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="435" width="90" height="70" as="geometry" />
+          <mxGeometry x="1360" y="435" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-146" value="Virtual Whiteboarding and Brainstorming" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="435" width="90" height="70" as="geometry" />
+          <mxGeometry x="1460" y="435" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-147" value="Enterprise Social Networking" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="435" width="90" height="70" as="geometry" />
+          <mxGeometry x="1560" y="435" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-149" value="Digital Asset Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="140" width="90" height="70" as="geometry" />
+          <mxGeometry x="1580" y="140" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-150" value="Electronic Signatures" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="140" width="90" height="70" as="geometry" />
+          <mxGeometry x="1680" y="140" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-151" value="Document Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="140" width="90" height="70" as="geometry" />
+          <mxGeometry x="1780" y="140" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-152" value="Knowledge Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="220" width="90" height="70" as="geometry" />
+          <mxGeometry x="1580" y="220" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-153" value="Content Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="219" width="90" height="70" as="geometry" />
+          <mxGeometry x="1680" y="219" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-154" value="Document Capture &amp;amp; Imaging" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="220" width="90" height="70" as="geometry" />
+          <mxGeometry x="1780" y="220" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-155" value="Enterprise Content Search and Retrieval" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="140" width="90" height="70" as="geometry" />
+          <mxGeometry x="1880" y="140" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-92" value="Workflow and Business Process Automation" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="100" width="110" height="80" as="geometry" />
+          <mxGeometry x="1990" y="115" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-4" value="Technology Layer" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-4" value="Foundation Layer" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="200" y="710" width="1940" height="445" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-102" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -2656,25 +2656,19 @@
           <mxGeometry x="60" y="1065" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-52" value="Risk Management and Compliance" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="315" width="310" height="200" as="geometry" />
+          <mxGeometry x="1790" y="315" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-53" value="Compliance Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="355" width="90" height="70" as="geometry" />
+          <mxGeometry x="1800" y="355" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-54" value="Incident Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="355" width="90" height="70" as="geometry" />
+          <mxGeometry x="1900" y="355" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-55" value="Internal Control and Audit" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="435" width="90" height="70" as="geometry" />
+          <mxGeometry x="1800" y="435" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-56" value="Risk Assessment and Analysis" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="435" width="90" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="nIJITHlEucE7e5r2ikga-15" value="Risk Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="355" width="90" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="qRU6mnN6UbW0WsiVWH5t-8" value="Governance" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="435" width="90" height="70" as="geometry" />
+          <mxGeometry x="1900" y="435" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="l6JuikhIHypFHgvenX4o-1" value="Software Engineering" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="2190" y="927.5" width="110" height="205" as="geometry" />
@@ -2729,6 +2723,18 @@
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-21" value="Data Storage and Archiving" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="alG-EYD2F3jhu0_rQBaI-13">
           <mxGeometry x="210" y="120" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alG-EYD2F3jhu0_rQBaI-23" value="Risk Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="355" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alG-EYD2F3jhu0_rQBaI-24" value="Governance" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="435" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alG-EYD2F3jhu0_rQBaI-25" value="Print and Post" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="220" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alG-EYD2F3jhu0_rQBaI-26" value="Learning Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="209" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
