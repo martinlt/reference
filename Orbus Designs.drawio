@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T14:23:15.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8n24y2dNV9e329xE-kK0" version="21.5.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-13T14:30:39.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VxLP5NwNXf9q1ykwAHc3" version="21.5.2" type="github" pages="11">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2359,13 +2359,13 @@
           <mxGeometry x="200" y="15" width="1690" height="615" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-7" value="&lt;div&gt;Business Platforms&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;and Control&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="220" y="100" width="830" height="470" as="geometry" />
+          <mxGeometry x="220" y="100" width="840" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-8" value="&lt;div&gt;Enterprise and Workforce P&lt;span style=&quot;background-color: initial;&quot;&gt;roductivity&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1080" y="100" width="790" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-29" value="Health, Safety and Environment" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="889.08" y="347.5" width="140" height="205" as="geometry" />
+          <mxGeometry x="920" y="237.5" width="124.54" height="312.5" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-31" value="Innovation Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="790" y="140" width="110" height="80" as="geometry" />
@@ -2607,7 +2607,7 @@
         <mxCell id="alG-EYD2F3jhu0_rQBaI-25" value="Print and Post" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1630" y="255" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="alG-EYD2F3jhu0_rQBaI-26" value="Learning Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="alG-EYD2F3jhu0_rQBaI-26" value="Resource Scheduling and Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1740" y="244" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-66" value="End User Computing" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
@@ -2659,13 +2659,13 @@
           <mxGeometry x="60" y="900" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-31" value="Environmental Impact Assessment" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="914.5361714285714" y="471" width="89.0886857142857" height="70" as="geometry" />
+          <mxGeometry x="939.9961714285714" y="472.5" width="89.0886857142857" height="70" as="geometry" />
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-32" value="Health and Safety Passports" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="914.5361714285714" y="390" width="89.0886857142857" height="70" as="geometry" />
+          <mxGeometry x="939.9961714285714" y="385" width="89.0886857142857" height="70" as="geometry" />
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-33" value="Customer Relationship Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="914.54" y="140" width="110" height="80" as="geometry" />
+          <mxGeometry x="927.27" y="137.5" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-62" value="Low-code &lt;br&gt;(Citizen)&amp;nbsp; Development" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1730.1599999999999" y="725.0799999999998" width="109.8423" height="79.9211" as="geometry" />
@@ -2726,6 +2726,9 @@
         </mxCell>
         <mxCell id="nIJITHlEucE7e5r2ikga-4" value="&lt;div&gt;Instant Messaging and Presence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="alG-EYD2F3jhu0_rQBaI-39">
           <mxGeometry x="246.38" y="40" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alG-EYD2F3jhu0_rQBaI-40" value="Site Access Control" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="937.7261714285714" y="297.5" width="89.0886857142857" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
