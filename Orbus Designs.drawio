@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T10:09:09.465Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5CqcxfInkNikH2hSKvNU" version="21.6.3" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-07-24T09:13:06.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="TNuAaE1_DP8GMo2qIApf" version="21.6.5" type="github" pages="11">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1499" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2351,7 +2351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Nuy_NeBmGn1QCVYoSvE" name="Technology Reference Model">
-    <mxGraphModel dx="2452" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2538,7 +2538,7 @@
         <mxCell id="alG-EYD2F3jhu0_rQBaI-14" value="Data Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=14;fontFamily=Comic Sans MS;" parent="alG-EYD2F3jhu0_rQBaI-13" vertex="1">
           <mxGeometry width="410" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="alG-EYD2F3jhu0_rQBaI-15" value="Master Data Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" parent="alG-EYD2F3jhu0_rQBaI-13" vertex="1">
+        <mxCell id="alG-EYD2F3jhu0_rQBaI-15" value="Master Data Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" parent="alG-EYD2F3jhu0_rQBaI-13" vertex="1">
           <mxGeometry x="10" y="40" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-16" value="Data Security and Privacy" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" parent="alG-EYD2F3jhu0_rQBaI-13" vertex="1">
@@ -2628,10 +2628,10 @@
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-64" value="Remote Access" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="264.92" y="854.92" width="90.15729999999999" height="70.0786" as="geometry" />
         </mxCell>
-        <mxCell id="qRU6mnN6UbW0WsiVWH5t-9" value="Artificial Intelligence" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="qRU6mnN6UbW0WsiVWH5t-9" value="Artificial Intelligence" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1520.0000000000002" y="1025.08" width="109.8423" height="79.9211" as="geometry" />
         </mxCell>
-        <mxCell id="alG-EYD2F3jhu0_rQBaI-36" value="Machine Learning" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="alG-EYD2F3jhu0_rQBaI-36" value="Machine Learning" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1728.19" y="1025.08" width="109.8423" height="79.9211" as="geometry" />
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-37" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -2700,7 +2700,7 @@
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-55" value="Internal Control and Audit" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" parent="alG-EYD2F3jhu0_rQBaI-42" vertex="1">
           <mxGeometry x="10" y="120" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-56" value="Risk Assessment and Analysis" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" parent="alG-EYD2F3jhu0_rQBaI-42" vertex="1">
+        <mxCell id="Cn0NQXwWPGQvUQf7yxz4-56" value="Risk Assessment and Analysis" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" parent="alG-EYD2F3jhu0_rQBaI-42" vertex="1">
           <mxGeometry x="110" y="120" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-23" value="Risk Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;" parent="alG-EYD2F3jhu0_rQBaI-42" vertex="1">
