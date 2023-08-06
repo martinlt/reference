@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-01T19:31:55.602Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.2 Safari/605.1.15" etag="IMdm-4EypXZdnjhvyZmN" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-06T18:01:01.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7UqEDPaU6iv6LImMRQpf" version="21.2.0" type="github">
   <diagram name="Page-1" id="DbgQS2VZ8mDrQ_-aRM_W">
-    <mxGraphModel dx="825" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="ezjOB3XX6p05gcalG66d-2" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;DP Switch&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="80" y="430" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ezjOB3XX6p05gcalG66d-3" value="&lt;b&gt;Solar Charge Controller&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Renogy Rover Li&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;100V/20A MPPT&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="ezjOB3XX6p05gcalG66d-3" value="&lt;b&gt;Solar Charge Controller&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;Renogy Rover Li 100V/20A MPPT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="160" y="430" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ezjOB3XX6p05gcalG66d-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.072;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;fillColor=#e51400;strokeColor=#B20000;" parent="1" source="ezjOB3XX6p05gcalG66d-2" target="ezjOB3XX6p05gcalG66d-1" edge="1">
