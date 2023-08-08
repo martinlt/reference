@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T12:38:07.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="R-nM-gdS0rHOjv-ufzZm" version="21.6.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-08-08T12:38:56.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2-6BsEnLdZVwO3w2dDYu" version="21.6.6" type="github" pages="8">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2819,6 +2819,14 @@
         <mxCell id="m3jKD7Qh1_Z3q4-Z0Eec-36" value="PaaS&lt;br&gt;Applications" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;fillColor=#CCFFE6;fillStyle=auto;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="710" y="400" width="100" height="70" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MyQIOZXXSukg87PkSQg6" name="Stakeholder Map">
+    <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
