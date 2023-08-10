@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T08:39:17.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HrorrwIhIhIQ3NWwWUM4" version="21.6.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-08-10T13:59:19.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="35JeRPRtr7ujPGge_VXv" version="21.6.7" type="github" pages="7">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2340,7 +2340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Nuy_NeBmGn1QCVYoSvE" name="Technology Reference Model">
-    <mxGraphModel dx="981" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2638,13 +2638,13 @@
         <mxCell id="Cn0NQXwWPGQvUQf7yxz4-80" value="WAN" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="alG-EYD2F3jhu0_rQBaI-37" vertex="1">
           <mxGeometry x="20.000000000000057" y="84" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5JqcU4BgUO04Gb6-nl91-1" value="Network Services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="alG-EYD2F3jhu0_rQBaI-37">
+        <mxCell id="5JqcU4BgUO04Gb6-nl91-1" value="Network Services" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="alG-EYD2F3jhu0_rQBaI-37" vertex="1">
           <mxGeometry x="240" y="40" width="90.15729999999999" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5JqcU4BgUO04Gb6-nl91-3" value="Observability and Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="alG-EYD2F3jhu0_rQBaI-37">
+        <mxCell id="5JqcU4BgUO04Gb6-nl91-3" value="Observability and Management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="alG-EYD2F3jhu0_rQBaI-37" vertex="1">
           <mxGeometry x="339.84000000000003" y="40" width="90.15729999999999" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="5JqcU4BgUO04Gb6-nl91-2" value="Network Security" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="alG-EYD2F3jhu0_rQBaI-37">
+        <mxCell id="5JqcU4BgUO04Gb6-nl91-2" value="Network Security" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;verticalAlign=top;fontSize=12;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="alG-EYD2F3jhu0_rQBaI-37" vertex="1">
           <mxGeometry x="240" y="120" width="90.15729999999999" height="70" as="geometry" />
         </mxCell>
         <mxCell id="alG-EYD2F3jhu0_rQBaI-38" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1" connectable="0">
@@ -2828,14 +2828,6 @@
         <mxCell id="m3jKD7Qh1_Z3q4-Z0Eec-36" value="PaaS&lt;br&gt;Applications" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;fillColor=#CCFFE6;fillStyle=auto;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="710" y="400" width="100" height="70" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="MyQIOZXXSukg87PkSQg6" name="Stakeholder Map">
-    <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
