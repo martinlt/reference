@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-10T14:00:37.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jZUWzEkDewSU0wHuIy1m" version="21.6.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-09-14T08:43:26.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oqsGY-MUuME63T7KHgCZ" version="21.7.5" type="github" pages="8">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2340,7 +2340,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Nuy_NeBmGn1QCVYoSvE" name="Technology Reference Model">
-    <mxGraphModel dx="2289" dy="1235" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1499" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2824,6 +2824,23 @@
         </mxCell>
         <mxCell id="m3jKD7Qh1_Z3q4-Z0Eec-36" value="PaaS&lt;br&gt;Applications" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;fillColor=#CCFFE6;fillStyle=auto;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="710" y="400" width="100" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Crs3tIywovndKGRihGJV" name="Party Model">
+    <mxGraphModel dx="1499" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wLqWseofRbCIw0d04a67-1" value="Party" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wLqWseofRbCIw0d04a67-2" value="Organisation" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wLqWseofRbCIw0d04a67-3" value="Individual" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
