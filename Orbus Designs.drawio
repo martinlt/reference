@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T12:42:07.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="PG_BS9Y9CD6N2esWVnzK" version="21.7.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-09-18T13:12:37.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ige1B064TfQCHrXfcdRf" version="21.7.5" type="github" pages="9">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2878,18 +2878,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XnnTMLp8LFs8Rj15uuir-10" value="from" style="endArrow=none;startArrow=none;endFill=0;startFill=0;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="XnnTMLp8LFs8Rj15uuir-1" target="XnnTMLp8LFs8Rj15uuir-3" edge="1">
-          <mxGeometry x="-0.0769" y="13" width="160" relative="1" as="geometry">
+        <mxCell id="XnnTMLp8LFs8Rj15uuir-10" value="&amp;nbsp;initiating party" style="endArrow=none;startArrow=none;endFill=0;startFill=0;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="XnnTMLp8LFs8Rj15uuir-1" target="XnnTMLp8LFs8Rj15uuir-3" edge="1">
+          <mxGeometry x="-0.0796" y="12" width="160" relative="1" as="geometry">
             <mxPoint x="379.74" y="380" as="sourcePoint" />
             <mxPoint x="539.74" y="380" as="targetPoint" />
-            <mxPoint y="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XnnTMLp8LFs8Rj15uuir-11" value="to" style="endArrow=none;startArrow=none;endFill=0;startFill=0;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="XnnTMLp8LFs8Rj15uuir-1" target="XnnTMLp8LFs8Rj15uuir-3" edge="1">
-          <mxGeometry x="-0.0769" y="8" width="160" relative="1" as="geometry">
+        <mxCell id="XnnTMLp8LFs8Rj15uuir-11" value="recipient party" style="endArrow=none;startArrow=none;endFill=0;startFill=0;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="XnnTMLp8LFs8Rj15uuir-1" target="XnnTMLp8LFs8Rj15uuir-3" edge="1">
+          <mxGeometry x="-0.0796" y="7" width="160" relative="1" as="geometry">
             <mxPoint x="569.74" y="173" as="sourcePoint" />
             <mxPoint x="699.74" y="173" as="targetPoint" />
-            <mxPoint y="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-12" value="valid for" style="endArrow=none;startArrow=none;endFill=0;startFill=0;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="XnnTMLp8LFs8Rj15uuir-3" target="XnnTMLp8LFs8Rj15uuir-2" edge="1">
