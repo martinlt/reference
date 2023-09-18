@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T13:59:08.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UWYip2S9E11p6TZ5p3Ig" version="21.7.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-09-18T09:26:10.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fRV1INzFn7oeaU-eCTvg" version="21.7.5" type="github" pages="8">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2907,106 +2907,115 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-20" value="Petitioner" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="481.26" y="240" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="470" y="279.37" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-21" value="Supplier" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="598.74" y="120" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="708.74" y="279.37" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-23" value="Land Owner" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="598.74" y="240" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="470" y="200.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-24" value="Manufacturer" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="400" y="180" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="470" y="360" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-25" value="Employee" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="400" y="300" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="588.74" y="440" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-26" value="Employer" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="360" y="240" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="470" y="440" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-27" value="Candidate" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="560" y="300" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="708.74" y="440" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-28" value="Contractor" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="640" y="180" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="708.74" y="200.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-30" value="Integrated Project Team" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="118.11000000000001" y="190" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="219.37000000000003" y="190.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-31" value="Joint Venture" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="219.37" y="190" width="78.74" height="39.37" as="geometry" />
-        </mxCell>
-        <mxCell id="XnnTMLp8LFs8Rj15uuir-35" value="Infrastructure Manager" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="118.11000000000001" y="250" width="78.74" height="39.37" as="geometry" />
-        </mxCell>
-        <mxCell id="XnnTMLp8LFs8Rj15uuir-36" value="HS2 Limited" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="219.37" y="250" width="78.74" height="39.37" as="geometry" />
         </mxCell>
+        <mxCell id="XnnTMLp8LFs8Rj15uuir-36" value="HS2 Limited" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="11.259999999999991" y="190.63" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-37" value="DfT" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="118.11000000000001" y="310.63" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="118.11000000000001" y="190.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-38" value="West Coast Partnership Development" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="118.11000000000001" y="370" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-39" value="ORR" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="219.37" y="310.63" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="118.11" y="250" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-40" value="Network Rail" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="219.37" y="370" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="118.11" y="310" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-42" value="Community" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="118.11000000000001" y="430" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="320" y="250" width="78.74" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="XnnTMLp8LFs8Rj15uuir-44" value="Business" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="219.37" y="430" width="78.74" height="39.37" as="geometry" />
+        <mxCell id="XnnTMLp8LFs8Rj15uuir-44" value="Company" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="219.37" y="310" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-45" value="Employment" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="760" y="120" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="870" y="120" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-1" value="Sponsorship" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="838.74" y="180" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="948.74" y="180" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-2" value="Contractual Obligation" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="880" y="120" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="990" y="120" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-4" value="Regulatory Oversight" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="950" y="180" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="1060" y="180" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-5" value="Partnership" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="741.26" y="180" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="851.26" y="180" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-6" value="Petition" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="741.26" y="300" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="851.26" y="300" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-7" value="Collaboration" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="917.48" y="230" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="1027.48" y="230" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-8" value="Stakeholder" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="760" y="240" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="870" y="240" width="78.74" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="fF1jVUJMQ0Hv664YDAkh-9" value="Customer" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="520" y="180" width="78.74" height="39.37" as="geometry" />
+        <mxCell id="fF1jVUJMQ0Hv664YDAkh-9" value="Rail Customer" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="730" y="374" width="78.74" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="fF1jVUJMQ0Hv664YDAkh-10" value="Local Authority" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="118.11000000000001" y="490" width="78.74" height="39.37" as="geometry" />
+        <mxCell id="fF1jVUJMQ0Hv664YDAkh-10" value="Directorate" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="11.26000000000002" y="250" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-11" value="Sponsor" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="470" y="120" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-12" value="Project Client" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="481.26" y="120" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="591.26" y="120" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-13" value="General Public" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="219.37" y="490" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="320" y="190.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-14" value="Public Consultation" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="838.74" y="300" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="948.74" y="300" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-15" value="Land Acquisition" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="940" y="300" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="1050" y="300" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-17" value="Planning Coordination" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="801.26" y="360" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="911.26" y="360" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="fF1jVUJMQ0Hv664YDAkh-19" value="Health &amp;amp; Safety Regulator" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="708.74" y="120" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="fF1jVUJMQ0Hv664YDAkh-20" value="Local Governance &amp;amp; Planning" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="588.74" y="200.63" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="fF1jVUJMQ0Hv664YDAkh-21" value="Design Consultant" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="588.74" y="279.37" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="fF1jVUJMQ0Hv664YDAkh-22" value="Local Authority" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="118.11000000000001" y="430" width="78.74" height="39.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
