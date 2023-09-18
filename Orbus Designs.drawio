@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T13:12:37.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ige1B064TfQCHrXfcdRf" version="21.7.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-09-18T13:55:38.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NEe7cNeF3NzHJ_9h1Qi3" version="21.7.5" type="github" pages="10">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2829,7 +2829,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Crs3tIywovndKGRihGJV" name="CDM - Organisations Subject Area">
-    <mxGraphModel dx="1481" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3328,6 +3328,14 @@
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-79" value="Example #1 - Contractual Obligation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Architects Daughter;" vertex="1" parent="fF1jVUJMQ0Hv664YDAkh-105">
           <mxGeometry width="360.26" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yPTCvAuoUVoSZ81tSPY3" name="CDM - Design Subject Area">
+    <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
