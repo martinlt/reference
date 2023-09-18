@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T12:15:32.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="g-Dfr3LoMwdadpKloKt6" version="21.7.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-09-18T12:15:59.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="RRPlLOeKIxtxj2SP1SEQ" version="21.7.5" type="github" pages="8">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3187,7 +3187,7 @@
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-103" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="679.74" y="520" width="408.74" height="129.37" as="geometry" />
         </mxCell>
-        <mxCell id="fF1jVUJMQ0Hv664YDAkh-69" value="Example #2 - Sponsorship" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="fF1jVUJMQ0Hv664YDAkh-103">
+        <mxCell id="fF1jVUJMQ0Hv664YDAkh-69" value="Example #2 - Sponsorship" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Architects Daughter;" vertex="1" parent="fF1jVUJMQ0Hv664YDAkh-103">
           <mxGeometry width="260.26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-70" value="Sponsorship" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="fF1jVUJMQ0Hv664YDAkh-103">
@@ -3271,7 +3271,7 @@
             <mxPoint x="253" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fF1jVUJMQ0Hv664YDAkh-92" value="Example #3 - Regulatory Oversight" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="fF1jVUJMQ0Hv664YDAkh-104">
+        <mxCell id="fF1jVUJMQ0Hv664YDAkh-92" value="Example #3 - Regulatory Oversight" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Architects Daughter;" vertex="1" parent="fF1jVUJMQ0Hv664YDAkh-104">
           <mxGeometry width="370.26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-105" value="" style="group;fillColor=none;strokeColor=none;dashed=1;perimeterSpacing=0;" vertex="1" connectable="0" parent="1">
@@ -3325,7 +3325,7 @@
             <mxPoint x="162.51999999999998" y="169.34000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fF1jVUJMQ0Hv664YDAkh-79" value="Example #1 - Contractual Obligation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="fF1jVUJMQ0Hv664YDAkh-105">
+        <mxCell id="fF1jVUJMQ0Hv664YDAkh-79" value="Example #1 - Contractual Obligation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Architects Daughter;" vertex="1" parent="fF1jVUJMQ0Hv664YDAkh-105">
           <mxGeometry width="360.26" height="30" as="geometry" />
         </mxCell>
       </root>
