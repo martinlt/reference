@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T10:56:55.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HfZERjfVjrx81bh0Xxn0" version="21.7.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-09-18T11:14:17.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3_R_tU6om1Q1UrZO6d4u" version="21.7.5" type="github" pages="8">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2833,7 +2833,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wLqWseofRbCIw0d04a67-1" value="Party" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=2;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="wLqWseofRbCIw0d04a67-1" value="Party" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=3;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="89.74" y="40" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="wLqWseofRbCIw0d04a67-2" value="Organisation" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -2842,13 +2842,13 @@
         <mxCell id="wLqWseofRbCIw0d04a67-3" value="Individual" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="11" y="140" width="78.74" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="XnnTMLp8LFs8Rj15uuir-1" value="Party Role" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=2;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="XnnTMLp8LFs8Rj15uuir-1" value="Party Role" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=3;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="544.74" y="40" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-2" value="Time Period" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1079.74" y="40" width="78.74" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="XnnTMLp8LFs8Rj15uuir-3" value="Party Role Relationship" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=2;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="XnnTMLp8LFs8Rj15uuir-3" value="Party Role Relationship" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=3;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="851" y="40" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="XnnTMLp8LFs8Rj15uuir-7" value="assumes the role of" style="endArrow=none;html=1;endSize=14;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" source="wLqWseofRbCIw0d04a67-1" target="XnnTMLp8LFs8Rj15uuir-1" edge="1">
