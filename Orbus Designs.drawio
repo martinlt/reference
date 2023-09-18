@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T13:55:38.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NEe7cNeF3NzHJ_9h1Qi3" version="21.7.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-09-18T14:44:46.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="3u1XEUxKjKlf_qGh0Rs-" version="21.7.5" type="github" pages="10">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2829,7 +2829,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Crs3tIywovndKGRihGJV" name="CDM - Organisations Subject Area">
-    <mxGraphModel dx="1049" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1481" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3327,6 +3327,41 @@
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-79" value="Example #1 - Contractual Obligation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Architects Daughter;" vertex="1" parent="fF1jVUJMQ0Hv664YDAkh-105">
           <mxGeometry width="360.26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qc3yXjCEXK72AjnR7mS6-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="710" width="120" height="89.33999999999992" as="geometry" />
+        </mxCell>
+        <mxCell id="qc3yXjCEXK72AjnR7mS6-13" value="Notation Guide" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Architects Daughter;fontColor=#CC0000;" vertex="1" parent="qc3yXjCEXK72AjnR7mS6-14">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qc3yXjCEXK72AjnR7mS6-4" value="" style="endArrow=none;endFill=0;endSize=24;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;sketch=1;strokeColor=#CC0000;fontColor=#5AA9E6;locked=0;startArrow=diamondThin;startFill=0;targetPerimeterSpacing=19;startSize=24;" edge="1" parent="qc3yXjCEXK72AjnR7mS6-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint y="89.33999999999992" as="sourcePoint" />
+            <mxPoint x="120" y="89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qc3yXjCEXK72AjnR7mS6-9" value="is composed of" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Architects Daughter;fontColor=#5AA9E6;" vertex="1" connectable="0" parent="qc3yXjCEXK72AjnR7mS6-4">
+          <mxGeometry x="-0.2519" y="1" relative="1" as="geometry">
+            <mxPoint x="22" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qc3yXjCEXK72AjnR7mS6-5" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot; style=&quot;font-size: 8px;&quot;&gt;extends&lt;/font&gt;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Helvetica;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;sketch=1;strokeColor=#CC0000;fontColor=#5AA9E6;locked=0;" edge="1" parent="qc3yXjCEXK72AjnR7mS6-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint y="30.49000000000001" as="sourcePoint" />
+            <mxPoint x="120" y="30" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qc3yXjCEXK72AjnR7mS6-10" value="" style="endArrow=none;endFill=0;endSize=24;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;sketch=1;strokeColor=#CC0000;fontColor=#5AA9E6;locked=0;startArrow=diamondThin;startFill=1;startSize=24;" edge="1" parent="qc3yXjCEXK72AjnR7mS6-14">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint y="61" as="sourcePoint" />
+            <mxPoint x="120" y="61" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qc3yXjCEXK72AjnR7mS6-11" value="aggregates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Architects Daughter;fontColor=#5AA9E6;" vertex="1" connectable="0" parent="qc3yXjCEXK72AjnR7mS6-10">
+          <mxGeometry x="-0.2519" y="1" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
