@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T13:09:03.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="97WlI2Gl5C-2_wJD_d-2" version="21.7.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-09-21T13:11:25.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="79kwfhk3M9NR8UPxsgr1" version="21.7.5" type="github" pages="12">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2829,7 +2829,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Crs3tIywovndKGRihGJV" name="CDM - Organisations Subject Area">
-    <mxGraphModel dx="881" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1499" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3367,7 +3367,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5NcHqb5jDhBlGStjr3rT" name="CDM - Asset Subject Area">
-    <mxGraphModel dx="839" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3776,6 +3776,15 @@
             <mxPoint x="740" y="539.5699999999999" as="sourcePoint" />
             <mxPoint x="750" y="539.5699999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VXUdBD-PjakcWJ4lwgRR-1" value="Contractor" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="VXUdBD-PjakcWJ4lwgRR-2" value="Project Client" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="120" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="VXUdBD-PjakcWJ4lwgRR-3" value="Design Consultant" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="78.74" height="39.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
