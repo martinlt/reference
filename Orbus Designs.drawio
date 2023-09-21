@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T13:28:28.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="crES1CkwXut1qKv1rX-g" version="21.7.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-21T13:32:14.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lRsb5LmmdunuCjSuL0Pr" version="21.7.5" type="github" pages="11">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3845,6 +3845,9 @@
             <mxPoint x="968" y="540" as="sourcePoint" />
             <mxPoint x="1066" y="539" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F7wnUn0cHlJHpXIdN8mh-1" value="In the context of rail and construction projects, a Design Element is a distinct and identifiable part of a project&#39;s design specifications. It defines how a specific component, system, or feature should be designed and constructed. Design Elements serve as the detailed &quot;blueprints&quot; or guidelines for various components of the project. They are the representation of engineering decisions and provide specific details regarding dimensions, materials, standards, and other relevant specifications." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="530" y="59.370000000000005" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
