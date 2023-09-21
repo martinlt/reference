@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T13:53:47.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bGN6E6cr8pQsOLgSyFN_" version="21.7.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-21T14:34:33.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="82vhVhG1i25GNAMDyixZ" version="21.7.5" type="github" pages="11">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2829,7 +2829,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Crs3tIywovndKGRihGJV" name="CDM - Organisations Subject Area">
-    <mxGraphModel dx="1333" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3053,12 +3053,6 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="198.74" y="310" as="sourcePoint" />
             <mxPoint x="239.74" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fF1jVUJMQ0Hv664YDAkh-35" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;sketch=1;curveFitting=1;jiggle=2;" parent="1" source="XnnTMLp8LFs8Rj15uuir-38" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="198.74" y="370" as="sourcePoint" />
-            <mxPoint x="209.74" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fF1jVUJMQ0Hv664YDAkh-36" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="fF1jVUJMQ0Hv664YDAkh-13" edge="1">
@@ -3363,11 +3357,20 @@
             <mxPoint x="15" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8bU6ifWhyMVRdevcLt3z-1" value="Railway Safety and Standards Board" style="html=1;whiteSpace=wrap;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="229.74" y="400" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="8bU6ifWhyMVRdevcLt3z-2" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=9;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="186.85" y="419.27" as="sourcePoint" />
+            <mxPoint x="228.85" y="419.27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="5NcHqb5jDhBlGStjr3rT" name="CDM - Asset Subject Area">
-    <mxGraphModel dx="1325" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3847,7 +3850,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F7wnUn0cHlJHpXIdN8mh-1" value="In the context of rail and construction projects, a Design Element is a distinct and identifiable part of a project&#39;s design specifications. It defines how a specific component, system, or feature should be designed and constructed. Design Elements serve as the detailed &quot;blueprints&quot; or guidelines for various components of the project. They are the representation of engineering decisions and provide specific details regarding dimensions, materials, standards, and other relevant specifications." style="text;html=1;strokeColor=#666666;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Architects Daughter;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="481.26" y="10" width="250" height="130" as="geometry" />
+          <mxGeometry x="330" y="9.37" width="421.26" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9uRP-OILOgu38X8wUUsk-1" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#666666;" edge="1" parent="1" source="m6tXkwJhsvlV7YhjtfVI-1" target="F7wnUn0cHlJHpXIdN8mh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3863,6 +3866,20 @@
             <mxPoint x="1080.3700000000001" y="463.9" as="sourcePoint" />
             <mxPoint x="1080.3700000000001" y="524.9" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9uRP-OILOgu38X8wUUsk-4" value="System" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="9uRP-OILOgu38X8wUUsk-5" value="Interface" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="240" y="640" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="QAF49v3oKVxi_2JRAlCc-1" value="" style="endArrow=none;html=1;endSize=10;startArrow=diamondThin;startSize=10;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;endFill=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9uRP-OILOgu38X8wUUsk-4" target="9uRP-OILOgu38X8wUUsk-5">
+          <mxGeometry x="1" y="9" relative="1" as="geometry">
+            <mxPoint x="70" y="500" as="sourcePoint" />
+            <mxPoint x="230" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
