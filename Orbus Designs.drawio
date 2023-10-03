@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T12:38:42.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="sLDvCM2hvVQoRUJe2AiQ" version="21.8.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-10-03T12:42:33.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tOKt7utY9zn564Z1dWKP" version="21.8.0" type="github" pages="12">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4071,7 +4071,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IZvbPbK0yNKin5LJDOfW" name="Page-12">
-    <mxGraphModel dx="881" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1175" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4132,8 +4132,26 @@
             <mxPoint x="1150" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6zwPmcIKFJKnyTbBLpqg-27" value="LINE OF INTERACTION" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Architects Daughter;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="10" y="264" width="130" height="30" as="geometry" />
+        <mxCell id="6zwPmcIKFJKnyTbBLpqg-27" value="LINE OF INTERACTION" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Architects Daughter;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="264" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6zwPmcIKFJKnyTbBLpqg-28" value="FRONTSTAGE" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Architects Daughter;fontStyle=1;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="294" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6zwPmcIKFJKnyTbBLpqg-29" value="EMPLOYEE ACTIONS" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Architects Daughter;fontStyle=0;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="330" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6zwPmcIKFJKnyTbBLpqg-30" value="TECHNOLOGY" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Architects Daughter;fontStyle=0;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="384" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6zwPmcIKFJKnyTbBLpqg-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="466" as="sourcePoint" />
+            <mxPoint x="1150" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6zwPmcIKFJKnyTbBLpqg-32" value="LINE OF VISIBILITY" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Architects Daughter;fontStyle=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
