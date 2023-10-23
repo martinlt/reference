@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T09:52:23.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_68iBYgEXwohyXKrEHt6" version="22.0.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-10-23T10:05:04.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SXyKGSuzc3dr5QTlEES-" version="22.0.6" type="github" pages="12">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4218,46 +4218,46 @@
           <mxGeometry x="420" y="299" width="291" height="291" as="geometry" />
         </mxCell>
         <mxCell id="6OArXRcaZO4Fw2o97rhc-1" value="Contract&lt;br&gt;Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="360" y="130" width="30" height="60" as="geometry" />
+          <mxGeometry x="270" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6OArXRcaZO4Fw2o97rhc-3" value="Release&lt;br&gt;Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="530" y="80" width="30" height="60" as="geometry" />
+          <mxGeometry x="420" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6OArXRcaZO4Fw2o97rhc-4" value="Defect&lt;br&gt;Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="230" y="250" width="30" height="60" as="geometry" />
+          <mxGeometry x="170" y="230" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-1" value="Document Management System&lt;br&gt;(eB)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="159.99999999999994" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="99.99999999999994" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-2" value="System Interface&amp;nbsp; Management System (Relatics)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="360" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="180" y="630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-3" value="Asset Information Management System&lt;br&gt;(AIMS 2)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="770" y="620" width="80" height="80" as="geometry" />
+          <mxGeometry x="569.21" y="690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-4" value="Requirements Management System (DOORS)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="189.99999999999994" y="570" width="80" height="80" as="geometry" />
+          <mxGeometry x="79.99999999999994" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-5" value="Enterprise Risk Management System (Xactium)" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="580" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-6" value="Software&lt;br&gt;Developer&lt;br&gt;(Contractor)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="840" y="80" width="30" height="60" as="geometry" />
+          <mxGeometry x="880" y="60" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-7" value="Software Repository" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="910" y="219" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-8" value="Software Release" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="670" y="195" width="100" height="50" as="geometry" />
+          <mxGeometry x="950" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-9" value="IOT Device (Asset)" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="810" y="350" width="100" height="50" as="geometry" />
+          <mxGeometry x="970" y="549.06" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-10" value="Configuration&lt;br&gt;Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="370" width="30" height="60" as="geometry" />
+          <mxGeometry x="900" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4ttltdDcWB7tjAEgC_vl-11" value="Product Lifecycle Management System" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="880" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="830" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mh69fFIftKB-Bptg3w8W-1" value="Configuration&lt;br&gt;Management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=10;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="560" y="490.00000000000006" width="98.425" height="59.055" as="geometry" />
@@ -4267,6 +4267,12 @@
         </mxCell>
         <mxCell id="kLW8uOB9ZBVftTWPdNHL-1" value="Release Management" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f8cecc;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=10;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="450" y="440.00000000000006" width="98.425" height="59.055" as="geometry" />
+        </mxCell>
+        <mxCell id="xSDkta2MxXnyop4sR9iW-1" value="Deployment&lt;br&gt;Engineer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="800" y="599.06" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSDkta2MxXnyop4sR9iW-2" value="Quality&lt;br&gt;Assurance" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="580" y="70" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
