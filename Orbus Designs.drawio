@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T14:38:56.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="L0KO_o98FvCm91IIeHrH" version="22.0.6" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-10-25T14:43:09.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZAaRq0C6jeXV5tJO5leZ" version="22.0.6" type="github" pages="12">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -205,6 +205,18 @@
               <mxPoint x="490" y="560" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A-OLVHtnSI1aAP79jTUU-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-OLVHtnSI1aAP79jTUU-2" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-OLVHtnSI1aAP79jTUU-3" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="550" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-OLVHtnSI1aAP79jTUU-4" value="360 degree view of the information landscape" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="200" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
