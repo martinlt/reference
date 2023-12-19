@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T15:53:14.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KE8hW_qrLN1KxeFdkC24" version="22.1.11" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-12-19T15:57:20.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ndmrwmr2LIw_QjBUIUAk" version="22.1.11" type="github" pages="14">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
-    <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,7 +222,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZLQFWOVWHKN_zhoa3P1L" name="IT Orbus Context">
-    <mxGraphModel dx="1259" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4319,6 +4319,9 @@
         </mxCell>
         <mxCell id="_8LzVIKIQoi6Rl7Z6R2M-1" value="&lt;h1&gt;Core Operational Concepts&lt;/h1&gt;&lt;p&gt;This conceptual model defines core concepts relating to the operational aspects of HS2 and hence underpinning the Unified Target Operating Model (UTOM) information management.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;fontFamily=Verdana;" vertex="1" parent="XvT1EuBo9uNTpGuK6Rwi-1">
           <mxGeometry x="141" y="12.13" width="469" height="87.87" as="geometry" />
+        </mxCell>
+        <mxCell id="wMUBg5UZLqDz4AX6dXgx-2" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;HS2 IT Strategy &amp;amp; Architecture&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Last Modified :&lt;/b&gt; 19/12/2023&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Author :&lt;/b&gt; Martin Thomas&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Status :&lt;/b&gt; Draft for Comment" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingBottom=0;spacingLeft=0;spacingRight=0;spacing=15;fontFamily=Comic Sans MS;fontSize=10;" vertex="1" parent="XvT1EuBo9uNTpGuK6Rwi-1">
+          <mxGeometry x="40" y="760" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
