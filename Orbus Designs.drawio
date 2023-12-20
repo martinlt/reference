@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T09:35:40.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_er-RiIPBXRLEeriNlVJ" version="22.1.11" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-12-20T09:36:42.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3XxZ3kfF8aWHU6gRNjmd" version="22.1.11" type="github" pages="14">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3960,7 +3960,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UTOM Related Operational Concepts" id="7_4CDDwnJReRO-9hozmA">
-    <mxGraphModel dx="1574" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1095" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XvT1EuBo9uNTpGuK6Rwi-0" />
         <mxCell id="XvT1EuBo9uNTpGuK6Rwi-1" parent="XvT1EuBo9uNTpGuK6Rwi-0" />
@@ -4320,8 +4320,8 @@
         <mxCell id="_8LzVIKIQoi6Rl7Z6R2M-1" value="&lt;h1&gt;UTOM Related Operational Concepts&lt;/h1&gt;&lt;p&gt;This conceptual model defines core concepts relating to the operational aspects of HS2 that will underpin the Unified Target Operating Model (UTOM) information management practices.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;fontFamily=Verdana;" vertex="1" parent="XvT1EuBo9uNTpGuK6Rwi-1">
           <mxGeometry x="141" y="12.13" width="469" height="87.87" as="geometry" />
         </mxCell>
-        <mxCell id="wMUBg5UZLqDz4AX6dXgx-3" value="Some possible examples: &lt;br&gt;&lt;br&gt;&lt;b&gt;Operational Concept&lt;/b&gt;: &quot;High-Frequency Commuter Service&quot; - &quot; running trains at high frequency during peak hours to cater to the high volume of daily commuters&quot;&lt;br&gt;&lt;br&gt;&lt;b&gt;A Degraded Mode&lt;/b&gt;&amp;nbsp;for this could be: &quot;Partial Line Closure with Shuttle Service&quot;&lt;br&gt;&lt;br&gt;An &lt;b&gt;Operational Scenario &lt;/b&gt;could be: &quot;Emergency Signal Failure During Peak Hours&quot;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=10;dashed=1;" vertex="1" parent="XvT1EuBo9uNTpGuK6Rwi-1">
-          <mxGeometry x="40" y="750" width="690" height="130" as="geometry" />
+        <mxCell id="wMUBg5UZLqDz4AX6dXgx-3" value="Some possible examples: &lt;br&gt;&lt;br&gt;An &lt;b&gt;Operational Concept&lt;/b&gt; could be: &quot;High-Frequency Commuter Service&quot; - &quot;running trains at high frequency during peak hours to cater to the high volume of daily commuters&quot;&lt;br&gt;&lt;br&gt;A&lt;b&gt; Degraded Mode&lt;/b&gt;&amp;nbsp;for this could be: &quot;Partial Line Closure with Shuttle Service&quot;&lt;br&gt;&lt;br&gt;An &lt;b&gt;Operational Scenario &lt;/b&gt;could be: &quot;Emergency Signal Failure During Peak Hours&quot;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=10;dashed=1;" vertex="1" parent="XvT1EuBo9uNTpGuK6Rwi-1">
+          <mxGeometry x="40" y="760" width="540" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
