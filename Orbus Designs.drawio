@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T10:26:57.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kew0B94cII3MPQpfydeY" version="22.1.11" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-12-22T10:45:10.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HUVjBE-nSWb697DQd-gM" version="22.1.11" type="github" pages="14">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4358,7 +4358,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hgi8IhO5plL3Q7Lo7MFd-0" value="Add in:&lt;br&gt;&lt;br&gt;Project, Org State, Config State, Railway Capability, Activity, Resource Requirement, ISO9000 Assessment Criteria&lt;br&gt;MOR - are defined and then link to concepts" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=8;dashed=1;" parent="XvT1EuBo9uNTpGuK6Rwi-1" vertex="1">
+        <mxCell id="hgi8IhO5plL3Q7Lo7MFd-0" value="Add in:&lt;br&gt;&lt;br&gt;Project, Org State, Config State, Railway Capability, Activity, Resource Requirement, ISO9000 Assessment Criteria&lt;br&gt;MOR - are defined and then link to concepts&lt;br&gt;Consider - Asset Location, Criticality" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=8;dashed=1;" parent="XvT1EuBo9uNTpGuK6Rwi-1" vertex="1">
           <mxGeometry x="630" y="760" width="540" height="60" as="geometry" />
         </mxCell>
       </root>
