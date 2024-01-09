@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T10:49:12.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="k5HRXmDwVS-9nfJsY-ZI" version="22.1.17" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-01-09T10:59:47.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="TStyRHTCDRZfKnmoh4nl" version="22.1.17" type="github" pages="15">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4273,13 +4273,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UrA3GuhzLrYDT8VxFcMD-6" value="delivers ▼" style="endArrow=none;endFill=0;endSize=10;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#666666;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="XvT1EuBo9uNTpGuK6Rwi-1" source="UrA3GuhzLrYDT8VxFcMD-4" target="UrA3GuhzLrYDT8VxFcMD-1" edge="1">
+        <mxCell id="UrA3GuhzLrYDT8VxFcMD-6" value="delivers ▼" style="endArrow=none;endFill=0;endSize=10;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="XvT1EuBo9uNTpGuK6Rwi-1" source="UrA3GuhzLrYDT8VxFcMD-4" target="UrA3GuhzLrYDT8VxFcMD-1" edge="1">
           <mxGeometry x="0.4145" width="160" relative="1" as="geometry">
             <mxPoint x="649" y="190" as="sourcePoint" />
             <mxPoint x="528" y="421" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="1280" y="60" />
+              <mxPoint x="1360" y="60" />
+              <mxPoint x="1360" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4407,17 +4408,15 @@
           <mxGeometry x="1240" y="640" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="9Gn2eoCdIOYL5Fu9EBQM-2" value="Business Continuity Scenario" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="XvT1EuBo9uNTpGuK6Rwi-1">
-          <mxGeometry x="1240" y="520.63" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="1240" y="160" width="78.74" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="9Gn2eoCdIOYL5Fu9EBQM-3" value="◄ impacts" style="endArrow=none;endFill=0;endSize=10;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;entryX=0.895;entryY=0.996;entryDx=0;entryDy=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="XvT1EuBo9uNTpGuK6Rwi-1" source="9Gn2eoCdIOYL5Fu9EBQM-2" target="UrA3GuhzLrYDT8VxFcMD-0">
-          <mxGeometry x="0.4754" width="160" relative="1" as="geometry">
+        <mxCell id="9Gn2eoCdIOYL5Fu9EBQM-3" value="impacts&amp;nbsp;▼" style="endArrow=none;endFill=0;endSize=10;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="XvT1EuBo9uNTpGuK6Rwi-1" source="9Gn2eoCdIOYL5Fu9EBQM-2" target="UrA3GuhzLrYDT8VxFcMD-0">
+          <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1289" y="411" as="sourcePoint" />
             <mxPoint x="1119" y="333" as="targetPoint" />
-            <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="1200" y="540" />
-              <mxPoint x="1200" y="360" />
-              <mxPoint x="1110" y="360" />
+              <mxPoint x="1160" y="180" />
+              <mxPoint x="1160" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4441,6 +4440,9 @@
               <mxPoint x="800" y="290" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fwca5jSiKDdsPjj65Fyu-0" value="Readiness Declaration" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="XvT1EuBo9uNTpGuK6Rwi-1">
+          <mxGeometry x="1240" y="520.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
