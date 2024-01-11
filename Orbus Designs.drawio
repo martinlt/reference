@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T13:59:20.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pPa9QZTT4mXRIx4cfQd4" version="22.1.18" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-01-11T14:00:15.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yW8fa9_8GzU_jmjUcVOi" version="22.1.18" type="github" pages="14">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1259" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3376,7 +3376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5NcHqb5jDhBlGStjr3rT" name="CDM - Asset Subject Area">
-    <mxGraphModel dx="815" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1180" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3978,7 +3978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UTOM Related Operational Concepts" id="7_4CDDwnJReRO-9hozmA">
-    <mxGraphModel dx="1711" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1180" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XvT1EuBo9uNTpGuK6Rwi-0" />
         <mxCell id="XvT1EuBo9uNTpGuK6Rwi-1" parent="XvT1EuBo9uNTpGuK6Rwi-0" />
@@ -4367,13 +4367,13 @@
         <mxCell id="9FwOn-IzmieKHypDc3Cb-0" value="Configuration State" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="XvT1EuBo9uNTpGuK6Rwi-1" vertex="1">
           <mxGeometry x="639" y="240" width="78.74" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="9FwOn-IzmieKHypDc3Cb-1" value="defines &lt;br&gt;setup of ▼" style="endArrow=none;endFill=0;endSize=10;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;entryX=0.894;entryY=0.057;entryDx=0;entryDy=0;strokeColor=#666666;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryPerimeter=0;" parent="XvT1EuBo9uNTpGuK6Rwi-1" source="9FwOn-IzmieKHypDc3Cb-0" target="irqvVyOjskOClxGCZSpT-0" edge="1">
+        <mxCell id="9FwOn-IzmieKHypDc3Cb-1" value="defines &lt;br&gt;setup of ▼" style="endArrow=none;endFill=0;endSize=10;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;entryX=0.894;entryY=0.057;entryDx=0;entryDy=0;strokeColor=#666666;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="XvT1EuBo9uNTpGuK6Rwi-1" source="9FwOn-IzmieKHypDc3Cb-0" target="irqvVyOjskOClxGCZSpT-0" edge="1">
           <mxGeometry x="-0.0405" width="160" relative="1" as="geometry">
             <mxPoint x="649" y="390" as="sourcePoint" />
             <mxPoint x="528" y="501" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="540" y="270" />
+              <mxPoint x="540" y="260" />
               <mxPoint x="540" y="440" />
               <mxPoint x="510" y="440" />
             </Array>
