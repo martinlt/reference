@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T15:29:48.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="IrocpZNmyetHgjuyzQDq" version="22.1.18" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-01-16T15:15:28.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-cJcYQqavgQ31Yubn8tk" version="22.1.18" type="github" pages="14">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1499" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -222,7 +222,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UTOM Related Operational Concepts" id="7_4CDDwnJReRO-9hozmA">
-    <mxGraphModel dx="1499" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XvT1EuBo9uNTpGuK6Rwi-0" />
         <mxCell id="XvT1EuBo9uNTpGuK6Rwi-1" parent="XvT1EuBo9uNTpGuK6Rwi-0" />
@@ -838,6 +838,16 @@
               <mxPoint x="520" y="200" />
               <mxPoint x="520" y="320" />
               <mxPoint x="498" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DBBweMYJqlSvJDeSKkKm-0" value="consists&lt;br&gt;of" style="endArrow=none;html=1;endSize=14;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=middle;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endFill=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=default;strokeColor=#666666;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="XvT1EuBo9uNTpGuK6Rwi-1">
+          <mxGeometry x="-0.2385" y="1" relative="1" as="geometry">
+            <mxPoint x="458.68499999999995" y="519.84" as="sourcePoint" />
+            <mxPoint x="439" y="509.99750000000006" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="410" y="539.21" />
             </Array>
           </mxGeometry>
         </mxCell>
