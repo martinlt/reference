@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-30T11:04:44.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZQWaLSbARFMTh4tUix3-" version="23.0.2" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2024-01-30T11:25:03.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="HywcKa-1oVYFJWJ9KWRC" version="23.0.2" type="github" pages="15">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1499" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -879,7 +879,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Copy of UTOM Related Operational Concepts" id="huN3qGrhHli7OxKvZGvw">
+  <diagram name="Metamodel Workshop Map" id="huN3qGrhHli7OxKvZGvw">
     <mxGraphModel dx="2444" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G0M9hqJaqDtonVHIMYgN-0" />
