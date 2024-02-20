@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-19T15:42:51.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NdeTtvuMIdYt6hUhPogk" version="23.1.5" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-02-20T14:02:16.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="5qPq1_eDeYOTp5skkxa2" version="23.1.5" type="github" pages="17">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1499" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -222,7 +222,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UTOM Related Operational Concepts" id="7_4CDDwnJReRO-9hozmA">
-    <mxGraphModel dx="1426" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="XvT1EuBo9uNTpGuK6Rwi-0" />
         <mxCell id="XvT1EuBo9uNTpGuK6Rwi-1" parent="XvT1EuBo9uNTpGuK6Rwi-0" />
