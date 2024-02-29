@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T14:33:23.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="K1DCuS40Mg4zvKzGWT9f" version="23.1.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-02-29T14:39:25.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wgA7dRJUu83hdmSXmpVw" version="23.1.7" type="github" pages="17">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1499" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6839,67 +6839,67 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5s22OJfKSw3S-hFQXEtD-1" value="Information &amp;amp; Technology Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="140" y="120" width="240" height="30" as="geometry" />
+          <mxGeometry x="480" y="270" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-2" value="HS2 Programme Strategic Goals &amp;amp; Objectives" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="345" y="50" width="240" height="30" as="geometry" />
+          <mxGeometry x="40" y="10" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-3" value="Unified Target Operating Model" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="50" y="200" width="240" height="30" as="geometry" />
+          <mxGeometry x="320" y="10" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-4" value="I&amp;amp;T Benefits Framework" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="570" y="110" width="240" height="30" as="geometry" />
+          <mxGeometry x="160" y="230" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-5" value="I&amp;amp;T Product Management Approach" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="410" y="190" width="240" height="30" as="geometry" />
+          <mxGeometry x="160" y="300" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-6" value="EA Principles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="760" y="170" width="240" height="30" as="geometry" />
+          <mxGeometry x="800" y="160" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-7" value="Artificial Intelligence Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="440" y="260" width="240" height="30" as="geometry" />
+          <mxGeometry x="100" y="650" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-8" value="Integration Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="60" y="400" width="240" height="30" as="geometry" />
+          <mxGeometry x="800" y="220" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-9" value="Technology Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="465" y="600" width="240" height="30" as="geometry" />
+          <mxGeometry x="520" y="560" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-10" value="Vendor Management Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="80" y="500" width="240" height="30" as="geometry" />
+          <mxGeometry x="160" y="440" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-11" value="Security Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="240" height="30" as="geometry" />
+          <mxGeometry x="100" y="600" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-12" value="Talent &amp;amp; Recruitment Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="620" y="370" width="240" height="30" as="geometry" />
+          <mxGeometry x="800" y="340" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-13" value="Sourcing Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="240" height="30" as="geometry" />
+          <mxGeometry x="800" y="399" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-14" value="Data &amp;amp; Information Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="30" y="290" width="240" height="30" as="geometry" />
+          <mxGeometry x="800" y="280" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-15" value="Information and Cyber Security Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="760" y="220" width="240" height="30" as="geometry" />
+          <mxGeometry x="160" y="90" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-16" value="Digital Engineering Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="790" y="414" width="240" height="30" as="geometry" />
+          <mxGeometry x="100" y="550" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-17" value="Maturity Improvement Blueprint" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="550" y="450" width="240" height="30" as="geometry" />
+          <mxGeometry x="160" y="370" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-18" value="Target Technology Reference Model" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="690" y="520" width="240" height="30" as="geometry" />
+          <mxGeometry x="520" y="480" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-19" value="Digital Asset Information Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="260" y="430" width="240" height="30" as="geometry" />
+          <mxGeometry x="160" y="160" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-20" value="People Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="120" y="590" width="240" height="30" as="geometry" />
+          <mxGeometry x="600" y="10" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-21" value="Environmental sustainability strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="190" y="720" width="240" height="30" as="geometry" />
+          <mxGeometry x="880" y="10" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
