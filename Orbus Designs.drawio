@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T14:40:03.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qf04pckqVlsZLFZPhb4d" version="23.1.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-02-29T14:44:29.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Pj_90Pso1d7fCJrxpu6q" version="23.1.7" type="github" pages="17">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1499" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6838,68 +6838,83 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-1" value="Information &amp;amp; Technology Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="480" y="270" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-1" value="Information &amp;amp; Technology Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-2" value="HS2 Programme Strategic Goals &amp;amp; Objectives" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="40" y="10" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-2" value="HS2 Programme Strategic Goals &amp;amp; Objectives" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-3" value="Unified Target Operating Model" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="320" y="10" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-3" value="Unified Target Operating Model" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-4" value="I&amp;amp;T Benefits Framework" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="160" y="230" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-4" value="I&amp;amp;T Benefits Framework" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-5" value="I&amp;amp;T Product Management Approach" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="160" y="300" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-5" value="I&amp;amp;T Product Management Approach" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-6" value="EA Principles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="800" y="160" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-6" value="EA Principles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-7" value="Artificial Intelligence Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="100" y="650" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-7" value="Artificial Intelligence Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="100" y="650" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-8" value="Integration Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="800" y="220" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-8" value="Integration Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="800" y="220" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-9" value="Technology Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="520" y="560" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-9" value="Technology Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-10" value="Vendor Management Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="160" y="440" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-10" value="Vendor Management Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="800" y="460" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-11" value="Security Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="100" y="600" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-11" value="Security Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="100" y="600" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-12" value="Talent &amp;amp; Recruitment Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="800" y="340" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-12" value="Talent &amp;amp; Recruitment Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="800" y="340" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-13" value="Sourcing Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="800" y="399" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-13" value="Sourcing Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="800" y="399" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-14" value="Data &amp;amp; Information Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="800" y="280" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-14" value="Data &amp;amp; Information Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-15" value="Information and Cyber Security Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="160" y="90" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-15" value="Information and Cyber Security Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-16" value="Digital Engineering Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="100" y="550" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-16" value="Digital Engineering Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="100" y="550" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-17" value="Maturity Improvement Blueprint" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="160" y="370" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-17" value="Maturity Improvement Blueprint" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-18" value="Target Technology Reference Model" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="520" y="480" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-18" value="Target Technology Reference Model" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-19" value="Digital Asset Information Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-19" value="Digital Asset Information Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-20" value="People Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="600" y="10" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-20" value="People Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="600" y="10" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-21" value="Environmental sustainability strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="880" y="10" width="240" height="30" as="geometry" />
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-21" value="Environmental sustainability strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="880" y="10" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-26" value="" style="group;fontSize=8;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="520" y="620" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-22" value="Technology Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="5s22OJfKSw3S-hFQXEtD-26">
+          <mxGeometry width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-23" value="Technology Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="5s22OJfKSw3S-hFQXEtD-26">
+          <mxGeometry x="5.555555555555555" y="4.166666666666666" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-24" value="Technology Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="5s22OJfKSw3S-hFQXEtD-26">
+          <mxGeometry x="11.11111111111111" y="8.333333333333332" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-25" value="Product Roadmaps" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;" vertex="1" parent="5s22OJfKSw3S-hFQXEtD-26">
+          <mxGeometry x="16.666666666666664" y="12.5" width="150" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
