@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T11:28:35.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="X4p6WtCLESmB6vRp-j5o" version="23.1.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-03-04T11:31:27.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ouXEzVjo4r8J7zIHpkI1" version="23.1.7" type="github" pages="17">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1499" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6838,6 +6838,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wYBbLCwkBAaOPkfNyuHZ-15" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;endFill=0;startArrow=none;startFill=0;" edge="1" parent="1" target="5s22OJfKSw3S-hFQXEtD-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="230" as="sourcePoint" />
+            <mxPoint x="200" y="174" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wYBbLCwkBAaOPkfNyuHZ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="9.5" width="170" height="180" as="geometry" />
         </mxCell>
@@ -6856,9 +6865,6 @@
         <mxCell id="5s22OJfKSw3S-hFQXEtD-4" value="I&amp;amp;T Benefits Framework" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="231" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-7" value="Artificial Intelligence Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="791" width="150" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-8" value="Integration Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="54" width="150" height="25" as="geometry" />
         </mxCell>
@@ -6867,9 +6873,6 @@
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-10" value="Vendor Management Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="20" width="150" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-11" value="Security Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="741" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-12" value="Talent &amp;amp; Recruitment Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="154" width="150" height="25" as="geometry" />
@@ -6884,7 +6887,7 @@
           <mxGeometry x="320" y="121" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-16" value="Digital Engineering Strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="691" width="150" height="25" as="geometry" />
+          <mxGeometry x="40" y="320" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-18" value="Target Technology Reference Model" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="326" width="150" height="25" as="geometry" />
@@ -6899,7 +6902,7 @@
           <mxGeometry x="320" y="54" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-26" value="" style="group;fontSize=8;shadow=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="761" width="150" height="25" as="geometry" />
+          <mxGeometry x="870" y="230" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-22" value="Technology Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;" vertex="1" parent="5s22OJfKSw3S-hFQXEtD-26">
           <mxGeometry width="150" height="25" as="geometry" />
@@ -7005,6 +7008,13 @@
               <mxPoint x="560" y="210" />
               <mxPoint x="433" y="210" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wYBbLCwkBAaOPkfNyuHZ-14" value="informs" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.047;exitY=0.398;exitDx=0;exitDy=0;fontSize=8;endFill=0;startArrow=blockThin;startFill=1;exitPerimeter=0;" edge="1" parent="1" source="5s22OJfKSw3S-hFQXEtD-23" target="5s22OJfKSw3S-hFQXEtD-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="300" as="sourcePoint" />
+            <mxPoint x="790" y="300" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
