@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T11:33:02.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nwyarhKe6C5JTku8pV4r" version="23.1.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2024-03-04T11:36:28.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tEZzORKkL2Xp1wKrmCoT" version="23.1.7" type="github" pages="17">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1499" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -6901,7 +6901,7 @@
         <mxCell id="5s22OJfKSw3S-hFQXEtD-21" value="Environmental sustainability strategy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;strokeColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="320" y="54" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="5s22OJfKSw3S-hFQXEtD-26" value="" style="group;fontSize=8;shadow=1;strokeColor=#66B2FF;" vertex="1" connectable="0" parent="1">
+        <mxCell id="5s22OJfKSw3S-hFQXEtD-26" value="" style="group;fontSize=8;shadow=1;strokeColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="870" y="230" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-22" value="Technology Roadmap" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;strokeColor=#66B2FF;" vertex="1" parent="5s22OJfKSw3S-hFQXEtD-26">
@@ -6965,7 +6965,7 @@
         <mxCell id="wYBbLCwkBAaOPkfNyuHZ-5" value="EA Principles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;strokeColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="wYBbLCwkBAaOPkfNyuHZ-8" value="" style="group;strokeColor=#66B2FF;" vertex="1" connectable="0" parent="1">
+        <mxCell id="wYBbLCwkBAaOPkfNyuHZ-8" value="" style="group;strokeColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="470" y="391" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="5s22OJfKSw3S-hFQXEtD-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=8;shadow=1;strokeColor=#66B2FF;" vertex="1" parent="wYBbLCwkBAaOPkfNyuHZ-8">
