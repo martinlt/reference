@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T14:12:44.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tOmlfp2fTRsfQgpxP-HS" version="23.1.7" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2024-03-04T14:13:32.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HPoES5FWCA251VgY4aW7" version="23.1.7" type="github" pages="18">
   <diagram id="i1r-ZCTMSqfyBvfkEAix" name="IM TOM Context Diagram">
     <mxGraphModel dx="1499" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7132,6 +7132,9 @@
         </mxCell>
         <mxCell id="4z_nRJACzQrvtzJIm3iF-6" value="Integration Platform" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
           <mxGeometry x="4" y="530" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4z_nRJACzQrvtzJIm3iF-7" value="UTOM Information Management" style="rounded=1;whiteSpace=wrap;html=1;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="4" y="610" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
