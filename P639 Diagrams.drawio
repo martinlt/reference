@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T15:40:17.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="j9nBK6uYbvLTjqwnGEZO" version="24.4.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2024-06-03T15:07:07.449Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="18fJif9k13_6GP4eCl5O" version="24.4.13" type="github" pages="11">
   <diagram id="YRAR-I3iW_ACvrK7R6hZ" name="Context Diagram">
     <mxGraphModel dx="1485" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -355,13 +355,13 @@
           <mxGeometry x="850" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YXtQtqFaSMdIU8ulrgDO-3" value="&lt;div&gt;Residual Risks&lt;br&gt;&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;strokeColor=#82b366;fontColor=#46495D;fontSize=8;entryX=0.537;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;" parent="-p-VPwemj6HcDGVUH4Kr-1" target="-p-VPwemj6HcDGVUH4Kr-7" edge="1">
-          <mxGeometry x="-0.1094" y="28" width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="-0.201" y="38" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="140" as="sourcePoint" />
             <mxPoint x="482" y="286" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="140" />
+              <mxPoint x="550" y="40" />
             </Array>
-            <mxPoint x="-1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YXtQtqFaSMdIU8ulrgDO-4" value="Assigned Risk Rejection&amp;nbsp;&lt;div&gt;Notification&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;strokeColor=#b85450;fontColor=#46495D;fontSize=8;startArrow=none;startFill=0;fillColor=#f8cecc;entryX=0.769;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="-p-VPwemj6HcDGVUH4Kr-1" target="-p-VPwemj6HcDGVUH4Kr-7" edge="1">
@@ -412,6 +412,16 @@
             <mxPoint x="630" y="290" as="targetPoint" />
             <Array as="points">
               <mxPoint x="680" y="240" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSNoPrzxrXr7isWuPBvP-0" value="Risk Mitigation&lt;div&gt;Update&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;sketch=1;strokeColor=#b85450;fontColor=#46495D;fontSize=8;startArrow=none;startFill=0;fillColor=#f8cecc;entryX=0.653;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="-p-VPwemj6HcDGVUH4Kr-1" target="-p-VPwemj6HcDGVUH4Kr-7">
+          <mxGeometry x="-0.1358" y="27" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="160" as="sourcePoint" />
+            <mxPoint x="598" y="279" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="110" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
