@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T09:23:52.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0ptB2h9EjCU0Pa-j6xRo" version="24.4.13" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-06-06T09:34:10.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ifQ29MYUzvbh2LJ8cYo0" version="24.4.13" type="github" pages="12">
   <diagram id="YRAR-I3iW_ACvrK7R6hZ" name="Context Diagram">
     <mxGraphModel dx="1485" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -963,21 +963,18 @@
     </mxGraphModel>
   </diagram>
   <diagram name="High Level Design - phase #2" id="cEYaLQ9J6Zh_7tMkQ01F">
-    <mxGraphModel dx="881" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2050" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="VmZPG_mqrgLcXGjLiUjr-0" />
         <mxCell id="VmZPG_mqrgLcXGjLiUjr-1" parent="VmZPG_mqrgLcXGjLiUjr-0" />
         <mxCell id="VmZPG_mqrgLcXGjLiUjr-2" value="HS2 Azure Tenancy" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;dashed=1;fontSize=10;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
-          <mxGeometry x="360" y="110" width="470" height="440" as="geometry" />
+          <mxGeometry x="360" y="-60" width="470" height="610" as="geometry" />
         </mxCell>
         <mxCell id="VmZPG_mqrgLcXGjLiUjr-3" value="&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;Defender for SQL" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=8;verticalAlign=bottom;dashed=1;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
           <mxGeometry x="399" y="340" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="VmZPG_mqrgLcXGjLiUjr-4" value="Contractor Safetibase&lt;br&gt;Site(s)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
-          <mxGeometry x="170" y="260" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="VmZPG_mqrgLcXGjLiUjr-5" value="Status&lt;br style=&quot;font-size: 8px;&quot;&gt;Notification" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0.143;entryY=1.034;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endFill=0;fontSize=8;entryPerimeter=0;strokeColor=#666666;fontColor=#46495D;sketch=1;fillColor=#f5f5f5;" edge="1" parent="VmZPG_mqrgLcXGjLiUjr-1" target="VmZPG_mqrgLcXGjLiUjr-11">
-          <mxGeometry x="0.6513" y="9" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="VmZPG_mqrgLcXGjLiUjr-5" value="Status&lt;br style=&quot;font-size: 8px;&quot;&gt;Notification (email)" style="curved=1;endArrow=none;html=1;rounded=0;entryX=0.143;entryY=1.034;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endFill=0;fontSize=8;entryPerimeter=0;strokeColor=#666666;fontColor=#46495D;sketch=1;fillColor=#f5f5f5;exitX=1.031;exitY=0.849;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VmZPG_mqrgLcXGjLiUjr-1" target="VmZPG_mqrgLcXGjLiUjr-11" source="-WP6gT7iY6wYM8v_G-TC-0">
+          <mxGeometry x="-0.2835" y="39" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="460" as="sourcePoint" />
             <mxPoint x="444" y="480" as="targetPoint" />
             <Array as="points">
@@ -986,39 +983,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VmZPG_mqrgLcXGjLiUjr-6" value="SharePoint" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
-          <mxGeometry x="180" y="120" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="VmZPG_mqrgLcXGjLiUjr-7" value="Transfer&lt;br style=&quot;font-size: 8px;&quot;&gt;Risk to&lt;br style=&quot;font-size: 8px;&quot;&gt;HS2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=8;strokeColor=#b85450;fontColor=#46495D;sketch=1;fillColor=#f8cecc;" edge="1" parent="VmZPG_mqrgLcXGjLiUjr-1" target="VmZPG_mqrgLcXGjLiUjr-4">
-          <mxGeometry x="-0.1429" y="20" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="410" as="sourcePoint" />
-            <mxPoint x="530" y="440" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VmZPG_mqrgLcXGjLiUjr-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#b85450;fontColor=#46495D;fillColor=#f8cecc;sketch=1;" edge="1" parent="VmZPG_mqrgLcXGjLiUjr-1" source="VmZPG_mqrgLcXGjLiUjr-4" target="VmZPG_mqrgLcXGjLiUjr-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="490" as="sourcePoint" />
-            <mxPoint x="530" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VmZPG_mqrgLcXGjLiUjr-9" value="Safetibase Contractors" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
-          <mxGeometry x="195" y="420" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VmZPG_mqrgLcXGjLiUjr-10" value="Transfer&lt;br style=&quot;font-size: 8px;&quot;&gt;Risk back&lt;br style=&quot;font-size: 8px;&quot;&gt;to self" style="curved=1;endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=8;strokeColor=#b85450;fontColor=#46495D;sketch=1;fillColor=#f8cecc;" edge="1" parent="VmZPG_mqrgLcXGjLiUjr-1" source="VmZPG_mqrgLcXGjLiUjr-4">
-          <mxGeometry x="-0.2327" y="7" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="510" as="sourcePoint" />
-            <mxPoint x="230" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="380" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="VmZPG_mqrgLcXGjLiUjr-11" value="Azure Power&lt;br&gt;Automate" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
           <mxGeometry x="420" y="170" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VmZPG_mqrgLcXGjLiUjr-12" value="Residual&lt;br style=&quot;font-size: 8px;&quot;&gt;Risks" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.117;exitY=0.538;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;fontColor=#46495D;sketch=1;fillColor=#f5f5f5;" edge="1" parent="VmZPG_mqrgLcXGjLiUjr-1" source="VmZPG_mqrgLcXGjLiUjr-6" target="VmZPG_mqrgLcXGjLiUjr-11">
+        <mxCell id="VmZPG_mqrgLcXGjLiUjr-12" value="Residual&lt;br style=&quot;font-size: 8px;&quot;&gt;Risks (pull)" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.031;exitY=0.27;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;fontColor=#46495D;sketch=1;fillColor=#f5f5f5;endFill=0;startArrow=none;startFill=0;" edge="1" parent="VmZPG_mqrgLcXGjLiUjr-1" source="-WP6gT7iY6wYM8v_G-TC-0" target="VmZPG_mqrgLcXGjLiUjr-11">
           <mxGeometry x="-0.2285" y="13" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="210" as="sourcePoint" />
             <mxPoint x="496.7787442638303" y="386.05465476151267" as="targetPoint" />
@@ -1141,7 +1109,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VmZPG_mqrgLcXGjLiUjr-28" value="Risk Acceptance&lt;br&gt;Power App" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
+        <mxCell id="VmZPG_mqrgLcXGjLiUjr-28" value="Risk Acceptance&lt;br&gt;Canvas App" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
           <mxGeometry x="660" y="410" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VmZPG_mqrgLcXGjLiUjr-29" value="" style="curved=1;endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=6;strokeColor=#788AA3;fontColor=#46495D;entryX=1.033;entryY=0.12;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;sketch=1;" edge="1" parent="VmZPG_mqrgLcXGjLiUjr-1" source="VmZPG_mqrgLcXGjLiUjr-15" target="VmZPG_mqrgLcXGjLiUjr-24">
@@ -1241,8 +1209,46 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-WP6gT7iY6wYM8v_G-TC-0" value="External" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;fontSize=10;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
-          <mxGeometry x="110" y="90" width="200" height="440" as="geometry" />
+        <mxCell id="-WP6gT7iY6wYM8v_G-TC-2" value="Integration Portal" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;" vertex="1" parent="VmZPG_mqrgLcXGjLiUjr-1">
+          <mxGeometry x="480" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-WP6gT7iY6wYM8v_G-TC-4" value="" style="group" vertex="1" connectable="0" parent="VmZPG_mqrgLcXGjLiUjr-1">
+          <mxGeometry x="-10" y="20" width="200" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZPG_mqrgLcXGjLiUjr-4" value="Contractor Safetibase&lt;br&gt;Site(s)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="-WP6gT7iY6wYM8v_G-TC-4">
+          <mxGeometry x="60" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZPG_mqrgLcXGjLiUjr-6" value="SharePoint" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="-WP6gT7iY6wYM8v_G-TC-4">
+          <mxGeometry x="70" y="30" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZPG_mqrgLcXGjLiUjr-7" value="Transfer&lt;br style=&quot;font-size: 8px;&quot;&gt;Risk to&lt;br style=&quot;font-size: 8px;&quot;&gt;HS2" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=8;strokeColor=#b85450;fontColor=#46495D;sketch=1;fillColor=#f8cecc;" edge="1" parent="-WP6gT7iY6wYM8v_G-TC-4" target="VmZPG_mqrgLcXGjLiUjr-4">
+          <mxGeometry x="-0.1429" y="20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="320" as="sourcePoint" />
+            <mxPoint x="420" y="350" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmZPG_mqrgLcXGjLiUjr-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#b85450;fontColor=#46495D;fillColor=#f8cecc;sketch=1;" edge="1" parent="-WP6gT7iY6wYM8v_G-TC-4" source="VmZPG_mqrgLcXGjLiUjr-4" target="VmZPG_mqrgLcXGjLiUjr-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="400" as="sourcePoint" />
+            <mxPoint x="420" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VmZPG_mqrgLcXGjLiUjr-9" value="Safetibase Contractors" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;" vertex="1" parent="-WP6gT7iY6wYM8v_G-TC-4">
+          <mxGeometry x="85" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VmZPG_mqrgLcXGjLiUjr-10" value="Transfer&lt;br style=&quot;font-size: 8px;&quot;&gt;Risk back&lt;br style=&quot;font-size: 8px;&quot;&gt;to self" style="curved=1;endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=8;strokeColor=#b85450;fontColor=#46495D;sketch=1;fillColor=#f8cecc;" edge="1" parent="-WP6gT7iY6wYM8v_G-TC-4" source="VmZPG_mqrgLcXGjLiUjr-4">
+          <mxGeometry x="-0.2327" y="7" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="420" as="sourcePoint" />
+            <mxPoint x="120" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="290" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-WP6gT7iY6wYM8v_G-TC-0" value="External" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;fontSize=10;sketch=1;" vertex="1" parent="-WP6gT7iY6wYM8v_G-TC-4">
+          <mxGeometry width="200" height="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
