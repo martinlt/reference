@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T12:31:59.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RU3Vc5kVWZCI5cOPkbzh" version="24.6.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2024-07-02T12:58:58.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="DUlWM1BJjXNeNHnWMTGP" version="24.6.4" type="github" pages="13">
   <diagram id="YRAR-I3iW_ACvrK7R6hZ" name="Context Diagram">
     <mxGraphModel dx="1485" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1588,7 +1588,7 @@
         <mxCell id="XfP_ZeepixSJ8WT3NHJm-25" value="New" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#fff2cc;top=1;left=1;bottom=1;right=1;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;rounded=0;strokeColor=#d6b656;sketch=1;" vertex="1" parent="XfP_ZeepixSJ8WT3NHJm-22">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XfP_ZeepixSJ8WT3NHJm-26" value="Out of scope" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=1;left=1;bottom=1;right=1;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;rounded=0;strokeColor=#b85450;sketch=1;" vertex="1" parent="XfP_ZeepixSJ8WT3NHJm-22">
+        <mxCell id="XfP_ZeepixSJ8WT3NHJm-26" value="Security Related" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#f8cecc;top=1;left=1;bottom=1;right=1;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;rounded=0;strokeColor=#b85450;sketch=1;" vertex="1" parent="XfP_ZeepixSJ8WT3NHJm-22">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XfP_ZeepixSJ8WT3NHJm-27" value="Future" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=#d5e8d4;top=1;left=1;bottom=1;right=1;overflow=hidden;pointerEvents=1;align=left;spacingLeft=10;rounded=0;strokeColor=#82b366;sketch=1;" vertex="1" parent="XfP_ZeepixSJ8WT3NHJm-22">
