@@ -1924,7 +1924,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dgpAq1t1lxMbNw__7rMo-1" value="Risk" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="680" y="40" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="dgpAq1t1lxMbNw__7rMo-2" value="Corporate Risk" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="200" y="120.63" width="78.74" height="39.37" as="geometry" />
@@ -1962,23 +1962,12 @@
         <mxCell id="dgpAq1t1lxMbNw__7rMo-14" value="Supply Chain Security Risk" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1161.76" y="280" width="78.74" height="39.37" as="geometry" />
         </mxCell>
-        <mxCell id="dgpAq1t1lxMbNw__7rMo-16" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=block;startFill=0;" edge="1" parent="1" source="dgpAq1t1lxMbNw__7rMo-1" target="dgpAq1t1lxMbNw__7rMo-2">
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-16" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;startArrow=none;startFill=0;" edge="1" parent="1" target="dgpAq1t1lxMbNw__7rMo-2">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="321.2600000000001" y="239.69000000000005" as="sourcePoint" />
+            <mxPoint x="719" y="100" as="sourcePoint" />
             <mxPoint x="120.63" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="479" y="100" />
               <mxPoint x="239" y="100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dgpAq1t1lxMbNw__7rMo-17" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=block;startFill=0;" edge="1" parent="1" source="dgpAq1t1lxMbNw__7rMo-1" target="dgpAq1t1lxMbNw__7rMo-6">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="371" y="89" as="sourcePoint" />
-            <mxPoint x="249" y="131" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="479" y="100" />
-              <mxPoint x="720" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2110,6 +2099,24 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="599.2" y="261" as="sourcePoint" />
             <mxPoint x="599.2" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-41" value="Operational Risk" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1118.74" y="120.63" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-42" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;startArrow=none;startFill=0;" edge="1" parent="1" target="dgpAq1t1lxMbNw__7rMo-41">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="720" y="100" as="sourcePoint" />
+            <mxPoint x="249" y="131" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-43" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=block;startFill=0;" edge="1" parent="1" source="dgpAq1t1lxMbNw__7rMo-1" target="dgpAq1t1lxMbNw__7rMo-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="718.95" y="79.37" as="sourcePoint" />
+            <mxPoint x="718.95" y="118.37" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
