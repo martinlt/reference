@@ -1919,7 +1919,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tjHON_wgrzwLnLmSc0v8" name="CDM - Risk">
-    <mxGraphModel dx="1259" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2052,6 +2052,64 @@
             <Array as="points">
               <mxPoint x="960" y="260" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-28" value="◄ may become" style="endArrow=none;endFill=0;endSize=10;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#666666;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dgpAq1t1lxMbNw__7rMo-2" target="dgpAq1t1lxMbNw__7rMo-6">
+          <mxGeometry x="0.1035" width="160" relative="1" as="geometry">
+            <mxPoint x="479" y="729" as="sourcePoint" />
+            <mxPoint x="479" y="530" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-29" value="CDM Risk" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="321.26" y="280" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-30" value="Residual Risk" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-31" value="Occupational Health Risk" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-32" value="Public Health &amp;amp; Safety Risk" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-33" value="Site-Specific Risk (non-CDM)" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-35" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=block;startFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dgpAq1t1lxMbNw__7rMo-4" target="dgpAq1t1lxMbNw__7rMo-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="478.95000000000005" y="249" as="sourcePoint" />
+            <mxPoint x="480" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-36" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;" edge="1" parent="1" target="dgpAq1t1lxMbNw__7rMo-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="241" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-37" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;" edge="1" parent="1" target="dgpAq1t1lxMbNw__7rMo-33">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="260" as="sourcePoint" />
+            <mxPoint x="249" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="719" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-39" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360.46000000000004" y="261" as="sourcePoint" />
+            <mxPoint x="360.46000000000004" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dgpAq1t1lxMbNw__7rMo-40" value="" style="endArrow=none;endSize=10;endFill=0;html=1;rounded=0;fontSize=9;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="599.2" y="261" as="sourcePoint" />
+            <mxPoint x="599.2" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
