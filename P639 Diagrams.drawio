@@ -441,16 +441,16 @@
           <mxGeometry x="540" y="430" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Mg6PsQhzK_CTMNjOUOFG-2" value="External Safetibase Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
-          <mxGeometry x="280" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mg6PsQhzK_CTMNjOUOFG-3" value="External Risk Management Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
-          <mxGeometry x="770" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mg6PsQhzK_CTMNjOUOFG-4" value="Main Work Civils Contractors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
-          <mxGeometry x="290" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mg6PsQhzK_CTMNjOUOFG-5" value="HS2 End Users" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
-          <mxGeometry x="760" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SsI4YK_gN5-HOTasJPi--0" value="Risk&lt;div&gt;Transfer&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;startArrow=classic;startFill=1;fillColor=#dae8fc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-0" target="Mg6PsQhzK_CTMNjOUOFG-0">
           <mxGeometry x="-0.0056" y="3" width="50" height="50" relative="1" as="geometry">
@@ -474,8 +474,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="89g8HwwjbzRg78CmhW7o-1" value="Residual Risks" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.259;exitY=0.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-1" target="Mg6PsQhzK_CTMNjOUOFG-0">
-          <mxGeometry x="-0.3351" y="-17" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="89g8HwwjbzRg78CmhW7o-1" value="Contract Specific&lt;div&gt;Residual Risks&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.259;exitY=0.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-1" target="Mg6PsQhzK_CTMNjOUOFG-0">
+          <mxGeometry x="-0.3957" y="-23" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="310" as="sourcePoint" />
             <mxPoint x="620" y="440" as="targetPoint" />
             <Array as="points">
@@ -484,8 +484,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="89g8HwwjbzRg78CmhW7o-2" value="Residual Risks" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-0" target="Mg6PsQhzK_CTMNjOUOFG-3">
-          <mxGeometry x="-0.0858" y="-10" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="89g8HwwjbzRg78CmhW7o-2" value="Residual Risks" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-0" target="Mg6PsQhzK_CTMNjOUOFG-3">
+          <mxGeometry x="-0.0846" y="-10" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="690" y="280" as="sourcePoint" />
             <mxPoint x="810" y="340" as="targetPoint" />
             <Array as="points">
@@ -494,12 +494,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="89g8HwwjbzRg78CmhW7o-3" value="Risk Transfer and&amp;nbsp;&lt;div&gt;Mitigation Update&amp;nbsp;&lt;/div&gt;&lt;div&gt;Notifications&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.96;entryY=0.282;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-3" target="Mg6PsQhzK_CTMNjOUOFG-1">
-          <mxGeometry x="0.0563" y="-13" width="50" height="50" relative="1" as="geometry">
+        <mxCell id="89g8HwwjbzRg78CmhW7o-3" value="Risk Transfer and&amp;nbsp;&lt;div&gt;Mitigation Update&amp;nbsp;&lt;/div&gt;&lt;div&gt;Notifications&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.967;entryY=0.315;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-3" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="-0.4514" y="-24" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="310" as="sourcePoint" />
             <mxPoint x="620" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="830" y="460" />
+              <mxPoint x="770" y="460" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -512,6 +512,139 @@
               <mxPoint x="700" y="340" />
             </Array>
             <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-5" value="New and Closed&lt;div&gt;Residual Risks&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-0" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="0.1997" y="38" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="272.5" as="sourcePoint" />
+            <mxPoint x="448" y="447.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="320" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-6" value="New Residual Risks" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.038;entryY=0.282;entryDx=0;entryDy=0;exitX=0.999;exitY=0.386;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-4" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="-0.1492" y="-18" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="500" as="sourcePoint" />
+            <mxPoint x="240" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="420" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-7" value="New Residual Risks" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-2" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="-0.0023" y="3" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="sourcePoint" />
+            <mxPoint x="550" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="580" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-8" value="Notifications" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-1" target="Mg6PsQhzK_CTMNjOUOFG-4">
+          <mxGeometry x="-0.0065" y="-18" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="510" as="sourcePoint" />
+            <mxPoint x="310" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="490" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-9" value="Notifications" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1.003;entryY=0.834;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-1" target="Mg6PsQhzK_CTMNjOUOFG-0">
+          <mxGeometry x="-0.3678" y="18" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="555" y="536" as="sourcePoint" />
+            <mxPoint x="330" y="525" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="340" />
+            </Array>
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-10" value="Residual Risks" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-4" target="Mg6PsQhzK_CTMNjOUOFG-2">
+          <mxGeometry x="-0.1517" y="10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="560" as="sourcePoint" />
+            <mxPoint x="420" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="560" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-11" value="New and Closed&lt;div&gt;Residual Risks&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-3" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="0.1647" y="-26" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="444" as="sourcePoint" />
+            <mxPoint x="931" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="500" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-12" value="Risk Transfer&lt;div&gt;Acceptance / Rejections&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.973;entryY=0.685;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-3" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="0.2091" y="-29" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="395" as="sourcePoint" />
+            <mxPoint x="888" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="549" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-13" value="Residual Risks" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-4" target="Mg6PsQhzK_CTMNjOUOFG-3">
+          <mxGeometry x="-0.6226" y="-43" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="540" as="sourcePoint" />
+            <mxPoint x="900" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="240" />
+              <mxPoint x="610" y="80" />
+              <mxPoint x="880" y="190" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-14" value="Notifications" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;exitX=0.746;exitY=0.938;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-1" target="Mg6PsQhzK_CTMNjOUOFG-5">
+          <mxGeometry x="0.0193" y="-15" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="731" as="sourcePoint" />
+            <mxPoint x="951" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="700" y="670" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-15" value="Residual&amp;nbsp;&lt;div&gt;Risk Review&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-5" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="-0.0514" y="-8" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654" y="570" as="sourcePoint" />
+            <mxPoint x="840" y="660" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-16" value="Contract&lt;div&gt;Assignment&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.266;entryY=0.932;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-5" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="0.1996" y="-18" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="745" y="740" as="sourcePoint" />
+            <mxPoint x="585" y="615" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="690" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-17" value="Administrators" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
+          <mxGeometry x="800" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-18" value="Contractor Setup" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="89g8HwwjbzRg78CmhW7o-17" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="0.1792" y="-4" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="780" as="sourcePoint" />
+            <mxPoint x="620" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="590" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
