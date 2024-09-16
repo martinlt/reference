@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12" pages="18">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14" pages="19">
   <diagram id="YRAR-I3iW_ACvrK7R6hZ" name="Context Diagram">
     <mxGraphModel dx="1485" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -422,6 +422,74 @@
             <mxPoint x="598" y="279" as="targetPoint" />
             <Array as="points">
               <mxPoint x="580" y="110" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Conceptual Architecture" id="olcGNn19_PtZXqRHTBcS">
+    <mxGraphModel dx="1259" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="CA72Hiw4mEa2FEkLLHVe-0" />
+        <mxCell id="CA72Hiw4mEa2FEkLLHVe-1" parent="CA72Hiw4mEa2FEkLLHVe-0" />
+        <mxCell id="Mg6PsQhzK_CTMNjOUOFG-0" value="Rail System &amp;amp; Station Contractors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
+          <mxGeometry x="560" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6PsQhzK_CTMNjOUOFG-1" value="Safetibase Residual Risk Management" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
+          <mxGeometry x="540" y="430" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6PsQhzK_CTMNjOUOFG-2" value="External Safetibase Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
+          <mxGeometry x="280" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6PsQhzK_CTMNjOUOFG-3" value="External Risk Management Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
+          <mxGeometry x="770" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6PsQhzK_CTMNjOUOFG-4" value="Main Work Civils Contractors" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
+          <mxGeometry x="290" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mg6PsQhzK_CTMNjOUOFG-5" value="HS2 End Users" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="CA72Hiw4mEa2FEkLLHVe-1">
+          <mxGeometry x="760" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsI4YK_gN5-HOTasJPi--0" value="Risk&lt;div&gt;Transfer&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;startArrow=classic;startFill=1;fillColor=#dae8fc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-0" target="Mg6PsQhzK_CTMNjOUOFG-0">
+          <mxGeometry x="-0.0056" y="3" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="240" as="sourcePoint" />
+            <mxPoint x="920" y="165" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="260" />
+              <mxPoint x="740" y="200" />
+              <mxPoint x="610" y="170" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-0" value="Risk Transfer and&amp;nbsp;&lt;div&gt;Mitigation Update&amp;nbsp;&lt;/div&gt;&lt;div&gt;Notifications&lt;/div&gt;" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-0" target="Mg6PsQhzK_CTMNjOUOFG-1">
+          <mxGeometry x="-0.0858" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="230" as="sourcePoint" />
+            <mxPoint x="660" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="350" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-1" value="Residual Risks" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.259;exitY=0.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-1" target="Mg6PsQhzK_CTMNjOUOFG-0">
+          <mxGeometry x="-0.0858" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="310" as="sourcePoint" />
+            <mxPoint x="620" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="360" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="89g8HwwjbzRg78CmhW7o-2" value="Residual Risks" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#6c8ebf;fontColor=#000000;fontSize=8;fillColor=#dae8fc;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="CA72Hiw4mEa2FEkLLHVe-1" source="Mg6PsQhzK_CTMNjOUOFG-0" target="Mg6PsQhzK_CTMNjOUOFG-3">
+          <mxGeometry x="-0.0858" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="280" as="sourcePoint" />
+            <mxPoint x="810" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="280" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
