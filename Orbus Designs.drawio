@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="16">
   <diagram id="lOnf3Ts7bviTQD1lc-NB" name="Reference Architecture">
-    <mxGraphModel dx="1674" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YwRejG8WAEYvi8cYChf_-9" value="&lt;b&gt;Governance Layer:&amp;nbsp;&lt;/b&gt;Policies, compliance, regulatory oversight." style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#eeeeee;strokeColor=none;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="650" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="YwRejG8WAEYvi8cYChf_-8" value="&lt;b&gt;Security Layer:&amp;nbsp;&lt;/b&gt;IAM, MFA, data encryption, and monitoring for all systems." style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#bac8d3;strokeColor=none;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="610" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="YwRejG8WAEYvi8cYChf_-6" value="&lt;b&gt;Service Management Layer: &lt;/b&gt;ITSM processes, incident management, change control, and service performance" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="570" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="YwRejG8WAEYvi8cYChf_-1" value="&lt;b&gt;Consumer Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;Applications, Portals, and APIs for internal users, contractors, and stakeholders.&lt;/i&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="110" y="240" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YwRejG8WAEYvi8cYChf_-2" value="&lt;b&gt;Business Applications Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;Core systems (e.g., Project Management, Asset Management, Risk Management, etc.).&lt;/i&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=none;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YwRejG8WAEYvi8cYChf_-3" value="&lt;b&gt;Integration Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;Middleware for data flow, APIs, and workflows across systems.&lt;/i&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=none;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YwRejG8WAEYvi8cYChf_-4" value="&lt;b&gt;Data Management Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;Data warehouses, analytics, and MDM for reporting, decision-making, and data governance.&lt;/i&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=none;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="110" y="480" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YwRejG8WAEYvi8cYChf_-5" value="&lt;b&gt;Infrastructure and Platform Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;Cloud, networking, storage, and disaster recovery.&lt;/i&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=none;fontFamily=Verdana;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="110" y="560" width="520" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
