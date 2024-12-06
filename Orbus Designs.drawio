@@ -52,6 +52,33 @@
         <mxCell id="ksfTMycozDqQVnyk1AQ6-8" value="" style="shape=actor;whiteSpace=wrap;html=1;fontSize=9;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="110" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-2" value="eB" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="45" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-3" value="DOORS" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="118" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-4" value="SharePoint" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="191" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-5" value="VisHub" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="264" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-6" value="CDIP" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="338" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-7" value="CEMAR" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="411" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-8" value="iDAT" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="484" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-9" value="Safetibase" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="557" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-10" value="Relatics" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
