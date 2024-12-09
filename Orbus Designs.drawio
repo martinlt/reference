@@ -5,28 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YwRejG8WAEYvi8cYChf_-9" value="&lt;b&gt;Governance Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;Policies, compliance, regulatory oversight.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#eeeeee;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="10" y="210" width="1130" height="1010" as="geometry" />
+          <mxGeometry x="10" y="210" width="1360" height="1010" as="geometry" />
         </mxCell>
         <mxCell id="YwRejG8WAEYvi8cYChf_-8" value="&lt;b&gt;Security Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;IDAM, Endpoint, Infrastructure, SOC, Posture Management, Testing, Vulnerability Management, Web &amp;amp; Content Filtering&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#bac8d3;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="20" y="220" width="1090" height="990" as="geometry" />
+          <mxGeometry x="20" y="220" width="1320" height="990" as="geometry" />
         </mxCell>
         <mxCell id="YwRejG8WAEYvi8cYChf_-6" value="&lt;b&gt;Service Management Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;Change &amp;amp; Release Management, Service Continuity, Service Desk, Monitoring &amp;amp; Alerting, Incident Management, Service Request Fulfilment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="30" y="230" width="1050" height="970" as="geometry" />
+          <mxGeometry x="30" y="230" width="1260" height="970" as="geometry" />
         </mxCell>
-        <mxCell id="YwRejG8WAEYvi8cYChf_-1" value="&lt;b&gt;Delivery Layer (front-office):&lt;/b&gt;&lt;div&gt;&lt;i&gt;The outward-facing layer that facilitates direct interaction and collaboration with external stakeholders such as contractors, Joint Ventures (JVs), supply chain partners, landowners, petitioners, etc. Includes tools, platforms, and APIs that external users access directly, as well as shared systems that enable joint project delivery and compliance.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="1010" height="200" as="geometry" />
+        <mxCell id="YwRejG8WAEYvi8cYChf_-1" value="&lt;b&gt;Collaboration Layer (front-office):&lt;/b&gt;&lt;div&gt;&lt;i&gt;The outward-facing layer that facilitates direct interaction and collaboration with external stakeholders such as contractors, Joint Ventures (JVs), supply chain partners, landowners, petitioners, etc. Includes tools, platforms, and APIs that external users access directly, as well as shared systems that enable joint project delivery and compliance.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="1210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YwRejG8WAEYvi8cYChf_-2" value="&lt;b&gt;Operations Layer (back-office):&lt;/b&gt;&lt;div&gt;&lt;i&gt;The internal layer supporting HS2 Ltd’s operational activities, housing back-office systems that manage programme delivery, project oversight, risk management, logistics, and financial processes. This layer underpins the Collaboration Layer by exposing selected data and functionality to external users while ensuring internal workflows and decision-making are managed effectively.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="40" y="440" width="1010" height="200" as="geometry" />
+          <mxGeometry x="40" y="440" width="1210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YwRejG8WAEYvi8cYChf_-3" value="&lt;b&gt;Integration Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;Middleware layer that enables communication and data exchange between systems in the Collaboration and Operations layers. It handles APIs, workflow orchestration, and data transformation, ensuring interoperability and consistency across the architecture.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#f8cecc;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="40" y="640" width="1010" height="200" as="geometry" />
+          <mxGeometry x="40" y="640" width="1210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YwRejG8WAEYvi8cYChf_-4" value="&lt;b&gt;Data Management Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;Enables cross-layer data integration, governance, and analysis. Most master data resides within COTS/SaaS systems in the Operations Layer and Collaboration Layer, this layer ensures data consistency, accessibility, and quality for specific use cases such as enterprise reporting, analytics, and compliance. It does not replicate all master data but instead connects to authoritative systems where needed, following a federated or hybrid approach to data management.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#d5e8d4;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="40" y="840" width="1010" height="150" as="geometry" />
+          <mxGeometry x="40" y="840" width="1210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="YwRejG8WAEYvi8cYChf_-5" value="&lt;b&gt;Infrastructure and Platform Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;The foundational layer providing the compute, storage, and network resources required to support all other layers.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="40" y="990" width="1010" height="200" as="geometry" />
+          <mxGeometry x="40" y="990" width="1210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ksfTMycozDqQVnyk1AQ6-2" value="&lt;b&gt;Delivery Partners&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=8;fontStyle=0;container=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="100" width="90" height="80" as="geometry" />
@@ -127,32 +127,32 @@
         <mxCell id="PIgTcTz7KiLWKj-GO0oX-17" value="Asset Risk and Compliance Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="519.9987428571429" y="370" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9iUsnRsd2QbXONujLITo-7" value="Communication and Collaboration" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="350" width="310" height="200" as="geometry" />
+        <mxCell id="9iUsnRsd2QbXONujLITo-7" value="Communication and Collaboration" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="490" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="9iUsnRsd2QbXONujLITo-8" value="Email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="390" width="75" height="50" as="geometry" />
+          <mxGeometry x="880" y="510" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9iUsnRsd2QbXONujLITo-9" value="Video Conferencing and Online Meeting" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="390" width="75" height="50" as="geometry" />
+          <mxGeometry x="960" y="510" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9iUsnRsd2QbXONujLITo-10" value="Document Collaboration and Sharing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="385" width="75" height="50" as="geometry" />
+          <mxGeometry x="1040" y="510" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9iUsnRsd2QbXONujLITo-11" value="Team Collaboration&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="470" width="75" height="50" as="geometry" />
+          <mxGeometry x="880" y="570" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9iUsnRsd2QbXONujLITo-12" value="Virtual Whiteboarding and Brainstorming" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="470" width="75" height="50" as="geometry" />
+          <mxGeometry x="960" y="570" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9iUsnRsd2QbXONujLITo-13" value="Enterprise Social Networking" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="470" width="75" height="50" as="geometry" />
+          <mxGeometry x="1040" y="570" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9iUsnRsd2QbXONujLITo-14" value="Workflow and Business Process Automation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="145" width="75" height="50" as="geometry" />
+          <mxGeometry x="1140" y="510" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9iUsnRsd2QbXONujLITo-15" value="Resource Scheduling and Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="244" width="75" height="50" as="geometry" />
+          <mxGeometry x="1140" y="570" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9iUsnRsd2QbXONujLITo-2" value="Enterprise Resource Planning" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="490" width="180" height="140" as="geometry" />
