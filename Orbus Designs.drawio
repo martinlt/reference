@@ -56,28 +56,37 @@
           <mxGeometry x="45" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEUxUL2pVW_C5YOkBAAT-3" value="DOORS" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="118" y="290" width="60" height="40" as="geometry" />
+          <mxGeometry x="45" y="390" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEUxUL2pVW_C5YOkBAAT-4" value="SharePoint" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="191" y="290" width="60" height="40" as="geometry" />
+          <mxGeometry x="630" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEUxUL2pVW_C5YOkBAAT-5" value="VisHub" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="264" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEUxUL2pVW_C5YOkBAAT-6" value="CDIP" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="338" y="290" width="60" height="40" as="geometry" />
+          <mxGeometry x="490" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEUxUL2pVW_C5YOkBAAT-7" value="CEMAR" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="411" y="290" width="60" height="40" as="geometry" />
+          <mxGeometry x="340" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEUxUL2pVW_C5YOkBAAT-8" value="iDAT" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="484" y="290" width="60" height="40" as="geometry" />
+          <mxGeometry x="560" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEUxUL2pVW_C5YOkBAAT-9" value="Safetibase" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="557" y="290" width="60" height="40" as="geometry" />
+          <mxGeometry x="420" y="290" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dEUxUL2pVW_C5YOkBAAT-10" value="Relatics" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="630" y="290" width="60" height="40" as="geometry" />
+          <mxGeometry x="120" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-12" value="ProjectWise" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-13" value="HCM" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="120" y="390" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dEUxUL2pVW_C5YOkBAAT-14" value="ERP" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#f5f5f5;shape=mxgraph.archimate.application;appType=comp;fontColor=#333333;strokeColor=#666666;fontSize=8;fontFamily=Verdana;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
