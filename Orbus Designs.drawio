@@ -709,10 +709,10 @@
           <mxGeometry x="357.5" y="455" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-13" value="Environmental Visualisation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="367.5" y="479" width="75" height="50" as="geometry" />
+          <mxGeometry x="376.25" y="479" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-14" value="Digital Twin" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="367.5" y="535" width="75" height="50" as="geometry" />
+          <mxGeometry x="376.25" y="535" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-15" value="Data Management and Collaboration" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
           <mxGeometry x="467.5" y="335" width="75" height="50" as="geometry" />
@@ -734,6 +734,21 @@
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-21" value="Survey Data Processing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
           <mxGeometry x="570" y="535" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mnx-6fFMWTm7q3IM6n-m-22" value="Asset Inventory and Tracking" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1560" y="245" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Mnx-6fFMWTm7q3IM6n-m-23" value="Engineering Asset Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1569.998742857143" y="269" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mnx-6fFMWTm7q3IM6n-m-24" value="Notice Production for Property Acquisition" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1653.8861714285713" y="325" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mnx-6fFMWTm7q3IM6n-m-25" value="Land Ownership Records Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1653.8861714285713" y="269" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mnx-6fFMWTm7q3IM6n-m-26" value="Land and Property Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1569.998742857143" y="325" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
