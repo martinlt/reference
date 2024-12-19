@@ -711,11 +711,8 @@
         <mxCell id="Zm2_eCESxaqPWljinl-t-9" value="Project Collaboration and Communication" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
           <mxGeometry x="330" y="524" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mnx-6fFMWTm7q3IM6n-m-15" value="Quality Assurance" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1418" y="310" width="75" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="lmlCvkkF-UzksSuSHmNp-4" value="Reference Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="1418" y="446" width="75" height="50" as="geometry" />
+          <mxGeometry x="1418" y="505" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lmlCvkkF-UzksSuSHmNp-5" value="Data Publication" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
           <mxGeometry x="1278" y="446" width="75" height="50" as="geometry" />
@@ -752,6 +749,27 @@
         </mxCell>
         <mxCell id="WvJzyOcxn4YDLr4M0oNT-3" value="&lt;div&gt;Real-time Integration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
           <mxGeometry x="1278" y="991" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hAdZeQe2pbiQx2yh8n6j-0" value="Master Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1418" y="407" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hAdZeQe2pbiQx2yh8n6j-1" value="Data Security and Privacy" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1418" y="894" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hAdZeQe2pbiQx2yh8n6j-2" value="Data Quality Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1418" y="310" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hAdZeQe2pbiQx2yh8n6j-3" value="Data Lifecycle Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1418" y="602" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hAdZeQe2pbiQx2yh8n6j-4" value="Data Catalog and Metadata Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1418" y="991" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hAdZeQe2pbiQx2yh8n6j-5" value="Data Analytics and Business Intelligence" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1418" y="699" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hAdZeQe2pbiQx2yh8n6j-6" value="Data Storage and Archiving" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1418" y="796" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
