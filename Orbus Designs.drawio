@@ -347,7 +347,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Reference Architecture" id="Oszl0JmEk764hZk3hol-">
-    <mxGraphModel dx="1476" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1362" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-0" />
         <mxCell id="dbeWglCm4TqCR54ZL2q8-1" parent="dbeWglCm4TqCR54ZL2q8-0" />
@@ -687,7 +687,7 @@
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-10" value="Timetable Optimisation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
           <mxGeometry x="545" y="385" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Mnx-6fFMWTm7q3IM6n-m-11" value="Facility Asset Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
+        <mxCell id="Mnx-6fFMWTm7q3IM6n-m-11" value="Quantitative Analysis" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
           <mxGeometry x="627.5" y="385" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-12" value="Visualisation and Rendering" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
