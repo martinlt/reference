@@ -368,240 +368,240 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Refactored Layered" id="Oszl0JmEk764hZk3hol-">
-    <mxGraphModel dx="1577" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2689" dy="1341" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-0" />
         <mxCell id="dbeWglCm4TqCR54ZL2q8-1" parent="dbeWglCm4TqCR54ZL2q8-0" />
         <mxCell id="dbeWglCm4TqCR54ZL2q8-2" value="&lt;b&gt;Governance Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;Policies, compliance, regulatory oversight.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#eeeeee;strokeColor=none;fontFamily=Verdana;fontSize=8;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="62" y="200" width="1748" height="900" as="geometry" />
+          <mxGeometry y="210" width="1640" height="900" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-3" value="&lt;b&gt;Security Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;IDAM, Endpoint, Infrastructure, SOC, Posture Management, Testing, Vulnerability Management, Web &amp;amp; Content Filtering&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#bac8d3;strokeColor=none;fontFamily=Verdana;fontSize=8;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="72" y="210" width="1698" height="880" as="geometry" />
+          <mxGeometry x="10" y="220" width="1600" height="880" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-4" value="&lt;b&gt;Service Management Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;Change &amp;amp; Release Management, Service Continuity, Service Desk, Monitoring &amp;amp; Alerting, Incident Management, Service Request Fulfilment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontFamily=Verdana;fontSize=8;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="82" y="220" width="1638" height="860" as="geometry" />
+          <mxGeometry x="20" y="230" width="1560" height="860" as="geometry" />
         </mxCell>
         <mxCell id="lmlCvkkF-UzksSuSHmNp-0" value="&lt;b&gt;Data Management Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;Enables cross-layer data integration, governance, and analysis. Most master data resides within COTS/SaaS systems in the Operations Layer and Collaboration Layer, this layer ensures data consistency, accessibility, and quality for specific use cases such as enterprise reporting, analytics, and compliance. It does not replicate all master data but instead connects to authoritative systems where needed, following a federated or hybrid approach to data management.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#d5e8d4;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="92" y="230" width="1568" height="840" as="geometry" />
+          <mxGeometry x="30" y="240" width="1518" height="840" as="geometry" />
         </mxCell>
         <mxCell id="lmlCvkkF-UzksSuSHmNp-1" value="&lt;b&gt;Integration Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;Middleware layer that enables communication and data exchange between systems in the Collaboration and Operations layers. It handles APIs, workflow orchestration, and data transformation, ensuring interoperability and consistency across the architecture.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#f8cecc;strokeColor=none;fontFamily=Verdana;fontSize=8;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="102" y="240" width="1388" height="820" as="geometry" />
+          <mxGeometry x="40" y="250" width="1358" height="820" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-5" value="&lt;b&gt;Collaboration Layer (front-office):&lt;/b&gt;&lt;div&gt;&lt;i&gt;The outward-facing layer that facilitates direct interaction and collaboration with external stakeholders such as contractors, Joint Ventures (JVs), supply chain partners, landowners, petitioners, etc. Includes tools, platforms, and APIs that external users access directly, as well as shared systems that enable joint project delivery and compliance.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=8;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="112" y="250" width="1210" height="400" as="geometry" />
+          <mxGeometry x="50" y="260" width="1210" height="400" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-6" value="&lt;b&gt;Operations Layer (back-office):&lt;/b&gt;&lt;div&gt;&lt;i&gt;The internal layer supporting HS2 Ltd’s operational activities, housing back-office systems that manage finances, risks and other operational processes. This layer underpins the Collaboration Layer by exposing selected data and functionality to external users while ensuring internal workflows and decision-making are managed effectively.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=none;fontFamily=Verdana;fontSize=8;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="112" y="650" width="1210" height="200" as="geometry" />
+          <mxGeometry x="50" y="660" width="1210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-9" value="&lt;b&gt;Infrastructure and Platform Layer:&lt;/b&gt;&lt;div&gt;&lt;i&gt;The foundational layer providing the compute, storage, and network resources required to support all other layers.&lt;/i&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=none;fontFamily=Verdana;fontSize=8;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="112" y="850" width="1210" height="200" as="geometry" />
+          <mxGeometry x="50" y="860" width="1210" height="200" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-10" value="Health, Safety and Environment" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="716.3900000000001" y="490" width="183.61" height="140" as="geometry" />
+          <mxGeometry x="654.3900000000001" y="500" width="183.61" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-11" value="Innovation Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1003.5" y="405" width="75" height="50" as="geometry" />
+          <mxGeometry x="941.5" y="415" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-12" value="Stakeholder Engagement" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1063.5" y="325" width="75" height="50" as="geometry" />
+          <mxGeometry x="1001.5" y="335" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-14" value="Environmental Impact Assessment" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="811.3861714285713" y="514" width="75" height="50" as="geometry" />
+          <mxGeometry x="749.3861714285713" y="524" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-15" value="Health and Safety Passports" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="727.4961714285712" y="570" width="75" height="50" as="geometry" />
+          <mxGeometry x="665.4961714285712" y="580" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-16" value="Customer Relationship Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="952" y="325" width="75" height="50" as="geometry" />
+          <mxGeometry x="890" y="335" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-17" value="Site Access Control" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="727.4961714285712" y="514" width="75" height="50" as="geometry" />
+          <mxGeometry x="665.4961714285712" y="524" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-25" value="Project Delivery" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="122" y="490" width="358" height="140" as="geometry" />
+          <mxGeometry x="60" y="500" width="358" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-26" value="Planning and Scheduling" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="132" y="514" width="75" height="50" as="geometry" />
+          <mxGeometry x="70" y="524" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-27" value="Requirements Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="302" y="514" width="75" height="50" as="geometry" />
+          <mxGeometry x="240" y="524" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-28" value="Change Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="132" y="570" width="75" height="50" as="geometry" />
+          <mxGeometry x="70" y="580" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-29" value="Cost Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="216" y="570" width="75" height="50" as="geometry" />
+          <mxGeometry x="154" y="580" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-35" value="Communication and Collaboration" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="942" y="700" width="250" height="140" as="geometry" />
+          <mxGeometry x="880" y="710" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-36" value="Email&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="952" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="890" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-37" value="Video Conferencing and Online Meeting" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1032" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="970" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-38" value="Document Collaboration and Sharing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1112" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="1050" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-39" value="Team Collaboration&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="952" y="780" width="75" height="50" as="geometry" />
+          <mxGeometry x="890" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-40" value="Virtual Whiteboarding and Brainstorming" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1032" y="780" width="75" height="50" as="geometry" />
+          <mxGeometry x="970" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-41" value="Enterprise Social Networking" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1112" y="780" width="75" height="50" as="geometry" />
+          <mxGeometry x="1050" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-42" value="Workflow and Business Process Automation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1350" y="500" width="75" height="50" as="geometry" />
+          <mxGeometry x="1278" y="582" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-43" value="Resource Scheduling and Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1212" y="780" width="75" height="50" as="geometry" />
+          <mxGeometry x="1150" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-44" value="Enterprise Resource Planning" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="122" y="700" width="180" height="140" as="geometry" />
+          <mxGeometry x="60" y="710" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-45" value="Finance Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="132" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="70" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-46" value="Human Capital Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="217" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="155" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-47" value="Procurement Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="132" y="780" width="75" height="50" as="geometry" />
+          <mxGeometry x="70" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-48" value="Document and Content Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="582" y="700" width="350" height="140" as="geometry" />
+          <mxGeometry x="520" y="710" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-49" value="Digital Asset Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="589.5" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="527.5" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-50" value="Electronic Signatures" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="675.89" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="613.89" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-51" value="Document Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="762" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="700" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-52" value="Knowledge Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="589.5" y="780" width="75" height="50" as="geometry" />
+          <mxGeometry x="527.5" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-53" value="Content Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="675.89" y="780" width="75" height="50" as="geometry" />
+          <mxGeometry x="613.89" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-54" value="Document Capture &amp;amp; Imaging" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="762" y="780" width="75" height="50" as="geometry" />
+          <mxGeometry x="700" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-55" value="Enterprise Content Search and Retrieval" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="847" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="785" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-56" value="Print and Post" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="847" y="780" width="75" height="50" as="geometry" />
+          <mxGeometry x="785" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-57" value="Risk Management and Compliance" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="312" y="700" width="260" height="140" as="geometry" />
+          <mxGeometry x="250" y="710" width="260" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-58" value="Compliance Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="322" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="260" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-59" value="Incident Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="402" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="340" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-60" value="Internal Control and Audit" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="322" y="778" width="75" height="50" as="geometry" />
+          <mxGeometry x="260" y="788" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-61" value="Risk Assessment and Analysis" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="402" y="778" width="75" height="50" as="geometry" />
+          <mxGeometry x="340" y="788" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-62" value="Risk Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="486" y="720" width="75" height="50" as="geometry" />
+          <mxGeometry x="424" y="730" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-63" value="CDM Risk Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="811.3861714285713" y="570" width="75" height="50" as="geometry" />
+          <mxGeometry x="749.3861714285713" y="580" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-76" value="End User Computing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="122" y="900" width="270" height="140" as="geometry" />
+          <mxGeometry x="60" y="910" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-77" value="Compute Devices" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="132" y="920" width="75" height="50" as="geometry" />
+          <mxGeometry x="70" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-78" value="Device Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="217" y="920" width="75" height="50" as="geometry" />
+          <mxGeometry x="155" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-79" value="Printing &amp;amp; Imagery" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="302" y="920" width="75" height="50" as="geometry" />
+          <mxGeometry x="240" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-80" value="BYOD" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="217" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="155" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-81" value="Virtual Desktops" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="302" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="240" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-82" value="Remote Access" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="132" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="70" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-83" value="Cloud Compute Services" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="402" y="900" width="180" height="140" as="geometry" />
+          <mxGeometry x="340" y="910" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-84" value="Infrastructure as a Service (IaaS)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="411" y="920" width="75" height="50" as="geometry" />
+          <mxGeometry x="349" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-85" value="Serverless Computing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="497" y="920" width="75" height="50" as="geometry" />
+          <mxGeometry x="435" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-86" value="&lt;div&gt;Platform as a Service (PaaS)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="412" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="350" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-87" value="&lt;div&gt;Containerisation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="497" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="435" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-88" value="Networking" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="592" y="900" width="180" height="140" as="geometry" />
+          <mxGeometry x="530" y="910" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-89" value="LAN" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="600.89" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="538.89" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-90" value="WAN" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="600.8900000000001" y="920" width="75" height="50" as="geometry" />
+          <mxGeometry x="538.8900000000001" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-91" value="Network Services" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="687" y="920" width="75" height="50" as="geometry" />
+          <mxGeometry x="625" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-92" value="Observability and Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="687" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="625" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-93" value="Unified Communications" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="782" y="900" width="180" height="140" as="geometry" />
+          <mxGeometry x="720" y="910" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-94" value="Voice Communication" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="789" y="920" width="75" height="50" as="geometry" />
+          <mxGeometry x="727" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-95" value="Video Communication" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="788.9999999999999" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="726.9999999999999" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-96" value="&lt;div&gt;Instant Messaging and Presence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="877" y="920" width="75" height="50" as="geometry" />
+          <mxGeometry x="815" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-97" value="Accessibility Testing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="992" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="930" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-98" value="Performance Testing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1192" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="1130" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-99" value="Software Development" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="992" y="910" width="75" height="50" as="geometry" />
+          <mxGeometry x="930" y="920" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-100" value="Low-code &lt;br&gt;(Citizen)&amp;nbsp; Development" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1191.9999999999998" y="909.9999999999998" width="75" height="50" as="geometry" />
+          <mxGeometry x="1129.9999999999998" y="919.9999999999998" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-101" value="Artificial Intelligence" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1092.0000000000002" y="910" width="75" height="50" as="geometry" />
+          <mxGeometry x="1030.0000000000002" y="920" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-102" value="Machine Learning" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1092" y="980" width="75" height="50" as="geometry" />
+          <mxGeometry x="1030" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-103" value="" style="group" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1" connectable="0">
-          <mxGeometry x="1144.5" y="70" width="90" height="80" as="geometry" />
+          <mxGeometry x="1082.5" y="80" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-104" value="&lt;b&gt;Regulatory Bodies&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=8;fontStyle=0;container=0;" parent="dbeWglCm4TqCR54ZL2q8-103" vertex="1">
           <mxGeometry width="90" height="80" as="geometry" />
@@ -610,7 +610,7 @@
           <mxGeometry x="25" y="10" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-106" value="" style="group" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1" connectable="0">
-          <mxGeometry x="852" y="70" width="90" height="80" as="geometry" />
+          <mxGeometry x="790" y="80" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-107" value="&lt;b&gt;Internal Stakeholders&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=8;fontStyle=0;container=0;" parent="dbeWglCm4TqCR54ZL2q8-106" vertex="1">
           <mxGeometry width="90" height="80" as="geometry" />
@@ -619,7 +619,7 @@
           <mxGeometry x="25" y="10" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-109" value="" style="group" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1" connectable="0">
-          <mxGeometry x="499.5" y="70" width="90" height="80" as="geometry" />
+          <mxGeometry x="437.5" y="80" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-110" value="&lt;b&gt;External Stakeholders&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=8;fontStyle=0;container=0;" parent="dbeWglCm4TqCR54ZL2q8-109" vertex="1">
           <mxGeometry width="90" height="80" as="geometry" />
@@ -628,7 +628,7 @@
           <mxGeometry x="25" y="10" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-112" value="" style="group" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1" connectable="0">
-          <mxGeometry x="182" y="70" width="90" height="80" as="geometry" />
+          <mxGeometry x="120" y="80" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dbeWglCm4TqCR54ZL2q8-113" value="&lt;b&gt;Delivery Partners&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=8;fontStyle=0;container=0;" parent="dbeWglCm4TqCR54ZL2q8-112" vertex="1">
           <mxGeometry width="90" height="80" as="geometry" />
@@ -637,112 +637,121 @@
           <mxGeometry x="25" y="10" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-6" value="Design and Engineering Tools" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="122" y="300" width="778" height="180" as="geometry" />
+          <mxGeometry x="60" y="310" width="778" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-0" value="Building Information Modelling (BIM)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="129.5" y="325" width="260" height="145" as="geometry" />
+          <mxGeometry x="67.5" y="335" width="260" height="145" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-1" value="3D Environmental Modelling" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="139.5" y="349" width="75" height="50" as="geometry" />
+          <mxGeometry x="77.5" y="359" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-3" value="Architectural Design Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="304.5" y="349" width="75" height="50" as="geometry" />
+          <mxGeometry x="242.5" y="359" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-4" value="BIM Quality Control" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="139.5" y="405" width="75" height="50" as="geometry" />
+          <mxGeometry x="77.5" y="415" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-5" value="Facility Asset Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="222" y="405" width="75" height="50" as="geometry" />
+          <mxGeometry x="160" y="415" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-7" value="Simulation and Analysis" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="402" y="325" width="180" height="145" as="geometry" />
+          <mxGeometry x="340" y="335" width="180" height="145" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-8" value="Traffic Simulation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="412" y="349" width="75" height="50" as="geometry" />
+          <mxGeometry x="350" y="359" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-9" value="Train Service Modelling" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="494.5" y="349" width="75" height="50" as="geometry" />
+          <mxGeometry x="432.5" y="359" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-12" value="Visualisation and Rendering" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="592" y="325" width="110" height="145" as="geometry" />
+          <mxGeometry x="530" y="335" width="110" height="145" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-13" value="Environmental Visualisation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="610.75" y="349" width="75" height="50" as="geometry" />
+          <mxGeometry x="548.75" y="359" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-14" value="Digital Twin" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="610.75" y="405" width="75" height="50" as="geometry" />
+          <mxGeometry x="548.75" y="415" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-16" value="Computer-Aided Design (CAD)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="304.5" y="405" width="75" height="50" as="geometry" />
+          <mxGeometry x="242.5" y="415" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-17" value="Geotechnical and Surveying" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="712" y="325" width="180" height="145" as="geometry" />
+          <mxGeometry x="650" y="335" width="180" height="145" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-18" value="Geotechnical Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="722" y="349" width="75" height="50" as="geometry" />
+          <mxGeometry x="660" y="359" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-19" value="Survey Data Control" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="804.5" y="349" width="75" height="50" as="geometry" />
+          <mxGeometry x="742.5" y="359" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-21" value="Survey Data Processing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="804.5" y="405" width="75" height="50" as="geometry" />
+          <mxGeometry x="742.5" y="415" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-22" value="Physical Asset Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="507" y="490" width="180" height="140" as="geometry" />
+          <mxGeometry x="445" y="500" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-23" value="Engineering Asset Register" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="516.998742857143" y="514" width="75" height="50" as="geometry" />
+          <mxGeometry x="454.99874285714304" y="524" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-24" value="Land and Property Acquisition and Disposal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="600.8861714285713" y="570" width="75" height="50" as="geometry" />
+          <mxGeometry x="538.8861714285713" y="580" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-25" value="Land Ownership Records Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="600.8861714285713" y="514" width="75" height="50" as="geometry" />
+          <mxGeometry x="538.8861714285713" y="524" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-26" value="Land and Property Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="516.998742857143" y="570" width="75" height="50" as="geometry" />
+          <mxGeometry x="454.99874285714304" y="580" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zm2_eCESxaqPWljinl-t-6" value="Project Risk Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="216" y="514" width="75" height="50" as="geometry" />
+          <mxGeometry x="154" y="524" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zm2_eCESxaqPWljinl-t-7" value="Deliverables Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="302" y="570" width="75" height="50" as="geometry" />
+          <mxGeometry x="240" y="580" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zm2_eCESxaqPWljinl-t-9" value="Project Collaboration and Communication" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="392" y="514" width="75" height="50" as="geometry" />
+          <mxGeometry x="330" y="524" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Mnx-6fFMWTm7q3IM6n-m-15" value="Quality Assurance" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="dbeWglCm4TqCR54ZL2q8-1" vertex="1">
-          <mxGeometry x="1527" y="290" width="75" height="50" as="geometry" />
+          <mxGeometry x="1418" y="310" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lmlCvkkF-UzksSuSHmNp-4" value="Reference Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="1527" y="390" width="75" height="50" as="geometry" />
+          <mxGeometry x="1418" y="446" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lmlCvkkF-UzksSuSHmNp-5" value="Data Publication" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="1350" y="390" width="75" height="50" as="geometry" />
+          <mxGeometry x="1278" y="446" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ty5WQEpUX_jv8S6wdr2-0" value="Geographical Information Systems" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="937.5" y="490" width="212.5" height="140" as="geometry" />
+          <mxGeometry x="875.5" y="500" width="212.5" height="140" as="geometry" />
         </mxCell>
         <mxCell id="8ty5WQEpUX_jv8S6wdr2-2" value="Geospatial Asset Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="945.5" y="514" width="60" height="50" as="geometry" />
+          <mxGeometry x="883.5" y="524" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ty5WQEpUX_jv8S6wdr2-3" value="Geospatial Web Services" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="1012.5" y="514" width="60" height="50" as="geometry" />
+          <mxGeometry x="950.5" y="524" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ty5WQEpUX_jv8S6wdr2-4" value="GIS Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="945.5" y="571" width="60" height="50" as="geometry" />
+          <mxGeometry x="883.5" y="581" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ty5WQEpUX_jv8S6wdr2-5" value="Remote Sensing and Imagery" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="1012.5" y="571" width="60" height="50" as="geometry" />
+          <mxGeometry x="950.5" y="581" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ty5WQEpUX_jv8S6wdr2-6" value="Spatial Planning and Decision Support" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="1078.5" y="570" width="60" height="50" as="geometry" />
+          <mxGeometry x="1016.5" y="580" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8ty5WQEpUX_jv8S6wdr2-7" value="GIS Data Analysis" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="1078.5" y="514" width="60" height="50" as="geometry" />
+          <mxGeometry x="1016.5" y="524" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xoey8Awgs-QNmtrdHsPe-3" value="Data Ingestion" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
-          <mxGeometry x="1350" y="299" width="75" height="50" as="geometry" />
+          <mxGeometry x="1278" y="310" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvJzyOcxn4YDLr4M0oNT-1" value="Application Integration" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1278" y="719" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvJzyOcxn4YDLr4M0oNT-2" value="&lt;div&gt;Partner Systems Integration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1278" y="855" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WvJzyOcxn4YDLr4M0oNT-3" value="&lt;div&gt;Real-time Integration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="dbeWglCm4TqCR54ZL2q8-1">
+          <mxGeometry x="1278" y="991" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
