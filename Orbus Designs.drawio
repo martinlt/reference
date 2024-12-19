@@ -353,7 +353,7 @@
           <mxGeometry x="1036" y="304" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="umqIHyDL4a5WC_J1zme2-5" value="GIS Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="905" y="361" width="60" height="50" as="geometry" />
+          <mxGeometry x="903" y="361" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="umqIHyDL4a5WC_J1zme2-6" value="Remote Sensing and Imagery" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="361" width="60" height="50" as="geometry" />
