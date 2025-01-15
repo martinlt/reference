@@ -775,7 +775,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Wave 2" id="GbWBcXRzVTFFRYRMyTsM">
-    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GYvgc0L7cGJ7cQf1aphF-0" />
         <mxCell id="GYvgc0L7cGJ7cQf1aphF-1" parent="GYvgc0L7cGJ7cQf1aphF-0" />
@@ -1121,7 +1121,7 @@
         <mxCell id="GYvgc0L7cGJ7cQf1aphF-115" value="Reference Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
           <mxGeometry x="1418" y="505" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GYvgc0L7cGJ7cQf1aphF-116" value="Data Publication" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
+        <mxCell id="GYvgc0L7cGJ7cQf1aphF-116" value="Open Data Publication" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
           <mxGeometry x="1278" y="446" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GYvgc0L7cGJ7cQf1aphF-117" value="Geographical Information Systems" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
@@ -1201,6 +1201,9 @@
         </mxCell>
         <mxCell id="RS-QijFKpHTb-ieWNLTq-7" value="IT Incident Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Comic Sans MS;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
           <mxGeometry x="1570" y="797" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RS-QijFKpHTb-ieWNLTq-8" value="&lt;ol style=&quot;margin-left: 0px; padding-left: 0px; color: rgb(36, 36, 36); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;list-style-type: decimal; margin-left: 16px; padding-left: 4px;&quot;&gt;&lt;span style=&quot;font-weight: var(--fontWeightSemibold);&quot;&gt;Invest&lt;/span&gt;: Allocate resources to new technologies or systems that can drive growth, improve efficiency, or provide a competitive advantage. Core&lt;/li&gt;&lt;li style=&quot;list-style-type: decimal; margin-left: 16px; padding-left: 4px;&quot;&gt;&lt;span style=&quot;font-weight: var(--fontWeightSemibold);&quot;&gt;Maintain&lt;/span&gt;: Continue supporting and updating existing systems that are still valuable and align with business goals. Contain&lt;/li&gt;&lt;li style=&quot;list-style-type: decimal; margin-left: 16px; padding-left: 4px;&quot;&gt;&lt;span style=&quot;font-weight: var(--fontWeightSemibold);&quot;&gt;Retire&lt;/span&gt;: Phase out outdated or redundant technologies that no longer serve the organization&#39;s needs effectively. Retire&lt;/li&gt;&lt;li style=&quot;list-style-type: decimal; margin-left: 16px; padding-left: 4px;&quot;&gt;&lt;span style=&quot;font-weight: var(--fontWeightSemibold);&quot;&gt;Consolidate&lt;/span&gt;: Combine multiple systems or platforms to streamline operations and reduce costs.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
+          <mxGeometry x="37.5" y="-40" width="942.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
