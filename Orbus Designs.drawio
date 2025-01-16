@@ -775,7 +775,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Wave 2" id="GbWBcXRzVTFFRYRMyTsM">
-    <mxGraphModel dx="1430" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GYvgc0L7cGJ7cQf1aphF-0" />
         <mxCell id="GYvgc0L7cGJ7cQf1aphF-1" parent="GYvgc0L7cGJ7cQf1aphF-0" />
@@ -1241,9 +1241,6 @@
         <mxCell id="TJI0jflDfcfO_c_vkY4x-11" value="Oracle ERP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
           <mxGeometry x="152.5" y="770" width="75" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="TJI0jflDfcfO_c_vkY4x-12" value="Oracle ERP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
-          <mxGeometry x="67.5" y="829" width="75" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="TJI0jflDfcfO_c_vkY4x-13" value="SharePoint Online" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
           <mxGeometry x="1278" y="348.5" width="75" height="10" as="geometry" />
         </mxCell>
@@ -1272,10 +1269,19 @@
           <mxGeometry x="330" y="563" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="TJI0jflDfcfO_c_vkY4x-22" value="Bentley Suite" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
-          <mxGeometry x="240" y="618" width="75" height="10" as="geometry" />
+          <mxGeometry x="240" y="619" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="TJI0jflDfcfO_c_vkY4x-23" value="Bentley Suite" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
           <mxGeometry x="700" y="760" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TJI0jflDfcfO_c_vkY4x-24" value="Jaggaer Advantage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
+          <mxGeometry x="70" y="819" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TJI0jflDfcfO_c_vkY4x-25" value="AWARD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
+          <mxGeometry x="70.5" y="829" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TJI0jflDfcfO_c_vkY4x-26" value="PRISM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="GYvgc0L7cGJ7cQf1aphF-1">
+          <mxGeometry x="154" y="619" width="75" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
