@@ -910,7 +910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Highlighted Refactored Layered" id="g_51lNJ-Mx62zpxENTJ6">
-    <mxGraphModel dx="1551" dy="1984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="stX9Es6sDYX7skSx1oGG-0" />
         <mxCell id="stX9Es6sDYX7skSx1oGG-1" parent="stX9Es6sDYX7skSx1oGG-0" />
@@ -962,7 +962,7 @@
         <mxCell id="stX9Es6sDYX7skSx1oGG-21" value="Team Collaboration&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="890" y="790" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-22" value="Virtual Whiteboarding and Brainstorming" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+        <mxCell id="stX9Es6sDYX7skSx1oGG-22" value="Virtual Whiteboarding and Brainstorming" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=6;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacing=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="970" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-23" value="Enterprise Social Networking" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
@@ -971,7 +971,7 @@
         <mxCell id="stX9Es6sDYX7skSx1oGG-24" value="Workflow and Business Process Automation" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="1278" y="582" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-25" value="Resource Scheduling and Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+        <mxCell id="stX9Es6sDYX7skSx1oGG-25" value="Resource Scheduling and Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=7;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacing=2;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="1150" y="790" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-26" value="Enterprise Resource Planning" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
@@ -1308,7 +1308,7 @@
           <mxGeometry x="470" y="460" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-155" value="Bentley ALIM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="700" y="757" width="75" height="10" as="geometry" />
+          <mxGeometry x="700" y="758" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-156" value="Jaggaer Advantage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="70" y="816" width="75" height="10" as="geometry" />
@@ -1651,6 +1651,30 @@
         </mxCell>
         <mxCell id="4LkSji6ckTZfopjhwXpN-7" value="Outlook" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="902.5" y="769" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4LkSji6ckTZfopjhwXpN-8" value="Teams" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="982.5" y="769" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4LkSji6ckTZfopjhwXpN-9" value="Teams" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="900" y="829" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4LkSji6ckTZfopjhwXpN-10" value="Whiteboard" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="982.5" y="829" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4LkSji6ckTZfopjhwXpN-11" value="Miro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="982.5" y="818" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4LkSji6ckTZfopjhwXpN-12" value="Yammer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1063.5" y="829" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4LkSji6ckTZfopjhwXpN-13" value="Word" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1062.5" y="769" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4LkSji6ckTZfopjhwXpN-14" value="Matrix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1162.5" y="828" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4LkSji6ckTZfopjhwXpN-15" value="Outlook" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1162.5" y="816" width="50" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
