@@ -1317,7 +1317,7 @@
           <mxGeometry x="1278" y="348.5" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-148" value="SharePoint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="525.75" y="829" width="75" height="10" as="geometry" />
+          <mxGeometry x="552.5" y="816" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-149" value="SharePoint Online" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="700" y="769" width="75" height="10" as="geometry" />
@@ -1503,16 +1503,16 @@
           <mxGeometry x="340" y="816" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IbO7GN5ra5Q4w3rkDV0p-0" value="ServiceNow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="527.5" y="817" width="75" height="10" as="geometry" />
+          <mxGeometry x="510" y="816" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IbO7GN5ra5Q4w3rkDV0p-1" value="SharePoint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="613.89" y="828" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IbO7GN5ra5Q4w3rkDV0p-2" value="Dynamics 365" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="527" y="840" width="75" height="10" as="geometry" />
+          <mxGeometry x="546.5" y="828" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IbO7GN5ra5Q4w3rkDV0p-3" value="G Drive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="491" y="816" width="80" height="10" as="geometry" />
+          <mxGeometry x="499" y="828" width="80" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
