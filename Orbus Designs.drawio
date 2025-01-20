@@ -910,7 +910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Highlighted Refactored Layered" id="g_51lNJ-Mx62zpxENTJ6">
-    <mxGraphModel dx="2839" dy="1801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="stX9Es6sDYX7skSx1oGG-0" />
         <mxCell id="stX9Es6sDYX7skSx1oGG-1" parent="stX9Es6sDYX7skSx1oGG-0" />
@@ -1131,19 +1131,16 @@
           <mxGeometry x="60" y="310" width="910" height="180" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-86" value="Building Information Modelling (BIM)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="67.5" y="335" width="260" height="145" as="geometry" />
+          <mxGeometry x="67.5" y="335" width="182.5" height="145" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-87" value="3D Environment Modelling" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="77.5" y="364" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-88" value="Architectural Design Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="242.5" y="364" width="75" height="50" as="geometry" />
+          <mxGeometry x="163" y="364" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-89" value="BIM Quality&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="77.5" y="420" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-90" value="Facility Asset Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="160" y="420" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-91" value="Simulation and Analysis" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="340" y="335" width="180" height="145" as="geometry" />
@@ -1164,7 +1161,7 @@
           <mxGeometry x="548.75" y="420" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-97" value="Computer-Aided Design (CAD)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="242.5" y="420" width="75" height="50" as="geometry" />
+          <mxGeometry x="163" y="420" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-98" value="Geotechnical and Surveying" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="650" y="335" width="180" height="145" as="geometry" />
@@ -1382,7 +1379,7 @@
         <mxCell id="stX9Es6sDYX7skSx1oGG-169" value="Bentley Suite" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="240" y="619" width="75" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-170" value="PRISM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+        <mxCell id="stX9Es6sDYX7skSx1oGG-170" value="PRISM CostOS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="154" y="619" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-171" value="CEMAR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
@@ -1513,6 +1510,33 @@
         </mxCell>
         <mxCell id="IbO7GN5ra5Q4w3rkDV0p-3" value="G Drive" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="499" y="828" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GFy8P3DfRwXb69aaOmuB-0" value="OpenBuildings Designer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="150" y="403.5" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GFy8P3DfRwXb69aaOmuB-1" value="Bentley ContextCapture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="65" y="403.5" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GFy8P3DfRwXb69aaOmuB-2" value="Solibri Anywhere" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="65" y="459" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GFy8P3DfRwXb69aaOmuB-3" value="Solibri Office" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="65" y="448" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GFy8P3DfRwXb69aaOmuB-4" value="VAMP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="550" y="438" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GFy8P3DfRwXb69aaOmuB-6" value="EMME" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="350" y="402.5" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GFy8P3DfRwXb69aaOmuB-7" value="TRACS-RS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="431" y="402.5" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GFy8P3DfRwXb69aaOmuB-8" value="Trenissimo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="430.75" y="393" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GFy8P3DfRwXb69aaOmuB-9" value="Rail Network Design" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="350" y="419" width="75" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
