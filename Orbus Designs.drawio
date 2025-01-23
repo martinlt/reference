@@ -910,7 +910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Highlighted Refactored Layered" id="g_51lNJ-Mx62zpxENTJ6">
-    <mxGraphModel dx="1728" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="stX9Es6sDYX7skSx1oGG-0" />
         <mxCell id="stX9Es6sDYX7skSx1oGG-1" parent="stX9Es6sDYX7skSx1oGG-0" />
@@ -1260,7 +1260,7 @@
           <mxGeometry x="1570" y="836" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-138" value="ServiceNow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="1570" y="932" width="75" height="10" as="geometry" />
+          <mxGeometry x="1570" y="933" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-139" value="Dynamics 365" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="1105" y="384" width="75" height="10" as="geometry" />
@@ -1697,7 +1697,7 @@
         <mxCell id="jqsVsqJpKwcBIJ4g_xLy-0" value="Endpoint Security" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="1710" y="310.5" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-1" value="Identity and Access Management (IDAM)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-1" value="Identity and Access Management (IDAM)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=7;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacing=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="1710" y="408" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jqsVsqJpKwcBIJ4g_xLy-2" value="Infrastructure Security" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
@@ -1717,6 +1717,36 @@
         </mxCell>
         <mxCell id="jqsVsqJpKwcBIJ4g_xLy-7" value="Web &amp;amp; Content Filtering" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="1710" y="991" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-8" value="Zscaler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1710" y="1030" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-9" value="Entra ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1710" y="447" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-10" value="Defender" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1710" y="348.5" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-11" value="CASB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1710" y="1020" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-13" value="Qualys" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1710" y="933" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-14" value="Defender Attack Simulator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1702.5" y="837" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-15" value="Sentinel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1710" y="639" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-16" value="Checkpoint Quantum" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1710" y="545" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-17" value="Azure VPN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1710" y="535" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jqsVsqJpKwcBIJ4g_xLy-18" value="Cymulate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1710" y="738" width="75" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
