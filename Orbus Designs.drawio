@@ -910,7 +910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Highlighted Refactored Layered" id="g_51lNJ-Mx62zpxENTJ6">
-    <mxGraphModel dx="1572" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1372" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="stX9Es6sDYX7skSx1oGG-0" />
         <mxCell id="stX9Es6sDYX7skSx1oGG-1" parent="stX9Es6sDYX7skSx1oGG-0" />
@@ -1686,10 +1686,10 @@
           <mxGeometry x="1448" y="737" width="45" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4LkSji6ckTZfopjhwXpN-19" value="STATA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="1418" y="725" width="30" height="10" as="geometry" />
+          <mxGeometry x="1411" y="725" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4LkSji6ckTZfopjhwXpN-20" value="OACS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="1455.5" y="725" width="30" height="10" as="geometry" />
+          <mxGeometry x="1470" y="725" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4I-yjPVcHFnvl2cuF_7Z-0" value="ServiceNow CMDB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="1570" y="545" width="75" height="10" as="geometry" />
@@ -1759,6 +1759,9 @@
         </mxCell>
         <mxCell id="eVaVP8vqleJBPG2FcN4k-0" value="Legal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="1105" y="405" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Tr0XYacnXlXsv8ztEQ6Q-0" value="FABRIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="1441" y="725" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
