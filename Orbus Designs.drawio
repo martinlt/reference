@@ -910,7 +910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Highlighted Refactored Layered" id="g_51lNJ-Mx62zpxENTJ6">
-    <mxGraphModel dx="1577" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1524" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="stX9Es6sDYX7skSx1oGG-0" />
         <mxCell id="stX9Es6sDYX7skSx1oGG-1" parent="stX9Es6sDYX7skSx1oGG-0" />
@@ -1834,6 +1834,33 @@
         </mxCell>
         <mxCell id="pxzfJnKGJiYcW_HVkRCh-10" value="Azure Virtual Desktops" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="239.75" y="959" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8htq15_ojGvAq3VWGYlD-0" value="Surface Pro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="63.5" y="969" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8htq15_ojGvAq3VWGYlD-1" value="Surface Laptop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="103" y="969" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8htq15_ojGvAq3VWGYlD-2" value="MacBook Pro" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="103" y="959" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8htq15_ojGvAq3VWGYlD-3" value="MacBook Air" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="61.76" y="959" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8htq15_ojGvAq3VWGYlD-5" value="Meraki Dashboard" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="625" y="1029" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8htq15_ojGvAq3VWGYlD-6" value="Endpoint Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="154" y="1028" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8htq15_ojGvAq3VWGYlD-7" value="Zscaler Private Access" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="69.5" y="1028" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8htq15_ojGvAq3VWGYlD-8" value="BeyondTrust" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="80" y="1018" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8htq15_ojGvAq3VWGYlD-9" value="Remote Desktop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
+          <mxGeometry x="77" y="1008" width="60" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
