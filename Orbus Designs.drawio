@@ -910,7 +910,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Highlighted Refactored Layered" id="g_51lNJ-Mx62zpxENTJ6">
-    <mxGraphModel dx="2689" dy="2470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1905" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="stX9Es6sDYX7skSx1oGG-0" />
         <mxCell id="stX9Es6sDYX7skSx1oGG-1" parent="stX9Es6sDYX7skSx1oGG-0" />
@@ -1102,12 +1102,6 @@
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-70" value="Low-code &lt;br&gt;&amp;nbsp;Development" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="1129.9999999999998" y="919.9999999999998" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-71" value="Artificial Intelligence" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="1030.0000000000002" y="920" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-72" value="Machine Learning" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="1030" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-85" value="Design and Engineering Tools" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="60" y="310" width="900" height="180" as="geometry" />
