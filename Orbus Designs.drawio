@@ -1034,14 +1034,11 @@
         <mxCell id="stX9Es6sDYX7skSx1oGG-48" value="Device Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="155" y="930" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-49" value="Printing &amp;amp; Imagery" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="240" y="930" width="75" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-50" value="BYOD" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="155" y="990" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-51" value="Virtual Desktops" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="240" y="990" width="75" height="50" as="geometry" />
+          <mxGeometry x="240" y="930" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-52" value="Remote Access" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="70" y="990" width="75" height="50" as="geometry" />
@@ -1788,7 +1785,7 @@
           <mxGeometry x="156" y="969" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="3hp0qfLvJ705w6Dtip8z-12" value="Nerdio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
-          <mxGeometry x="240" y="1029" width="75" height="10" as="geometry" />
+          <mxGeometry x="240" y="969" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pxzfJnKGJiYcW_HVkRCh-0" value="Office Productivity Tools" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="stX9Es6sDYX7skSx1oGG-1">
           <mxGeometry x="1150" y="724" width="75" height="50" as="geometry" />
