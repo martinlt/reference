@@ -910,20 +910,20 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Highlighted Refactored Layered" id="g_51lNJ-Mx62zpxENTJ6">
-    <mxGraphModel dx="1905" dy="2091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="stX9Es6sDYX7skSx1oGG-0" />
         <mxCell id="stX9Es6sDYX7skSx1oGG-1" parent="stX9Es6sDYX7skSx1oGG-0" />
         <mxCell id="stX9Es6sDYX7skSx1oGG-2" value="&lt;b&gt;Governance Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;Policies, compliance, regulatory oversight.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#eeeeee;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry y="210" width="1980" height="900" as="geometry" />
         </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-3" value="&lt;b&gt;Security Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;IDAM, Endpoint, Infrastructure, SOC, Posture Management, Testing, Vulnerability Management, Web &amp;amp; Content Filtering&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#bac8d3;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
+        <mxCell id="stX9Es6sDYX7skSx1oGG-3" value="&lt;b&gt;Security Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;IDAM, Endpoint, Infrastructure, SOC, Posture Management, Testing, Vulnerability Management, Web &amp;amp; Content Filtering&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#bac8d3;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="10" y="220" width="1930" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-4" value="&lt;b&gt;Service Management Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;Change &amp;amp; Release Management, Service Continuity, Service Desk, Monitoring &amp;amp; Alerting, Incident Management, Service Request Fulfilment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
+        <mxCell id="stX9Es6sDYX7skSx1oGG-4" value="&lt;b&gt;Service Management Layer:&amp;nbsp;&lt;/b&gt;&lt;div&gt;Change &amp;amp; Release Management, Service Continuity, Service Desk, Monitoring &amp;amp; Alerting, Incident Management, Service Request Fulfilment&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="20" y="230" width="1780" height="860" as="geometry" />
         </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-5" value="&lt;b&gt;Data Management Layer:&lt;/b&gt;&lt;div&gt;Enables cross-layer data integration, governance, and analysis. Most master data resides within COTS/SaaS systems in the Operations Layer and Collaboration Layer, this layer ensures data consistency, accessibility, and quality for specific use cases such as enterprise reporting, analytics, and compliance. It does not replicate all master data but instead connects to authoritative systems where needed, following a federated or hybrid approach to data management.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#d5e8d4;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
+        <mxCell id="stX9Es6sDYX7skSx1oGG-5" value="&lt;b&gt;Data Management Layer:&lt;/b&gt;&lt;div&gt;Enables cross-layer data integration, governance, and analysis. Most master data resides within COTS/SaaS systems in the Operations Layer and Delivery Layer, this layer ensures data consistency, accessibility, and quality for specific use cases such as enterprise reporting, analytics, and compliance. It does not replicate all master data but instead connects to authoritative systems where needed, following a federated or hybrid approach to data management.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#d5e8d4;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="30" y="240" width="1630" height="840" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-6" value="&lt;b&gt;Integration Layer:&lt;/b&gt;&lt;div&gt;Middleware layer that enables communication and data exchange between systems in the Collaboration and Operations layers. It handles APIs, workflow orchestration, and data transformation, ensuring interoperability and consistency across the architecture.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=right;verticalAlign=top;textDirection=vertical-rl;fillColor=#f8cecc;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
@@ -1166,9 +1166,6 @@
         <mxCell id="stX9Es6sDYX7skSx1oGG-106" value="Land and Property Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="430.74874285714304" y="580" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="stX9Es6sDYX7skSx1oGG-107" value="Reference Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="1418.5" y="446" width="75" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-108" value="Open Data Publication" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="1278" y="446" width="75" height="50" as="geometry" />
         </mxCell>
@@ -1203,7 +1200,7 @@
           <mxGeometry x="1523.5" y="310" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-121" value="Data Security and Privacy" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="1421.3" y="990" width="75" height="50" as="geometry" />
+          <mxGeometry x="1523" y="855" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-122" value="Data Quality Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="1418" y="310" width="75" height="50" as="geometry" />
@@ -1212,7 +1209,7 @@
           <mxGeometry x="1523.5" y="447" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-124" value="Data Catalog and Metadata Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="1528.5" y="855" width="75" height="50" as="geometry" />
+          <mxGeometry x="1415.5" y="447" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="stX9Es6sDYX7skSx1oGG-126" value="Data Storage and Archiving" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="1418.5" y="855" width="75" height="50" as="geometry" />
@@ -1668,7 +1665,7 @@
           <mxGeometry x="1418.5" y="894" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4LkSji6ckTZfopjhwXpN-17" value="Nalytics DSARs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
-          <mxGeometry x="1421.3" y="1028" width="75" height="10" as="geometry" />
+          <mxGeometry x="1523" y="893" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4I-yjPVcHFnvl2cuF_7Z-0" value="ServiceNow CMDB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="stX9Es6sDYX7skSx1oGG-1" vertex="1">
           <mxGeometry x="1680" y="545" width="75" height="10" as="geometry" />
