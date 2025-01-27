@@ -1866,7 +1866,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of Highlighted Refactored Layered" id="wo4Yj7Ob7HPx8pJ3WnOc">
-    <mxGraphModel dx="2286" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1577" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="KsrKyYhwnR2brlvZTEez-0" />
         <mxCell id="KsrKyYhwnR2brlvZTEez-1" parent="KsrKyYhwnR2brlvZTEez-0" />
@@ -2567,7 +2567,7 @@
           <mxGeometry x="1523" y="893" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="KsrKyYhwnR2brlvZTEez-245" value="ServiceNow CMDB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="KsrKyYhwnR2brlvZTEez-1">
-          <mxGeometry x="1680" y="545" width="75" height="10" as="geometry" />
+          <mxGeometry x="1680" y="544" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="KsrKyYhwnR2brlvZTEez-246" value="Endpoint Security" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="KsrKyYhwnR2brlvZTEez-1">
           <mxGeometry x="1827.5" y="310.5" width="75" height="50" as="geometry" />
@@ -2784,6 +2784,24 @@
         </mxCell>
         <mxCell id="KsrKyYhwnR2brlvZTEez-317" value="Remote Desktop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="KsrKyYhwnR2brlvZTEez-1">
           <mxGeometry x="77" y="1008" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aiB-vFqJr3Yac6jmQXOc-3" value="APIM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;container=0;" vertex="1" parent="KsrKyYhwnR2brlvZTEez-1">
+          <mxGeometry x="1278" y="693" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aiB-vFqJr3Yac6jmQXOc-4" value="Kafka??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;container=0;" vertex="1" parent="KsrKyYhwnR2brlvZTEez-1">
+          <mxGeometry x="1278" y="1030" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aiB-vFqJr3Yac6jmQXOc-5" value="Confluent??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;container=0;" vertex="1" parent="KsrKyYhwnR2brlvZTEez-1">
+          <mxGeometry x="1278" y="1019" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aiB-vFqJr3Yac6jmQXOc-6" value="Enterprise Knowledge Graph" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="KsrKyYhwnR2brlvZTEez-1">
+          <mxGeometry x="1523.5" y="989" width="75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aiB-vFqJr3Yac6jmQXOc-7" value="Neo4J??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;container=0;" vertex="1" parent="KsrKyYhwnR2brlvZTEez-1">
+          <mxGeometry x="1523" y="1028" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aiB-vFqJr3Yac6jmQXOc-8" value="ServiceNow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="KsrKyYhwnR2brlvZTEez-1">
+          <mxGeometry x="1680" y="447" width="75" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
