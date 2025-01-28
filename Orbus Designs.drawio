@@ -956,7 +956,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Refactored Technology Reference Model with SBBs" id="788O-2vMXstmGySzKwKy">
-    <mxGraphModel dx="2993" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LxyGWZlKpze5cpP8w2pN-0" />
         <mxCell id="LxyGWZlKpze5cpP8w2pN-1" parent="LxyGWZlKpze5cpP8w2pN-0" />
@@ -1860,18 +1860,6 @@
         <mxCell id="LxyGWZlKpze5cpP8w2pN-307" value="APIM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;container=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
           <mxGeometry x="996" y="291" width="75" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="LxyGWZlKpze5cpP8w2pN-308" value="Kafka??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6D0DE;labelBorderColor=#B5739D;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;container=0;fontColor=#FFFFFF;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
-          <mxGeometry x="996" y="442" width="75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="LxyGWZlKpze5cpP8w2pN-309" value="Confluent??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6D0DE;labelBorderColor=#B5739D;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;container=0;fontColor=#FFFFFF;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
-          <mxGeometry x="996" y="431" width="75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="LxyGWZlKpze5cpP8w2pN-310" value="Enterprise Knowledge Graph" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
-          <mxGeometry x="1152.5" y="943" width="75" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LxyGWZlKpze5cpP8w2pN-311" value="Neo4J??" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6D0DE;labelBorderColor=#B5739D;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;container=0;fontColor=#FFFFFF;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
-          <mxGeometry x="1152" y="982" width="75" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="LxyGWZlKpze5cpP8w2pN-312" value="ServiceNow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
           <mxGeometry x="1330" y="240.5" width="75" height="10" as="geometry" />
         </mxCell>
@@ -1949,6 +1937,9 @@
         </mxCell>
         <mxCell id="JBaBWeikFQ0A-zfNB7Ut-13" value="W3C Checker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
           <mxGeometry x="702.5" y="1059" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-15" value="Oracle Integration Cloud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="988.5000000000002" y="280" width="90" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
