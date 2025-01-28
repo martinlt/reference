@@ -956,7 +956,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Refactored Technology Reference Model with SBBs" id="788O-2vMXstmGySzKwKy">
-    <mxGraphModel dx="1793" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2993" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LxyGWZlKpze5cpP8w2pN-0" />
         <mxCell id="LxyGWZlKpze5cpP8w2pN-1" parent="LxyGWZlKpze5cpP8w2pN-0" />
@@ -978,7 +978,7 @@
         <mxCell id="LxyGWZlKpze5cpP8w2pN-7" value="&lt;b&gt;Delivery Layer (front-office):&lt;/b&gt;&lt;div&gt;The outward-facing layer that facilitates direct interaction and collaboration with external stakeholders such as contractors, Joint Ventures (JVs), supply chain partners, landowners, petitioners, etc. Includes tools, platforms, and APIs that external users access directly, as well as shared systems that enable joint project delivery and compliance.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#dae8fc;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
           <mxGeometry x="50" y="50" width="930" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="LxyGWZlKpze5cpP8w2pN-8" value="&lt;b&gt;Operations Layer (back-office):&lt;/b&gt;&lt;div&gt;The internal layer supporting HS2 Ltd’s operational activities, housing back-office systems that manage finances, risks and other operational processes. This layer underpins the Collaboration Layer by exposing selected data and functionality to external users while ensuring internal workflows and decision-making are managed effectively.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+        <mxCell id="LxyGWZlKpze5cpP8w2pN-8" value="&lt;b&gt;Operations Layer (back-office):&lt;/b&gt;&lt;div&gt;The internal layer supporting HS2 Ltd’s operational activities, housing back-office systems that manage finances, risks and other operational processes. This layer underpins the Delivery Layer by exposing selected data and functionality to external users while ensuring internal workflows and decision-making are managed effectively.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#fff2cc;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
           <mxGeometry x="50" y="520" width="930" height="290" as="geometry" />
         </mxCell>
         <mxCell id="LxyGWZlKpze5cpP8w2pN-9" value="&lt;b&gt;Infrastructure and Platform Layer:&lt;/b&gt;&lt;div&gt;The foundational layer providing the compute, storage, and network resources required to support all other layers.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;fillColor=#ffe6cc;strokeColor=none;fontFamily=Verdana;fontSize=8;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
@@ -1914,8 +1914,41 @@
         <mxCell id="49vLUCpgcU9adTTdomwj-12" value="Software Design" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
           <mxGeometry x="489.37" y="1020" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LxyGWZlKpze5cpP8w2pN-279" value="Azure DevOps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+        <mxCell id="LxyGWZlKpze5cpP8w2pN-279" value="Azure DevOps Wiki" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
           <mxGeometry x="489.62" y="1060" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-0" value="Smaply" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="150" y="1059" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-1" value="Visio" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="538.89" y="1049" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-3" value="Word" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="512.75" y="1049" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-4" value="PlantUML" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="480" y="1049" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-5" value="Azure DevOps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="405" y="1059" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-6" value="Jenkins" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="403.75" y="1049" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-7" value="Balsamiq" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="237" y="1059" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-8" value="Figma" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="237" y="1049" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-9" value="Azure DevOps" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="66.87" y="1059" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-10" value="ServiceNow Agile Dev" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="59.75" y="1048" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-13" value="W3C Checker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="702.5" y="1059" width="75" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
