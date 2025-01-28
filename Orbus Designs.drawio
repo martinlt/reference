@@ -1941,6 +1941,9 @@
         <mxCell id="JBaBWeikFQ0A-zfNB7Ut-15" value="Oracle Integration Cloud" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=6;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
           <mxGeometry x="988.5000000000002" y="280" width="90" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="JBaBWeikFQ0A-zfNB7Ut-16" value="Python" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="LxyGWZlKpze5cpP8w2pN-1">
+          <mxGeometry x="1169.5" y="327.5" width="40" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
