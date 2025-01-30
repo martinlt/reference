@@ -2195,10 +2195,10 @@
         <mxCell id="OTe2vGBHk36OC4tpqmDM-84" value="Application Integration" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1003.5" y="438.5" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTe2vGBHk36OC4tpqmDM-85" value="&lt;div&gt;Real-time Integration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+        <mxCell id="OTe2vGBHk36OC4tpqmDM-85" value="&lt;div&gt;Real-time Integration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1003.5" y="590.5" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTe2vGBHk36OC4tpqmDM-86" value="Master Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+        <mxCell id="OTe2vGBHk36OC4tpqmDM-86" value="Master Data Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1152.5" y="638" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-87" value="Data Security and Privacy" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
@@ -2207,7 +2207,7 @@
         <mxCell id="OTe2vGBHk36OC4tpqmDM-88" value="Data Quality Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1152.5" y="430" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTe2vGBHk36OC4tpqmDM-89" value="Data Lifecycle Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+        <mxCell id="OTe2vGBHk36OC4tpqmDM-89" value="Data Lifecycle Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1152.5" y="569" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-90" value="Data Catalog and Metadata Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientDirection=radial;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
