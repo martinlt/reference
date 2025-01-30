@@ -2204,7 +2204,7 @@
         <mxCell id="OTe2vGBHk36OC4tpqmDM-87" value="Data Security and Privacy" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1152.5" y="869" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTe2vGBHk36OC4tpqmDM-88" value="Data Quality Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+        <mxCell id="OTe2vGBHk36OC4tpqmDM-88" value="Data Quality Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1152.5" y="430" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-89" value="Data Lifecycle Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
@@ -2219,7 +2219,7 @@
         <mxCell id="OTe2vGBHk36OC4tpqmDM-92" value="IT Change and Release Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1330" y="104" width="75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OTe2vGBHk36OC4tpqmDM-93" value="Service Continuity (BC/DR)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+        <mxCell id="OTe2vGBHk36OC4tpqmDM-93" value="Service Continuity (BC/DR)" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=7;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1330" y="201.5" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-94" value="Service Configuration and Asset Management" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=7;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;spacing=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
@@ -2273,7 +2273,7 @@
         <mxCell id="OTe2vGBHk36OC4tpqmDM-110" value="SharePoint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=7;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="791.25" y="628" width="40" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="OTe2vGBHk36OC4tpqmDM-111" value="iDAT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+        <mxCell id="OTe2vGBHk36OC4tpqmDM-111" value="iDAT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#FF9999;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1152.5" y="469" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-112" value="VisHub" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
@@ -2838,7 +2838,7 @@
           <mxGeometry x="1003.5" y="476.5" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-300" value="SharePoint" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#FF9999;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
-          <mxGeometry x="1330" y="240.5" width="75" height="10" as="geometry" />
+          <mxGeometry x="1330" y="230.5" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-301" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=8;fontFamily=Verdana;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;dashed=1;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="604.13" y="1000" width="353.5" height="80" as="geometry" />
@@ -2976,7 +2976,7 @@
           <mxGeometry x="1152" y="327.5" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PDOKW6U-If1IhjPg9Jhg-3" value="ServiceNow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#D5E8D4;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
-          <mxGeometry x="1330" y="250.5" width="75" height="10" as="geometry" />
+          <mxGeometry x="1330" y="240.5" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PDOKW6U-If1IhjPg9Jhg-4" value="AI Ops" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#D5E8D4;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1330" y="511.5" width="75" height="10" as="geometry" />
