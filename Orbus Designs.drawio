@@ -2651,10 +2651,10 @@
         <mxCell id="OTe2vGBHk36OC4tpqmDM-236" value="Zscaler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#FFFFCC;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1497.5" y="818" width="75" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="OTe2vGBHk36OC4tpqmDM-237" value="Entra ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+        <mxCell id="OTe2vGBHk36OC4tpqmDM-237" value="Entra ID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#D5E8D4;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1497.5" y="235" width="75" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="OTe2vGBHk36OC4tpqmDM-238" value="Defender" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#E6E6E6;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+        <mxCell id="OTe2vGBHk36OC4tpqmDM-238" value="Defender" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#D5E8D4;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="1497.5" y="136.5" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-239" value="CASB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#FFFFCC;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
@@ -2986,6 +2986,12 @@
         </mxCell>
         <mxCell id="B02kT6aKOKPorPd32vvb-0" value="Cymulate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#D5E8D4;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
           <mxGeometry x="786.74" y="1059" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B02kT6aKOKPorPd32vvb-1" value="Active Directory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#FF9999;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+          <mxGeometry x="1497.5" y="225" width="75" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="B02kT6aKOKPorPd32vvb-2" value="Lighthouse" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#D5E8D4;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+          <mxGeometry x="1497.5" y="438" width="75" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
