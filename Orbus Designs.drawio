@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="22">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0" pages="22">
   <diagram name="Refactored Technology Reference Model with SBBs" id="788O-2vMXstmGySzKwKy">
     <mxGraphModel dx="2206" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1942,7 +1942,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Target Refactored Technology Reference Model with SBBs" id="SIktNvN6uYkvuXpSLi8J">
-    <mxGraphModel dx="2074" dy="1106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1462" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-0" />
         <mxCell id="OTe2vGBHk36OC4tpqmDM-1" parent="OTe2vGBHk36OC4tpqmDM-0" />
@@ -3002,7 +3002,7 @@
         <mxCell id="RVF8EdfcKuh4MD8RLppU-8" value="Consolidate, consider for rationalisation" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" parent="OMoVUv96nfjjgCBEZeKc-1" vertex="1">
           <mxGeometry x="38.5" y="10" width="172.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aLReAe4jsJ-Ooidrnrmg-0" value="Note - Each ABB (solid border) should be defined at a level where commercially available products could realise it." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=default;" vertex="1" parent="OTe2vGBHk36OC4tpqmDM-1">
+        <mxCell id="aLReAe4jsJ-Ooidrnrmg-0" value="Note - Each ABB (solid border) should be defined at a level where commercially available products could realise it." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=default;" parent="OTe2vGBHk36OC4tpqmDM-1" vertex="1">
           <mxGeometry x="1420" y="917" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -5386,7 +5386,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="UTOM Related Operational Concepts - Live" id="MdFwmTkoarBGKd_llfpv">
-    <mxGraphModel dx="1322" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lrquASee5Um1X5oduTPq-0" />
         <mxCell id="lrquASee5Um1X5oduTPq-1" parent="lrquASee5Um1X5oduTPq-0" />
@@ -5550,7 +5550,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lrquASee5Um1X5oduTPq-33" value="Position" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="lrquASee5Um1X5oduTPq-1" vertex="1">
+        <mxCell id="lrquASee5Um1X5oduTPq-33" value="Role" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="lrquASee5Um1X5oduTPq-1" vertex="1">
           <mxGeometry x="1040.26" y="249" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="lrquASee5Um1X5oduTPq-34" value="participates&lt;br&gt;in ▼" style="endArrow=none;endFill=0;endSize=10;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#666666;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="lrquASee5Um1X5oduTPq-1" source="lrquASee5Um1X5oduTPq-16" target="lrquASee5Um1X5oduTPq-33" edge="1">
