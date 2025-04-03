@@ -8351,222 +8351,222 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nyIDZqow9YgS58sM0YQZ" name="CDM - End State - Rail Access &amp; Planning">
-    <mxGraphModel dx="1425" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HkKuGHYAYNXZogzJ7awR-1" value="Railway Undertaking" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="279.97" y="79.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="439.97" y="120.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="HkKuGHYAYNXZogzJ7awR-2" value="Track Access Agreement" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="279.97" y="199.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="439.97" y="240.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="HkKuGHYAYNXZogzJ7awR-3" value="Train Path" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="439.97" y="319.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="599.97" y="360.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="HkKuGHYAYNXZogzJ7awR-4" value="Working Timetable" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="599.97" y="319.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="759.97" y="360.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="HkKuGHYAYNXZogzJ7awR-6" value="Interface Agreement" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="599.97" y="199.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="759.97" y="240.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="HkKuGHYAYNXZogzJ7awR-7" value="Infrastructure Manager" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="439.97" y="199.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="599.97" y="240.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="fOabE8vPz7JalPmMMV6J-1" value="consists&lt;br&gt;of" style="endArrow=none;html=1;endSize=14;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=default;strokeColor=#666666;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-4" target="HkKuGHYAYNXZogzJ7awR-3">
           <mxGeometry x="0.5039" relative="1" as="geometry">
-            <mxPoint x="479.97" y="419.97" as="sourcePoint" />
-            <mxPoint x="419.97" y="349.97" as="targetPoint" />
+            <mxPoint x="639.97" y="460.63" as="sourcePoint" />
+            <mxPoint x="579.97" y="390.63" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N7JCOdUvmaSNny3lOqRv-1" value="owns ►" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-7" target="HkKuGHYAYNXZogzJ7awR-4">
           <mxGeometry x="0.0064" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="459.97" y="269.97" as="sourcePoint" />
-            <mxPoint x="541.97" y="269.97" as="targetPoint" />
+            <mxPoint x="619.97" y="310.63" as="sourcePoint" />
+            <mxPoint x="701.97" y="310.63" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="478.97" y="279.97" />
-              <mxPoint x="619.97" y="279.97" />
+              <mxPoint x="638.97" y="320.63" />
+              <mxPoint x="779.97" y="320.63" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N7JCOdUvmaSNny3lOqRv-2" value="is party&lt;div&gt;to&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;►&lt;/span&gt;&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-7" target="HkKuGHYAYNXZogzJ7awR-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="549.97" y="219.97" as="sourcePoint" />
-            <mxPoint x="549.97" y="300.97" as="targetPoint" />
+            <mxPoint x="709.97" y="260.63" as="sourcePoint" />
+            <mxPoint x="709.97" y="341.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N7JCOdUvmaSNny3lOqRv-3" value="aligns with ▼" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-6" target="HkKuGHYAYNXZogzJ7awR-4">
           <mxGeometry x="-0.2402" y="1" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="488.97" y="248.97000000000003" as="sourcePoint" />
-            <mxPoint x="488.97" y="329.97" as="targetPoint" />
+            <mxPoint x="648.97" y="289.63" as="sourcePoint" />
+            <mxPoint x="648.97" y="370.63" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MenvBeeTPzMNVQ-_tfkH-1" value="defines ►" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HtOYgkVCEVAA06BIaJEc-1" target="HkKuGHYAYNXZogzJ7awR-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.1" y="249.97000000000003" as="sourcePoint" />
-            <mxPoint x="319.1" y="330.97" as="targetPoint" />
+            <mxPoint x="479.1" y="290.63" as="sourcePoint" />
+            <mxPoint x="479.1" y="371.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MenvBeeTPzMNVQ-_tfkH-2" value="is party&lt;div&gt;to&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;▼&lt;/span&gt;&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-1" target="HkKuGHYAYNXZogzJ7awR-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="198.97" y="219.42" as="sourcePoint" />
-            <mxPoint x="279.97" y="219.42" as="targetPoint" />
+            <mxPoint x="358.97" y="260.08" as="sourcePoint" />
+            <mxPoint x="439.97" y="260.08" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MenvBeeTPzMNVQ-_tfkH-3" value="◄ is party&lt;div&gt;to&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-2" target="HkKuGHYAYNXZogzJ7awR-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="208.97" y="229.97000000000003" as="sourcePoint" />
-            <mxPoint x="289.97" y="229.97000000000003" as="targetPoint" />
+            <mxPoint x="368.97" y="270.63" as="sourcePoint" />
+            <mxPoint x="449.97" y="270.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HtOYgkVCEVAA06BIaJEc-1" value="Access Right" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="279.97" y="319.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="439.97" y="360.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="HtOYgkVCEVAA06BIaJEc-2" value="consists&lt;br&gt;of" style="endArrow=none;html=1;endSize=14;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=default;strokeColor=#666666;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-2">
           <mxGeometry x="0.5039" relative="1" as="geometry">
-            <mxPoint x="488.97" y="368.97" as="sourcePoint" />
-            <mxPoint x="318.97" y="319.97" as="targetPoint" />
+            <mxPoint x="648.97" y="409.63" as="sourcePoint" />
+            <mxPoint x="478.97" y="360.63" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HtOYgkVCEVAA06BIaJEc-4" value="Economic &amp;amp; Access Regulator" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="119.97" y="199.97" width="78.74" height="40" as="geometry" />
+          <mxGeometry x="279.97" y="240.63" width="78.74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d3WRLzZ29XX6VlCCJOVT-1" value="approves ►" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HtOYgkVCEVAA06BIaJEc-4" target="HkKuGHYAYNXZogzJ7awR-2">
           <mxGeometry x="-0.0004" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="208.97" y="229.97000000000003" as="sourcePoint" />
-            <mxPoint x="289.97" y="229.97000000000003" as="targetPoint" />
+            <mxPoint x="368.97" y="270.63" as="sourcePoint" />
+            <mxPoint x="449.97" y="270.63" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d3WRLzZ29XX6VlCCJOVT-2" value="Timetable Development Process" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="759.97" y="199.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="919.97" y="240.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="d3WRLzZ29XX6VlCCJOVT-3" value="&lt;div&gt;determines&amp;nbsp;&lt;/div&gt;&lt;div&gt;participation&amp;nbsp;&lt;/div&gt;&lt;div&gt;in&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;►&lt;/span&gt;&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-6" target="d3WRLzZ29XX6VlCCJOVT-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="528.97" y="229.97000000000003" as="sourcePoint" />
-            <mxPoint x="609.97" y="229.97000000000003" as="targetPoint" />
+            <mxPoint x="688.97" y="270.63" as="sourcePoint" />
+            <mxPoint x="769.97" y="270.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d3WRLzZ29XX6VlCCJOVT-4" value="Access Proposal (Timetable Bid)" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="439.97" y="79.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="599.97" y="120.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="d3WRLzZ29XX6VlCCJOVT-5" value="submits ►" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-1" target="d3WRLzZ29XX6VlCCJOVT-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="328.97" y="128.97" as="sourcePoint" />
-            <mxPoint x="328.97" y="209.97" as="targetPoint" />
+            <mxPoint x="488.97" y="169.63" as="sourcePoint" />
+            <mxPoint x="488.97" y="250.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d3WRLzZ29XX6VlCCJOVT-6" value="receives&amp;nbsp;&lt;span style=&quot;text-align: left; background-color: rgb(251, 251, 251);&quot;&gt;▲&lt;/span&gt;" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="d3WRLzZ29XX6VlCCJOVT-4" target="HkKuGHYAYNXZogzJ7awR-7">
           <mxGeometry x="0.0064" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="208.97" y="229.97000000000003" as="sourcePoint" />
-            <mxPoint x="289.97" y="229.97000000000003" as="targetPoint" />
+            <mxPoint x="368.97" y="270.63" as="sourcePoint" />
+            <mxPoint x="449.97" y="270.63" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tyMOt24AkN4GK0mrrCPU-1" value="submitted during ►" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="d3WRLzZ29XX6VlCCJOVT-4" target="d3WRLzZ29XX6VlCCJOVT-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="368.97" y="109.97" as="sourcePoint" />
-            <mxPoint x="449.97" y="109.97" as="targetPoint" />
+            <mxPoint x="528.97" y="150.63" as="sourcePoint" />
+            <mxPoint x="609.97" y="150.63" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="799.97" y="99.97" />
+              <mxPoint x="959.97" y="140.63" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tyMOt24AkN4GK0mrrCPU-2" value="◄ defines" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="d3WRLzZ29XX6VlCCJOVT-2" target="HkKuGHYAYNXZogzJ7awR-4">
           <mxGeometry x="0.2676" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="528.97" y="109.97" as="sourcePoint" />
-            <mxPoint x="808.97" y="209.97" as="targetPoint" />
+            <mxPoint x="688.97" y="150.63" as="sourcePoint" />
+            <mxPoint x="968.97" y="250.63" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="799.97" y="339.97" />
+              <mxPoint x="959.97" y="380.63" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tyMOt24AkN4GK0mrrCPU-3" value="Performance Obligation" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="119.97" y="79.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="279.97" y="120.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="tyMOt24AkN4GK0mrrCPU-6" value="entails" style="endArrow=none;html=1;endSize=14;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=middle;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endFill=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=default;strokeColor=#666666;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-2" target="tyMOt24AkN4GK0mrrCPU-3">
           <mxGeometry x="0.2675" relative="1" as="geometry">
-            <mxPoint x="328.97" y="248.97000000000003" as="sourcePoint" />
-            <mxPoint x="328.97" y="329.97" as="targetPoint" />
+            <mxPoint x="488.97" y="289.63" as="sourcePoint" />
+            <mxPoint x="488.97" y="370.63" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tyMOt24AkN4GK0mrrCPU-7" value="exercises ▼" style="endArrow=none;html=1;endSize=14;startArrow=none;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=middle;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endFill=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=default;strokeColor=#666666;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3WRLzZ29XX6VlCCJOVT-4" target="HtOYgkVCEVAA06BIaJEc-1">
           <mxGeometry x="0.1913" relative="1" as="geometry">
-            <mxPoint x="309.97" y="248.97000000000003" as="sourcePoint" />
-            <mxPoint x="168.97" y="329.97" as="targetPoint" />
+            <mxPoint x="469.97" y="289.63" as="sourcePoint" />
+            <mxPoint x="328.97" y="370.63" as="targetPoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="478.97" y="39.97" />
-              <mxPoint x="79.97" y="39.97" />
-              <mxPoint x="79.97" y="339.97" />
+              <mxPoint x="638.97" y="80.63" />
+              <mxPoint x="239.97" y="80.63" />
+              <mxPoint x="239.97" y="380.63" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tyMOt24AkN4GK0mrrCPU-8" value="Firm Right" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="119.97" y="439.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="279.97" y="480.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="tyMOt24AkN4GK0mrrCPU-9" value="Spot Bid" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="439.97" y="439.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="599.97" y="480.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="tyMOt24AkN4GK0mrrCPU-10" value="Contingent Right" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="279.97" y="439.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="439.97" y="480.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="Q04QhJ7Et_RpRxEsHg9l-1" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" source="tyMOt24AkN4GK0mrrCPU-8" target="HtOYgkVCEVAA06BIaJEc-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="213.99999999999997" y="430.97" as="sourcePoint" />
-            <mxPoint x="293" y="369.97" as="targetPoint" />
+            <mxPoint x="374" y="471.63" as="sourcePoint" />
+            <mxPoint x="453" y="410.63" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="159.99999999999997" y="399.97" />
-              <mxPoint x="320" y="400.97" />
+              <mxPoint x="320" y="440.63" />
+              <mxPoint x="480" y="441.63" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Q04QhJ7Et_RpRxEsHg9l-2" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" source="tyMOt24AkN4GK0mrrCPU-9" target="HtOYgkVCEVAA06BIaJEc-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="168.99999999999997" y="449.97" as="sourcePoint" />
-            <mxPoint x="329" y="368.97" as="targetPoint" />
+            <mxPoint x="329" y="490.63" as="sourcePoint" />
+            <mxPoint x="489" y="409.63" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="399.97" />
-              <mxPoint x="319" y="399.97" />
+              <mxPoint x="640" y="440.63" />
+              <mxPoint x="479" y="440.63" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Q04QhJ7Et_RpRxEsHg9l-3" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" source="tyMOt24AkN4GK0mrrCPU-10" target="HtOYgkVCEVAA06BIaJEc-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="489" y="449.97" as="sourcePoint" />
-            <mxPoint x="329" y="368.97" as="targetPoint" />
+            <mxPoint x="649" y="490.63" as="sourcePoint" />
+            <mxPoint x="489" y="409.63" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q04QhJ7Et_RpRxEsHg9l-5" value="Strategic Capacity (reserved by IM)" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="599.97" y="439.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="759.97" y="480.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="Q04QhJ7Et_RpRxEsHg9l-6" value="Reserved Path (reserved by IM)" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="759.97" y="439.97" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="919.97" y="480.63" width="78.74" height="39.37" as="geometry" />
         </mxCell>
         <mxCell id="Q04QhJ7Et_RpRxEsHg9l-7" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" source="Q04QhJ7Et_RpRxEsHg9l-5" target="HtOYgkVCEVAA06BIaJEc-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="489" y="449.97" as="sourcePoint" />
-            <mxPoint x="329" y="368.97" as="targetPoint" />
+            <mxPoint x="649" y="490.63" as="sourcePoint" />
+            <mxPoint x="489" y="409.63" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="399.97" />
-              <mxPoint x="319" y="399.97" />
+              <mxPoint x="800" y="440.63" />
+              <mxPoint x="479" y="440.63" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Q04QhJ7Et_RpRxEsHg9l-8" value="" style="endArrow=block;endSize=10;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#666666;fontColor=default;fillColor=#f5f5f5;" edge="1" parent="1" source="Q04QhJ7Et_RpRxEsHg9l-6" target="HtOYgkVCEVAA06BIaJEc-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="649" y="449.97" as="sourcePoint" />
-            <mxPoint x="329" y="368.97" as="targetPoint" />
+            <mxPoint x="809" y="490.63" as="sourcePoint" />
+            <mxPoint x="489" y="409.63" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="800" y="399.97" />
-              <mxPoint x="319" y="399.97" />
+              <mxPoint x="960" y="440.63" />
+              <mxPoint x="479" y="440.63" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -8616,6 +8616,12 @@
         </mxCell>
         <mxCell id="pQFuM8vd_xA0kHSDYnrv-7" value="Stereotypes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontFamily=Architects Daughter;fontColor=#5AA9E6;container=0;" vertex="1" parent="pQFuM8vd_xA0kHSDYnrv-8">
           <mxGeometry x="106.44351464435147" width="53.55648535564853" height="14.170160004723387" as="geometry" />
+        </mxCell>
+        <mxCell id="pQFuM8vd_xA0kHSDYnrv-13" value="&lt;h1 style=&quot;margin-top: 0px; margin-bottom: 0px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Definitions&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;margin-top: 6px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Railway Undertaking&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- An organisation authorised to operate rail services (passenger or freight) on the rail network.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Infrastructure Manager&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- Responsible for managing, maintaining, and operating the rail infrastructure, including path allocation.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Track Access Agreement&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- A contract between a Railway Undertaking and an Infrastructure Manager, granting access rights.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Access Right&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- A contractual entitlement to request capacity on the infrastructure (e.g. a firm or contingent right).&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Firm Right&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- A guaranteed right to have a train path included in the timetable.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Contingent Right&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- A conditional right, dependent on availability of capacity after firm rights have been satisfied.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Spot Bid&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;- A one-off, late-notice request for a train path outside the main planning cycle.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Strategic Capacity&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- Capacity deliberately withheld from the timetable to support future needs, resilience, or development.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Reserved Path&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- A predefined but unallocated train path held back by the IM for potential use, not tied to any RU.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Access Proposal&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;(Timetable Bid) - A request submitted by a Railway Undertaking to the Infrastructure Manager for specific train paths.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Timetable Development Process&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- The structured, collaborative process for building the Working Timetable.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Working Timetable&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- The final, agreed timetable of all planned train movements on the infrastructure.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Train Path&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- A specific route and scheduled time slot assigned to a train in the Working Timetable.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Interface Agreement&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- An agreement between Infrastructure Managers to coordinate at operational or boundary interfaces.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Performance Obligation&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- A contractual requirement to meet performance levels, often linked to penalties or incentives.&lt;/span&gt;&lt;br style=&quot;font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;Economic &amp;amp; Access Regulator&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&amp;nbsp;- The ORR – oversees access to the network, approves TAAs, and ensures fair and efficient operations&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="38.74" y="520" width="560" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pQFuM8vd_xA0kHSDYnrv-14" value="Subject Area Diagram: Rail Access &amp;amp; Planning" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="38.74" y="10" width="930" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
