@@ -8489,7 +8489,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tyMOt24AkN4GK0mrrCPU-3" value="Performance Obligation" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="280" y="380" width="78.74" height="39.37" as="geometry" />
+          <mxGeometry x="320" y="280" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="tyMOt24AkN4GK0mrrCPU-6" value="entails" style="endArrow=none;html=1;endSize=14;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=middle;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;endFill=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=default;strokeColor=#666666;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-2" target="tyMOt24AkN4GK0mrrCPU-3">
+          <mxGeometry x="0.2675" relative="1" as="geometry">
+            <mxPoint x="529" y="209" as="sourcePoint" />
+            <mxPoint x="529" y="290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
