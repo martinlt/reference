@@ -8571,12 +8571,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wl2UaFdUEnC7MNGtePg4-1" value="Notation Guide" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Architects Daughter;fontColor=#5AA9E6;container=0;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="520" width="120" height="20" as="geometry" />
+          <mxGeometry x="1241" y="80" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Wl2UaFdUEnC7MNGtePg4-2" value="" style="endArrow=none;endFill=0;endSize=24;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;sketch=1;strokeColor=#6c8ebf;fontColor=#5AA9E6;locked=0;startArrow=diamondThin;startFill=0;targetPerimeterSpacing=19;startSize=24;fillColor=#dae8fc;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1200" y="609.3399999999999" as="sourcePoint" />
-            <mxPoint x="1320" y="609" as="targetPoint" />
+            <mxPoint x="1241" y="169.33999999999992" as="sourcePoint" />
+            <mxPoint x="1361" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wl2UaFdUEnC7MNGtePg4-3" value="contains" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Architects Daughter;fontColor=#5AA9E6;container=0;" vertex="1" connectable="0" parent="Wl2UaFdUEnC7MNGtePg4-2">
@@ -8586,21 +8586,30 @@
         </mxCell>
         <mxCell id="Wl2UaFdUEnC7MNGtePg4-4" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Architects+Daughter&quot; face=&quot;Architects Daughter&quot; style=&quot;font-size: 8px;&quot;&gt;is a type of&lt;/font&gt;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Helvetica;fontSize=8;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;sketch=1;strokeColor=#6c8ebf;fontColor=#5AA9E6;locked=0;fillColor=#dae8fc;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1200" y="550.49" as="sourcePoint" />
-            <mxPoint x="1320" y="550" as="targetPoint" />
+            <mxPoint x="1241" y="110.49000000000001" as="sourcePoint" />
+            <mxPoint x="1361" y="110" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wl2UaFdUEnC7MNGtePg4-5" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;fontFamily=Helvetica;fontSize=9;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;sketch=1;strokeColor=#6c8ebf;fontColor=#5AA9E6;locked=0;startArrow=none;startFill=0;startSize=24;fillColor=#dae8fc;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1200" y="581" as="sourcePoint" />
-            <mxPoint x="1320" y="581" as="targetPoint" />
+            <mxPoint x="1241" y="141" as="sourcePoint" />
+            <mxPoint x="1361" y="141" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wl2UaFdUEnC7MNGtePg4-6" value="is a part of" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;fontFamily=Architects Daughter;fontColor=#5AA9E6;container=0;" vertex="1" connectable="0" parent="Wl2UaFdUEnC7MNGtePg4-5">
           <mxGeometry x="-0.2519" y="1" relative="1" as="geometry">
             <mxPoint x="15" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pQFuM8vd_xA0kHSDYnrv-1" value="Party" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=3;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1040" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="pQFuM8vd_xA0kHSDYnrv-2" value="Party Role" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=3;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1158.77" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="pQFuM8vd_xA0kHSDYnrv-3" value="Party Role Relationship" style="html=1;whiteSpace=wrap;fontSize=9;fontStyle=3;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1278.74" width="78.74" height="39.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
