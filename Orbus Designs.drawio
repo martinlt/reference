@@ -8402,13 +8402,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MenvBeeTPzMNVQ-_tfkH-1" value="specifies ▼" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-2" target="HkKuGHYAYNXZogzJ7awR-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+        <mxCell id="MenvBeeTPzMNVQ-_tfkH-1" value="defines ►" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HtOYgkVCEVAA06BIaJEc-1" target="HkKuGHYAYNXZogzJ7awR-3">
+          <mxGeometry x="-0.4529" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="519.13" y="210" as="sourcePoint" />
             <mxPoint x="519.13" y="291" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="420" />
+              <mxPoint x="519" y="420" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MenvBeeTPzMNVQ-_tfkH-2" value="is party&lt;div&gt;to&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;►&lt;/span&gt;&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-1" target="HkKuGHYAYNXZogzJ7awR-2">
@@ -8418,6 +8419,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MenvBeeTPzMNVQ-_tfkH-3" value="◄ is party&lt;div&gt;to&lt;/div&gt;" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-2" target="HkKuGHYAYNXZogzJ7awR-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409" y="190" as="sourcePoint" />
+            <mxPoint x="490" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtOYgkVCEVAA06BIaJEc-1" value="Access Rights" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="HtOYgkVCEVAA06BIaJEc-2" value="consists&lt;br&gt;of" style="endArrow=none;html=1;endSize=14;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=center;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;fontSize=9;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=default;strokeColor=#666666;fontColor=default;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#f5f5f5;" edge="1" parent="1" source="HkKuGHYAYNXZogzJ7awR-2">
+          <mxGeometry x="0.5039" relative="1" as="geometry">
+            <mxPoint x="689" y="329" as="sourcePoint" />
+            <mxPoint x="519" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HtOYgkVCEVAA06BIaJEc-4" value="Economic &amp;amp; Access Regulator" style="html=1;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="78.74" height="39.37" as="geometry" />
+        </mxCell>
+        <mxCell id="d3WRLzZ29XX6VlCCJOVT-1" value="approves ▼" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="HtOYgkVCEVAA06BIaJEc-4" target="HkKuGHYAYNXZogzJ7awR-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="409" y="190" as="sourcePoint" />
             <mxPoint x="490" y="190" as="targetPoint" />
