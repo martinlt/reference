@@ -8627,11 +8627,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="COM - Rail Access &amp; Planning" id="cTzHTRM5GpMyE4wsk-M5">
-    <mxGraphModel dx="2184" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="vjqtkCQCFBYRJ1DOWMHD-0" />
         <mxCell id="vjqtkCQCFBYRJ1DOWMHD-1" parent="vjqtkCQCFBYRJ1DOWMHD-0" />
-        <mxCell id="1Jpn0p5WjYtaPuPUMx7y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vjqtkCQCFBYRJ1DOWMHD-1">
+        <mxCell id="1Jpn0p5WjYtaPuPUMx7y-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="vjqtkCQCFBYRJ1DOWMHD-1">
           <mxGeometry x="10" y="15.87" width="1630" height="1144.13" as="geometry" />
         </mxCell>
         <mxCell id="1Jpn0p5WjYtaPuPUMx7y-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="vjqtkCQCFBYRJ1DOWMHD-1">
