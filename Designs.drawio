@@ -1194,7 +1194,7 @@
         <mxCell id="mwEYPwQGQnjljoeM1TC1-0" value="Renogy 300A SmartShunt" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="NJvEJZ4aA9XeihO6Z4_l-1">
           <mxGeometry x="495" y="399" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mwEYPwQGQnjljoeM1TC1-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;400A Bus Bar&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="NJvEJZ4aA9XeihO6Z4_l-1">
+        <mxCell id="mwEYPwQGQnjljoeM1TC1-1" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;400A - Bus Bar&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="NJvEJZ4aA9XeihO6Z4_l-1">
           <mxGeometry x="630" y="403" width="40" height="21" as="geometry" />
         </mxCell>
         <mxCell id="mwEYPwQGQnjljoeM1TC1-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;strokeColor=#000000;exitX=-0.024;exitY=0.688;exitDx=0;exitDy=0;fillColor=#e51400;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="NJvEJZ4aA9XeihO6Z4_l-1" source="NJvEJZ4aA9XeihO6Z4_l-50" target="mwEYPwQGQnjljoeM1TC1-1">
