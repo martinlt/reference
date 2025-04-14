@@ -1133,8 +1133,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5MWbGMtLDQqyf9DeaWIR-21" value="&lt;b&gt;Water Heater&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NJvEJZ4aA9XeihO6Z4_l-1" vertex="1">
-          <mxGeometry x="575" y="290" width="70" height="70" as="geometry" />
+        <mxCell id="5MWbGMtLDQqyf9DeaWIR-21" value="&lt;b&gt;Venice 15L 1.5kW Compact Undersink Water Heater&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" parent="NJvEJZ4aA9XeihO6Z4_l-1" vertex="1">
+          <mxGeometry x="575" y="255.00000000000003" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5MWbGMtLDQqyf9DeaWIR-22" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;font-size: 8px;&quot;&gt;240V Fused Spur&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fontSize=8;fillColor=#f8cecc;strokeColor=#b85450;" parent="NJvEJZ4aA9XeihO6Z4_l-1" vertex="1">
           <mxGeometry x="700" y="260" width="40" height="60" as="geometry" />
@@ -1155,7 +1155,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5MWbGMtLDQqyf9DeaWIR-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;strokeColor=#001DBC;exitX=1.064;exitY=0.267;exitDx=0;exitDy=0;entryX=-0.057;entryY=0.83;entryDx=0;entryDy=0;fillColor=#0050ef;exitPerimeter=0;entryPerimeter=0;" parent="NJvEJZ4aA9XeihO6Z4_l-1" source="5MWbGMtLDQqyf9DeaWIR-21" target="5MWbGMtLDQqyf9DeaWIR-22" edge="1">
+        <mxCell id="5MWbGMtLDQqyf9DeaWIR-25" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;strokeColor=#001DBC;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;" parent="NJvEJZ4aA9XeihO6Z4_l-1" source="5MWbGMtLDQqyf9DeaWIR-21" target="5MWbGMtLDQqyf9DeaWIR-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="285" as="sourcePoint" />
             <mxPoint x="850" y="130" as="targetPoint" />
