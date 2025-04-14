@@ -545,7 +545,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Electrical System" id="9CKkqen44Z3xtKH-FmrU">
-    <mxGraphModel dx="1230" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2152" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="NJvEJZ4aA9XeihO6Z4_l-0" />
         <mxCell id="NJvEJZ4aA9XeihO6Z4_l-1" parent="NJvEJZ4aA9XeihO6Z4_l-0" />
@@ -856,7 +856,7 @@
         </mxCell>
         <mxCell id="NJvEJZ4aA9XeihO6Z4_l-55" value="50mm" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="NJvEJZ4aA9XeihO6Z4_l-54" vertex="1" connectable="0">
           <mxGeometry x="-0.3355" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="27" as="offset" />
+            <mxPoint x="7" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NJvEJZ4aA9XeihO6Z4_l-56" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;strokeColor=#B20000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NJvEJZ4aA9XeihO6Z4_l-1" source="NJvEJZ4aA9XeihO6Z4_l-50" target="NJvEJZ4aA9XeihO6Z4_l-51" edge="1">
