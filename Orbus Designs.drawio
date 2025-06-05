@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6" pages="20">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.9" pages="20">
   <diagram name="Target Refactored Technology Reference Model with SBBs" id="SIktNvN6uYkvuXpSLi8J">
-    <mxGraphModel dx="2580" dy="1254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1599" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-0" />
         <mxCell id="OTe2vGBHk36OC4tpqmDM-1" parent="OTe2vGBHk36OC4tpqmDM-0" />
@@ -427,7 +427,7 @@
         <mxCell id="OTe2vGBHk36OC4tpqmDM-142" value="P6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#FFFFCC;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="OTe2vGBHk36OC4tpqmDM-1" vertex="1">
           <mxGeometry x="67.5" y="340" width="75" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="OTe2vGBHk36OC4tpqmDM-143" value="Microsoft Project" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#FFFFCC;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="OTe2vGBHk36OC4tpqmDM-1" vertex="1">
+        <mxCell id="OTe2vGBHk36OC4tpqmDM-143" value="Microsoft Planner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#FFFFCC;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="OTe2vGBHk36OC4tpqmDM-1" vertex="1">
           <mxGeometry x="69.5" y="330" width="75" height="10" as="geometry" />
         </mxCell>
         <mxCell id="OTe2vGBHk36OC4tpqmDM-144" value="AIMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;labelBackgroundColor=#FFFFCC;labelBorderColor=#808080;spacingLeft=0;spacingBottom=0;spacing=2;spacingTop=0;spacingRight=0;textShadow=0;" parent="OTe2vGBHk36OC4tpqmDM-1" vertex="1">
